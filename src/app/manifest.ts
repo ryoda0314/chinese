@@ -1,7 +1,8 @@
 import type { MetadataRoute } from "next";
 import { ja } from "@/lib/i18n/ja";
 
-// A home-screen install opens straight into the rain. Icons: the mark (public/icons, rendered from src/app/icon.svg).
+// A home-screen install opens straight into the rain. Icons: public/icons, cut from design/icon-source-chatgpt.png by
+// design/make-icons.py.
 export default function manifest(): MetadataRoute.Manifest {
   return {
     name: ja.name,

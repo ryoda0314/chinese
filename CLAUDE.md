@@ -144,3 +144,7 @@ no streaks, no badges, no forced review, no tone theory up front. The sister app
   faint and dashed.
 - Pure modules imported by tests and scripts use `.ts` extensions in their imports (Node strips types).
 - Phone first; from 720 px the tabs become a column on the left (BottomNav, the same CSS as ことのあめ).
+- The app icon is the one picture with gradients: a generated image the maker chose (`design/icon-source-chatgpt.png`).
+  `python design/make-icons.py design/icon-source-chatgpt.png .` (Pillow, numpy) cuts its card out and writes
+  `public/icons/` (transparent corners; maskable on a full square), `src/app/icon.png`, `apple-icon.png`,
+  `favicon.ico`. `Logo` shows `icon-192.png`.
