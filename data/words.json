@@ -1,0 +1,2474 @@
+[
+ {
+  "id": "ba1-2142",
+  "hanzi": "八",
+  "pinyin": "bā",
+  "ja": "八"
+ },
+ {
+  "id": "ba2-737c",
+  "hanzi": "拔",
+  "pinyin": "bá",
+  "ja": "抜く"
+ },
+ {
+  "id": "ba3-b3ba",
+  "hanzi": "把",
+  "pinyin": "bǎ",
+  "ja": "〜を"
+ },
+ {
+  "id": "ba4-a732",
+  "hanzi": "爸",
+  "pinyin": "bà",
+  "ja": "お父さん"
+ },
+ {
+  "id": "bai2-4a1a",
+  "hanzi": "白",
+  "pinyin": "bái",
+  "ja": "白い"
+ },
+ {
+  "id": "bai3-5013",
+  "hanzi": "百",
+  "pinyin": "bǎi",
+  "ja": "百"
+ },
+ {
+  "id": "bai4-cbc5",
+  "hanzi": "拜",
+  "pinyin": "bài",
+  "ja": "拝む"
+ },
+ {
+  "id": "ban1-1f7f",
+  "hanzi": "班",
+  "pinyin": "bān",
+  "ja": "クラス"
+ },
+ {
+  "id": "ban1-cca9",
+  "hanzi": "搬",
+  "pinyin": "bān",
+  "ja": "運ぶ"
+ },
+ {
+  "id": "ban3-2793",
+  "hanzi": "板",
+  "pinyin": "bǎn",
+  "ja": "板"
+ },
+ {
+  "id": "ban4-2bff",
+  "hanzi": "半",
+  "pinyin": "bàn",
+  "ja": "半分"
+ },
+ {
+  "id": "bang1-703a",
+  "hanzi": "帮",
+  "pinyin": "bāng",
+  "ja": "手伝う"
+ },
+ {
+  "id": "bang4-3b88",
+  "hanzi": "棒",
+  "pinyin": "bàng",
+  "ja": "すごい"
+ },
+ {
+  "id": "bao1-7e39",
+  "hanzi": "包",
+  "pinyin": "bāo",
+  "ja": "かばん"
+ },
+ {
+  "id": "bao1zi5-bd1c",
+  "hanzi": "包子",
+  "pinyin": "bāo zi",
+  "ja": "肉まん"
+ },
+ {
+  "id": "bao3-6dab",
+  "hanzi": "饱",
+  "pinyin": "bǎo",
+  "ja": "おなかいっぱい"
+ },
+ {
+  "id": "bao4-7bde",
+  "hanzi": "抱",
+  "pinyin": "bào",
+  "ja": "抱く"
+ },
+ {
+  "id": "bao4zi5-a556",
+  "hanzi": "豹子",
+  "pinyin": "bào zi",
+  "ja": "ヒョウ"
+ },
+ {
+  "id": "bei1zi5-a49c",
+  "hanzi": "杯子",
+  "pinyin": "bēi zi",
+  "ja": "コップ"
+ },
+ {
+  "id": "bei3jing1-685e",
+  "hanzi": "北京",
+  "pinyin": "běi jīng",
+  "ja": "北京"
+ },
+ {
+  "id": "bei4jing3-b13d",
+  "hanzi": "背景",
+  "pinyin": "bèi jǐng",
+  "ja": "背景"
+ },
+ {
+  "id": "bei4zi5-e1d1",
+  "hanzi": "被子",
+  "pinyin": "bèi zi",
+  "ja": "掛け布団"
+ },
+ {
+  "id": "bi3-6810",
+  "hanzi": "比",
+  "pinyin": "bǐ",
+  "ja": "比べる"
+ },
+ {
+  "id": "bi4-2ce3",
+  "hanzi": "闭",
+  "pinyin": "bì",
+  "ja": "閉じる"
+ },
+ {
+  "id": "ca1-7dbe",
+  "hanzi": "擦",
+  "pinyin": "cā",
+  "ja": "拭く"
+ },
+ {
+  "id": "cai2-b277",
+  "hanzi": "才",
+  "pinyin": "cái",
+  "ja": "やっと"
+ },
+ {
+  "id": "cai4-7b4b",
+  "hanzi": "菜",
+  "pinyin": "cài",
+  "ja": "料理"
+ },
+ {
+  "id": "cao3-6744",
+  "hanzi": "草",
+  "pinyin": "cǎo",
+  "ja": "草"
+ },
+ {
+  "id": "ceng2-7895",
+  "hanzi": "层",
+  "pinyin": "céng",
+  "ja": "〜階"
+ },
+ {
+  "id": "cha1-f565",
+  "hanzi": "插",
+  "pinyin": "chā",
+  "ja": "挿す"
+ },
+ {
+  "id": "chai2-0dec",
+  "hanzi": "柴",
+  "pinyin": "chái",
+  "ja": "たきぎ"
+ },
+ {
+  "id": "chan2-0f45",
+  "hanzi": "缠",
+  "pinyin": "chán",
+  "ja": "まとわりつく"
+ },
+ {
+  "id": "chao3-2c52",
+  "hanzi": "炒",
+  "pinyin": "chǎo",
+  "ja": "炒める"
+ },
+ {
+  "id": "chao3-8268",
+  "hanzi": "吵",
+  "pinyin": "chǎo",
+  "ja": "うるさい"
+ },
+ {
+  "id": "chen2jiu4-ed43",
+  "hanzi": "陈旧",
+  "pinyin": "chén jiù",
+  "ja": "古びた"
+ },
+ {
+  "id": "cheng2-bb35",
+  "hanzi": "成",
+  "pinyin": "chéng",
+  "ja": "〜になる"
+ },
+ {
+  "id": "cheng2jiu4-5dc7",
+  "hanzi": "成就",
+  "pinyin": "chéng jiù",
+  "ja": "成果"
+ },
+ {
+  "id": "cheng2shi2-ef19",
+  "hanzi": "诚实",
+  "pinyin": "chéng shí",
+  "ja": "誠実"
+ },
+ {
+  "id": "cheng2shi4-5901",
+  "hanzi": "城市",
+  "pinyin": "chéng shì",
+  "ja": "都市"
+ },
+ {
+  "id": "chi1-a10d",
+  "hanzi": "吃",
+  "pinyin": "chī",
+  "ja": "食べる"
+ },
+ {
+  "id": "chi2-0c28",
+  "hanzi": "迟",
+  "pinyin": "chí",
+  "ja": "遅れる"
+ },
+ {
+  "id": "chi3-683c",
+  "hanzi": "尺",
+  "pinyin": "chǐ",
+  "ja": "物差し"
+ },
+ {
+  "id": "chong1-e429",
+  "hanzi": "冲",
+  "pinyin": "chōng",
+  "ja": "突き進む"
+ },
+ {
+  "id": "chong2-01e3",
+  "hanzi": "虫",
+  "pinyin": "chóng",
+  "ja": "虫"
+ },
+ {
+  "id": "chou1-ca48",
+  "hanzi": "抽",
+  "pinyin": "chōu",
+  "ja": "吸う"
+ },
+ {
+  "id": "chou2-59ae",
+  "hanzi": "愁",
+  "pinyin": "chóu",
+  "ja": "悩む"
+ },
+ {
+  "id": "chou3-aa9d",
+  "hanzi": "丑",
+  "pinyin": "chǒu",
+  "ja": "醜い"
+ },
+ {
+  "id": "chu1-69e8",
+  "hanzi": "出",
+  "pinyin": "chū",
+  "ja": "出る"
+ },
+ {
+  "id": "chuan2-2eaf",
+  "hanzi": "船",
+  "pinyin": "chuán",
+  "ja": "船"
+ },
+ {
+  "id": "chuang1-1a3d",
+  "hanzi": "窗",
+  "pinyin": "chuāng",
+  "ja": "窓"
+ },
+ {
+  "id": "chuang2-a30d",
+  "hanzi": "床",
+  "pinyin": "chuáng",
+  "ja": "ベッド"
+ },
+ {
+  "id": "chuang3-924b",
+  "hanzi": "闯",
+  "pinyin": "chuǎng",
+  "ja": "飛び込む"
+ },
+ {
+  "id": "chun1-3e45",
+  "hanzi": "春",
+  "pinyin": "chūn",
+  "ja": "春"
+ },
+ {
+  "id": "chuo1-42b6",
+  "hanzi": "戳",
+  "pinyin": "chuō",
+  "ja": "突く"
+ },
+ {
+  "id": "ci2-df99",
+  "hanzi": "词",
+  "pinyin": "cí",
+  "ja": "単語"
+ },
+ {
+  "id": "ci4-5e5b",
+  "hanzi": "次",
+  "pinyin": "cì",
+  "ja": "〜回"
+ },
+ {
+  "id": "cong2-8ab9",
+  "hanzi": "从",
+  "pinyin": "cóng",
+  "ja": "〜から"
+ },
+ {
+  "id": "cou4-4d61",
+  "hanzi": "凑",
+  "pinyin": "còu",
+  "ja": "寄せ集める"
+ },
+ {
+  "id": "cu1-4c9c",
+  "hanzi": "粗",
+  "pinyin": "cū",
+  "ja": "太い"
+ },
+ {
+  "id": "cun1-4211",
+  "hanzi": "村",
+  "pinyin": "cūn",
+  "ja": "村"
+ },
+ {
+  "id": "cuo4-cc73",
+  "hanzi": "错",
+  "pinyin": "cuò",
+  "ja": "間違い"
+ },
+ {
+  "id": "da3-6919",
+  "hanzi": "打",
+  "pinyin": "dǎ",
+  "ja": "打つ"
+ },
+ {
+  "id": "da4-0889",
+  "hanzi": "大",
+  "pinyin": "dà",
+  "ja": "大きい"
+ },
+ {
+  "id": "da4xue2-858b",
+  "hanzi": "大学",
+  "pinyin": "dà xué",
+  "ja": "大学"
+ },
+ {
+  "id": "da4xue3-7c72",
+  "hanzi": "大雪",
+  "pinyin": "dà xuě",
+  "ja": "大雪"
+ },
+ {
+  "id": "dao1-c8f6",
+  "hanzi": "刀",
+  "pinyin": "dāo",
+  "ja": "ナイフ"
+ },
+ {
+  "id": "dao3-4543",
+  "hanzi": "岛",
+  "pinyin": "dǎo",
+  "ja": "島"
+ },
+ {
+  "id": "dao4-792b",
+  "hanzi": "到",
+  "pinyin": "dào",
+  "ja": "着く"
+ },
+ {
+  "id": "deng1-7e6e",
+  "hanzi": "灯",
+  "pinyin": "dēng",
+  "ja": "明かり"
+ },
+ {
+  "id": "deng3-3d3e",
+  "hanzi": "等",
+  "pinyin": "děng",
+  "ja": "待つ"
+ },
+ {
+  "id": "deng4-f350",
+  "hanzi": "凳",
+  "pinyin": "dèng",
+  "ja": "腰かけ"
+ },
+ {
+  "id": "di1-b9ee",
+  "hanzi": "低",
+  "pinyin": "dī",
+  "ja": "低い"
+ },
+ {
+  "id": "di4-2763",
+  "hanzi": "弟",
+  "pinyin": "dì",
+  "ja": "弟"
+ },
+ {
+  "id": "diao4-dd73",
+  "hanzi": "掉",
+  "pinyin": "diào",
+  "ja": "落ちる"
+ },
+ {
+  "id": "dong1-520b",
+  "hanzi": "东",
+  "pinyin": "dōng",
+  "ja": "東"
+ },
+ {
+  "id": "dong3-632b",
+  "hanzi": "懂",
+  "pinyin": "dǒng",
+  "ja": "分かる"
+ },
+ {
+  "id": "dong4-b30d",
+  "hanzi": "动",
+  "pinyin": "dòng",
+  "ja": "動く"
+ },
+ {
+  "id": "dou4-d081",
+  "hanzi": "豆",
+  "pinyin": "dòu",
+  "ja": "豆"
+ },
+ {
+  "id": "du2-d001",
+  "hanzi": "读",
+  "pinyin": "dú",
+  "ja": "読む"
+ },
+ {
+  "id": "du3-d07c",
+  "hanzi": "堵",
+  "pinyin": "dǔ",
+  "ja": "ふさがる"
+ },
+ {
+  "id": "du4-304f",
+  "hanzi": "度",
+  "pinyin": "dù",
+  "ja": "度"
+ },
+ {
+  "id": "du4zi5-e102",
+  "hanzi": "肚子",
+  "pinyin": "dù zi",
+  "ja": "おなか"
+ },
+ {
+  "id": "duo1-451b",
+  "hanzi": "多",
+  "pinyin": "duō",
+  "ja": "多い"
+ },
+ {
+  "id": "duo2-7085",
+  "hanzi": "夺",
+  "pinyin": "duó",
+  "ja": "奪う"
+ },
+ {
+  "id": "duo3-7497",
+  "hanzi": "躲",
+  "pinyin": "duǒ",
+  "ja": "隠れる"
+ },
+ {
+  "id": "duo4-600c",
+  "hanzi": "剁",
+  "pinyin": "duò",
+  "ja": "刻む"
+ },
+ {
+  "id": "fa1-b089",
+  "hanzi": "发",
+  "pinyin": "fā",
+  "ja": "送る"
+ },
+ {
+  "id": "fan3wen4-2056",
+  "hanzi": "反问",
+  "pinyin": "fǎn wèn",
+  "ja": "問い返す"
+ },
+ {
+  "id": "fan4-cded",
+  "hanzi": "饭",
+  "pinyin": "fàn",
+  "ja": "ごはん"
+ },
+ {
+  "id": "fang1-2e9c",
+  "hanzi": "方",
+  "pinyin": "fāng",
+  "ja": "四角い"
+ },
+ {
+  "id": "fang2-510c",
+  "hanzi": "房",
+  "pinyin": "fáng",
+  "ja": "部屋"
+ },
+ {
+  "id": "fang3wen4-7f56",
+  "hanzi": "访问",
+  "pinyin": "fǎng wèn",
+  "ja": "訪問する"
+ },
+ {
+  "id": "fang4-6967",
+  "hanzi": "放",
+  "pinyin": "fàng",
+  "ja": "置く"
+ },
+ {
+  "id": "fei1-322b",
+  "hanzi": "飞",
+  "pinyin": "fēi",
+  "ja": "飛ぶ"
+ },
+ {
+  "id": "fei2-e650",
+  "hanzi": "肥",
+  "pinyin": "féi",
+  "ja": "太った"
+ },
+ {
+  "id": "fei4-f07a",
+  "hanzi": "费",
+  "pinyin": "fèi",
+  "ja": "費用"
+ },
+ {
+  "id": "fen1-0d74",
+  "hanzi": "分",
+  "pinyin": "fēn",
+  "ja": "分"
+ },
+ {
+  "id": "fen3-febc",
+  "hanzi": "粉",
+  "pinyin": "fěn",
+  "ja": "粉"
+ },
+ {
+  "id": "fen4-aa9f",
+  "hanzi": "份",
+  "pinyin": "fèn",
+  "ja": "〜人前"
+ },
+ {
+  "id": "feng1-5344",
+  "hanzi": "风",
+  "pinyin": "fēng",
+  "ja": "風"
+ },
+ {
+  "id": "fu1-79b3",
+  "hanzi": "夫",
+  "pinyin": "fū",
+  "ja": "夫"
+ },
+ {
+  "id": "fu2-c792",
+  "hanzi": "福",
+  "pinyin": "fú",
+  "ja": "福"
+ },
+ {
+  "id": "fu3-57c8",
+  "hanzi": "斧",
+  "pinyin": "fǔ",
+  "ja": "斧"
+ },
+ {
+  "id": "gao1-b096",
+  "hanzi": "高",
+  "pinyin": "gāo",
+  "ja": "高い"
+ },
+ {
+  "id": "gao3-c075",
+  "hanzi": "搞",
+  "pinyin": "gǎo",
+  "ja": "やる"
+ },
+ {
+  "id": "ge1-3a38",
+  "hanzi": "歌",
+  "pinyin": "gē",
+  "ja": "歌"
+ },
+ {
+  "id": "ge1-cdfd",
+  "hanzi": "哥",
+  "pinyin": "gē",
+  "ja": "兄"
+ },
+ {
+  "id": "ge4-f7b2",
+  "hanzi": "个",
+  "pinyin": "gè",
+  "ja": "〜個"
+ },
+ {
+  "id": "gou3-2fcb",
+  "hanzi": "狗",
+  "pinyin": "gǒu",
+  "ja": "犬"
+ },
+ {
+  "id": "gou4-a69b",
+  "hanzi": "够",
+  "pinyin": "gòu",
+  "ja": "足りる"
+ },
+ {
+  "id": "gu3-8932",
+  "hanzi": "古",
+  "pinyin": "gǔ",
+  "ja": "古い"
+ },
+ {
+  "id": "guai4-7bc1",
+  "hanzi": "怪",
+  "pinyin": "guài",
+  "ja": "変な"
+ },
+ {
+  "id": "guan1-a333",
+  "hanzi": "关",
+  "pinyin": "guān",
+  "ja": "閉める"
+ },
+ {
+  "id": "guang1-5ae5",
+  "hanzi": "光",
+  "pinyin": "guāng",
+  "ja": "光"
+ },
+ {
+  "id": "guo3-d62c",
+  "hanzi": "果",
+  "pinyin": "guǒ",
+  "ja": "果物"
+ },
+ {
+  "id": "guo4-e19e",
+  "hanzi": "过",
+  "pinyin": "guò",
+  "ja": "過ぎる"
+ },
+ {
+  "id": "ha1-3d4e",
+  "hanzi": "哈",
+  "pinyin": "hā",
+  "ja": "はは（笑い声）"
+ },
+ {
+  "id": "han4-4743",
+  "hanzi": "汗",
+  "pinyin": "hàn",
+  "ja": "汗"
+ },
+ {
+  "id": "he1-9982",
+  "hanzi": "喝",
+  "pinyin": "hē",
+  "ja": "飲む"
+ },
+ {
+  "id": "he2-2aa3",
+  "hanzi": "河",
+  "pinyin": "hé",
+  "ja": "川"
+ },
+ {
+  "id": "hei1-1518",
+  "hanzi": "黑",
+  "pinyin": "hēi",
+  "ja": "黒い"
+ },
+ {
+  "id": "hen3-8b46",
+  "hanzi": "狠",
+  "pinyin": "hěn",
+  "ja": "ひどい"
+ },
+ {
+  "id": "hen4-4b14",
+  "hanzi": "恨",
+  "pinyin": "hèn",
+  "ja": "恨む"
+ },
+ {
+  "id": "heng1-0cc0",
+  "hanzi": "哼",
+  "pinyin": "hēng",
+  "ja": "鼻歌を歌う"
+ },
+ {
+  "id": "hou2-a446",
+  "hanzi": "猴",
+  "pinyin": "hóu",
+  "ja": "猿"
+ },
+ {
+  "id": "hou4-7b55",
+  "hanzi": "后",
+  "pinyin": "hòu",
+  "ja": "後ろ"
+ },
+ {
+  "id": "hu1-5869",
+  "hanzi": "呼",
+  "pinyin": "hū",
+  "ja": "息を吐く"
+ },
+ {
+  "id": "hu2-58c2",
+  "hanzi": "湖",
+  "pinyin": "hú",
+  "ja": "湖"
+ },
+ {
+  "id": "hu3-e3b6",
+  "hanzi": "虎",
+  "pinyin": "hǔ",
+  "ja": "虎"
+ },
+ {
+  "id": "hua1-9be4",
+  "hanzi": "花",
+  "pinyin": "huā",
+  "ja": "花"
+ },
+ {
+  "id": "hua2-2f0d",
+  "hanzi": "滑",
+  "pinyin": "huá",
+  "ja": "滑る"
+ },
+ {
+  "id": "hua4-9160",
+  "hanzi": "话",
+  "pinyin": "huà",
+  "ja": "話"
+ },
+ {
+  "id": "hui2-5b72",
+  "hanzi": "回",
+  "pinyin": "huí",
+  "ja": "帰る"
+ },
+ {
+  "id": "hui4-577c",
+  "hanzi": "会",
+  "pinyin": "huì",
+  "ja": "できる"
+ },
+ {
+  "id": "huo2-f3e7",
+  "hanzi": "活",
+  "pinyin": "huó",
+  "ja": "生きる"
+ },
+ {
+  "id": "huo4-7855",
+  "hanzi": "货",
+  "pinyin": "huò",
+  "ja": "品物"
+ },
+ {
+  "id": "ji1-5109",
+  "hanzi": "鸡",
+  "pinyin": "jī",
+  "ja": "鶏"
+ },
+ {
+  "id": "ji1hui4-0692",
+  "hanzi": "机会",
+  "pinyin": "jī huì",
+  "ja": "機会"
+ },
+ {
+  "id": "ji2-eec9",
+  "hanzi": "急",
+  "pinyin": "jí",
+  "ja": "急ぐ"
+ },
+ {
+  "id": "ji2hui4-8f93",
+  "hanzi": "集会",
+  "pinyin": "jí huì",
+  "ja": "集会"
+ },
+ {
+  "id": "ji3-68bf",
+  "hanzi": "几",
+  "pinyin": "jǐ",
+  "ja": "いくつ"
+ },
+ {
+  "id": "ji4-ebaf",
+  "hanzi": "记",
+  "pinyin": "jì",
+  "ja": "覚える"
+ },
+ {
+  "id": "jia1-7de8",
+  "hanzi": "家",
+  "pinyin": "jiā",
+  "ja": "家"
+ },
+ {
+  "id": "jia4-1da2",
+  "hanzi": "嫁",
+  "pinyin": "jià",
+  "ja": "嫁ぐ"
+ },
+ {
+  "id": "jian4-d65f",
+  "hanzi": "见",
+  "pinyin": "jiàn",
+  "ja": "会う"
+ },
+ {
+  "id": "jiang3-860f",
+  "hanzi": "讲",
+  "pinyin": "jiǎng",
+  "ja": "話す"
+ },
+ {
+  "id": "jiang4-4f28",
+  "hanzi": "酱",
+  "pinyin": "jiàng",
+  "ja": "みそ"
+ },
+ {
+  "id": "jiao1-422e",
+  "hanzi": "交",
+  "pinyin": "jiāo",
+  "ja": "渡す"
+ },
+ {
+  "id": "jiao4shi1-aa55",
+  "hanzi": "教师",
+  "pinyin": "jiào shī",
+  "ja": "教師"
+ },
+ {
+  "id": "jiao4shi4-f325",
+  "hanzi": "教室",
+  "pinyin": "jiào shì",
+  "ja": "教室"
+ },
+ {
+  "id": "jin1-b59d",
+  "hanzi": "金",
+  "pinyin": "jīn",
+  "ja": "金"
+ },
+ {
+  "id": "jin1yu2-a330",
+  "hanzi": "金鱼",
+  "pinyin": "jīn yú",
+  "ja": "金魚"
+ },
+ {
+  "id": "jin4-681b",
+  "hanzi": "进",
+  "pinyin": "jìn",
+  "ja": "入る"
+ },
+ {
+  "id": "jing1yu2-2208",
+  "hanzi": "鲸鱼",
+  "pinyin": "jīng yú",
+  "ja": "クジラ"
+ },
+ {
+  "id": "jing4-f75f",
+  "hanzi": "静",
+  "pinyin": "jìng",
+  "ja": "静かな"
+ },
+ {
+  "id": "jiu3-27a2",
+  "hanzi": "九",
+  "pinyin": "jiǔ",
+  "ja": "九"
+ },
+ {
+  "id": "jiu4-b64e",
+  "hanzi": "旧",
+  "pinyin": "jiù",
+  "ja": "古い"
+ },
+ {
+  "id": "ju4-27df",
+  "hanzi": "句",
+  "pinyin": "jù",
+  "ja": "文"
+ },
+ {
+  "id": "kai1fan4-46be",
+  "hanzi": "开饭",
+  "pinyin": "kāi fàn",
+  "ja": "ごはんにする"
+ },
+ {
+  "id": "kai1fang4-7506",
+  "hanzi": "开放",
+  "pinyin": "kāi fàng",
+  "ja": "開放する"
+ },
+ {
+  "id": "kao3-ed96",
+  "hanzi": "考",
+  "pinyin": "kǎo",
+  "ja": "試験を受ける"
+ },
+ {
+  "id": "kao4-3f86",
+  "hanzi": "靠",
+  "pinyin": "kào",
+  "ja": "もたれる"
+ },
+ {
+  "id": "ke1-dced",
+  "hanzi": "科",
+  "pinyin": "kē",
+  "ja": "科"
+ },
+ {
+  "id": "kou3-1e7b",
+  "hanzi": "口",
+  "pinyin": "kǒu",
+  "ja": "口"
+ },
+ {
+  "id": "ku3-f3c1",
+  "hanzi": "苦",
+  "pinyin": "kǔ",
+  "ja": "苦い"
+ },
+ {
+  "id": "kuai4-e6e9",
+  "hanzi": "快",
+  "pinyin": "kuài",
+  "ja": "速い"
+ },
+ {
+  "id": "kuan1-6395",
+  "hanzi": "宽",
+  "pinyin": "kuān",
+  "ja": "広い"
+ },
+ {
+  "id": "lai2-4b1d",
+  "hanzi": "来",
+  "pinyin": "lái",
+  "ja": "来る"
+ },
+ {
+  "id": "lai4-572f",
+  "hanzi": "赖",
+  "pinyin": "lài",
+  "ja": "頼る"
+ },
+ {
+  "id": "lan2-a44c",
+  "hanzi": "蓝",
+  "pinyin": "lán",
+  "ja": "青い"
+ },
+ {
+  "id": "lan3-56f5",
+  "hanzi": "懒",
+  "pinyin": "lǎn",
+  "ja": "怠ける"
+ },
+ {
+  "id": "lan4-43a5",
+  "hanzi": "烂",
+  "pinyin": "làn",
+  "ja": "腐った"
+ },
+ {
+  "id": "lang2-84d6",
+  "hanzi": "狼",
+  "pinyin": "láng",
+  "ja": "オオカミ"
+ },
+ {
+  "id": "lang4-a23e",
+  "hanzi": "浪",
+  "pinyin": "làng",
+  "ja": "波"
+ },
+ {
+  "id": "lao3shi1-494f",
+  "hanzi": "老师",
+  "pinyin": "lǎo shī",
+  "ja": "先生"
+ },
+ {
+  "id": "lao3shi4-e5d6",
+  "hanzi": "老是",
+  "pinyin": "lǎo shì",
+  "ja": "いつも"
+ },
+ {
+  "id": "li2-c76a",
+  "hanzi": "梨",
+  "pinyin": "lí",
+  "ja": "梨"
+ },
+ {
+  "id": "li3-cdd2",
+  "hanzi": "李",
+  "pinyin": "lǐ",
+  "ja": "スモモ"
+ },
+ {
+  "id": "lian2xi4-4dd6",
+  "hanzi": "联系",
+  "pinyin": "lián xì",
+  "ja": "連絡"
+ },
+ {
+  "id": "lian4xi2-5b7f",
+  "hanzi": "练习",
+  "pinyin": "liàn xí",
+  "ja": "練習"
+ },
+ {
+  "id": "lin2-020f",
+  "hanzi": "林",
+  "pinyin": "lín",
+  "ja": "林"
+ },
+ {
+  "id": "ling2-e0d7",
+  "hanzi": "零",
+  "pinyin": "líng",
+  "ja": "ゼロ"
+ },
+ {
+  "id": "liu2-0990",
+  "hanzi": "留",
+  "pinyin": "liú",
+  "ja": "残る"
+ },
+ {
+  "id": "liu3-0dc0",
+  "hanzi": "柳",
+  "pinyin": "liǔ",
+  "ja": "柳"
+ },
+ {
+  "id": "long2-075e",
+  "hanzi": "龙",
+  "pinyin": "lóng",
+  "ja": "竜"
+ },
+ {
+  "id": "lou2-598e",
+  "hanzi": "楼",
+  "pinyin": "lóu",
+  "ja": "建物"
+ },
+ {
+  "id": "lou4-114e",
+  "hanzi": "漏",
+  "pinyin": "lòu",
+  "ja": "漏れる"
+ },
+ {
+  "id": "lu2-680d",
+  "hanzi": "炉",
+  "pinyin": "lú",
+  "ja": "炉"
+ },
+ {
+  "id": "lu4-de80",
+  "hanzi": "路",
+  "pinyin": "lù",
+  "ja": "道"
+ },
+ {
+  "id": "luan3-e040",
+  "hanzi": "卵",
+  "pinyin": "luǎn",
+  "ja": "卵"
+ },
+ {
+  "id": "luo2-000e",
+  "hanzi": "锣",
+  "pinyin": "luó",
+  "ja": "どら"
+ },
+ {
+  "id": "lv2-49de",
+  "hanzi": "驴",
+  "pinyin": "lǘ",
+  "ja": "ロバ"
+ },
+ {
+  "id": "lv4-5796",
+  "hanzi": "绿",
+  "pinyin": "lǜ",
+  "ja": "緑の"
+ },
+ {
+  "id": "ma1-e391",
+  "hanzi": "妈",
+  "pinyin": "mā",
+  "ja": "お母さん"
+ },
+ {
+  "id": "ma2-433e",
+  "hanzi": "麻",
+  "pinyin": "má",
+  "ja": "しびれる"
+ },
+ {
+  "id": "ma3-7d39",
+  "hanzi": "马",
+  "pinyin": "mǎ",
+  "ja": "馬"
+ },
+ {
+  "id": "ma4-6343",
+  "hanzi": "骂",
+  "pinyin": "mà",
+  "ja": "叱る"
+ },
+ {
+  "id": "mai2-2c49",
+  "hanzi": "埋",
+  "pinyin": "mái",
+  "ja": "埋める"
+ },
+ {
+  "id": "mai3-b6c5",
+  "hanzi": "买",
+  "pinyin": "mǎi",
+  "ja": "買う"
+ },
+ {
+  "id": "mai4-df45",
+  "hanzi": "卖",
+  "pinyin": "mài",
+  "ja": "売る"
+ },
+ {
+  "id": "mao1-e10b",
+  "hanzi": "猫",
+  "pinyin": "māo",
+  "ja": "猫"
+ },
+ {
+  "id": "mao2-f749",
+  "hanzi": "毛",
+  "pinyin": "máo",
+  "ja": "毛"
+ },
+ {
+  "id": "mei3li4-e159",
+  "hanzi": "美丽",
+  "pinyin": "měi lì",
+  "ja": "美しい"
+ },
+ {
+  "id": "mei4li4-abe5",
+  "hanzi": "魅力",
+  "pinyin": "mèi lì",
+  "ja": "魅力"
+ },
+ {
+  "id": "mi2-2ee7",
+  "hanzi": "迷",
+  "pinyin": "mí",
+  "ja": "迷う"
+ },
+ {
+  "id": "mi3-ee7f",
+  "hanzi": "米",
+  "pinyin": "mǐ",
+  "ja": "米"
+ },
+ {
+  "id": "mi4-d493",
+  "hanzi": "密",
+  "pinyin": "mì",
+  "ja": "密な"
+ },
+ {
+  "id": "mu4chuan2-8efa",
+  "hanzi": "木船",
+  "pinyin": "mù chuán",
+  "ja": "木の船"
+ },
+ {
+  "id": "mu4chuang2-c75f",
+  "hanzi": "木床",
+  "pinyin": "mù chuáng",
+  "ja": "木のベッド"
+ },
+ {
+  "id": "na2-748a",
+  "hanzi": "拿",
+  "pinyin": "ná",
+  "ja": "持つ"
+ },
+ {
+  "id": "na3-cd96",
+  "hanzi": "哪",
+  "pinyin": "nǎ",
+  "ja": "どれ"
+ },
+ {
+  "id": "na4-3270",
+  "hanzi": "那",
+  "pinyin": "nà",
+  "ja": "あれ"
+ },
+ {
+  "id": "nian2-6f14",
+  "hanzi": "年",
+  "pinyin": "nián",
+  "ja": "年"
+ },
+ {
+  "id": "nian4-13d0",
+  "hanzi": "念",
+  "pinyin": "niàn",
+  "ja": "声に出して読む"
+ },
+ {
+  "id": "niu2-bf9b",
+  "hanzi": "牛",
+  "pinyin": "niú",
+  "ja": "牛"
+ },
+ {
+  "id": "niu3-4642",
+  "hanzi": "扭",
+  "pinyin": "niǔ",
+  "ja": "ひねる"
+ },
+ {
+  "id": "nu3-c530",
+  "hanzi": "努",
+  "pinyin": "nǔ",
+  "ja": "努める"
+ },
+ {
+  "id": "nv3-26bc",
+  "hanzi": "女",
+  "pinyin": "nǚ",
+  "ja": "女の"
+ },
+ {
+  "id": "pa4-bc1c",
+  "hanzi": "怕",
+  "pinyin": "pà",
+  "ja": "怖がる"
+ },
+ {
+  "id": "pai2-265d",
+  "hanzi": "牌",
+  "pinyin": "pái",
+  "ja": "札"
+ },
+ {
+  "id": "pan2-15c7",
+  "hanzi": "盘",
+  "pinyin": "pán",
+  "ja": "大皿"
+ },
+ {
+  "id": "pang2-c12a",
+  "hanzi": "旁",
+  "pinyin": "páng",
+  "ja": "そば"
+ },
+ {
+  "id": "pao3-1516",
+  "hanzi": "跑",
+  "pinyin": "pǎo",
+  "ja": "走る"
+ },
+ {
+  "id": "pao4-b19a",
+  "hanzi": "泡",
+  "pinyin": "pào",
+  "ja": "浸す"
+ },
+ {
+  "id": "qi1-7db1",
+  "hanzi": "七",
+  "pinyin": "qī",
+  "ja": "七"
+ },
+ {
+  "id": "qi2-c058",
+  "hanzi": "骑",
+  "pinyin": "qí",
+  "ja": "乗る"
+ },
+ {
+  "id": "qi3-2919",
+  "hanzi": "起",
+  "pinyin": "qǐ",
+  "ja": "起きる"
+ },
+ {
+  "id": "qi4-b08d",
+  "hanzi": "气",
+  "pinyin": "qì",
+  "ja": "空気"
+ },
+ {
+  "id": "qian2-073d",
+  "hanzi": "前",
+  "pinyin": "qián",
+  "ja": "前"
+ },
+ {
+  "id": "qian2-db4b",
+  "hanzi": "钱",
+  "pinyin": "qián",
+  "ja": "お金"
+ },
+ {
+  "id": "qian3-d181",
+  "hanzi": "浅",
+  "pinyin": "qiǎn",
+  "ja": "浅い"
+ },
+ {
+  "id": "qian4-bdc9",
+  "hanzi": "欠",
+  "pinyin": "qiàn",
+  "ja": "借りがある"
+ },
+ {
+  "id": "qiang2-6512",
+  "hanzi": "墙",
+  "pinyin": "qiáng",
+  "ja": "壁"
+ },
+ {
+  "id": "qiao1-0a47",
+  "hanzi": "敲",
+  "pinyin": "qiāo",
+  "ja": "たたく"
+ },
+ {
+  "id": "qin1-a39a",
+  "hanzi": "亲",
+  "pinyin": "qīn",
+  "ja": "親しい"
+ },
+ {
+  "id": "qiu1-8d8f",
+  "hanzi": "秋",
+  "pinyin": "qiū",
+  "ja": "秋"
+ },
+ {
+  "id": "qiu2-f2af",
+  "hanzi": "球",
+  "pinyin": "qiú",
+  "ja": "ボール"
+ },
+ {
+  "id": "ran2-02b5",
+  "hanzi": "燃",
+  "pinyin": "rán",
+  "ja": "燃える"
+ },
+ {
+  "id": "rang4-c0fe",
+  "hanzi": "让",
+  "pinyin": "ràng",
+  "ja": "譲る"
+ },
+ {
+  "id": "ren2-4912",
+  "hanzi": "人",
+  "pinyin": "rén",
+  "ja": "人"
+ },
+ {
+  "id": "ren2min2-4c4d",
+  "hanzi": "人民",
+  "pinyin": "rén mín",
+  "ja": "人民"
+ },
+ {
+  "id": "ren2ming2-0947",
+  "hanzi": "人名",
+  "pinyin": "rén míng",
+  "ja": "人名"
+ },
+ {
+  "id": "ren3-4ce4",
+  "hanzi": "忍",
+  "pinyin": "rěn",
+  "ja": "我慢する"
+ },
+ {
+  "id": "rong2-7e83",
+  "hanzi": "容",
+  "pinyin": "róng",
+  "ja": "入れる"
+ },
+ {
+  "id": "rou2-8c77",
+  "hanzi": "揉",
+  "pinyin": "róu",
+  "ja": "もむ"
+ },
+ {
+  "id": "rou4-6759",
+  "hanzi": "肉",
+  "pinyin": "ròu",
+  "ja": "肉"
+ },
+ {
+  "id": "ru4-4a8d",
+  "hanzi": "入",
+  "pinyin": "rù",
+  "ja": "入る"
+ },
+ {
+  "id": "ruan3-6a8a",
+  "hanzi": "软",
+  "pinyin": "ruǎn",
+  "ja": "柔らかい"
+ },
+ {
+  "id": "ruo4-d479",
+  "hanzi": "弱",
+  "pinyin": "ruò",
+  "ja": "弱い"
+ },
+ {
+  "id": "san1-49dd",
+  "hanzi": "三",
+  "pinyin": "sān",
+  "ja": "三"
+ },
+ {
+  "id": "san1jiao3-b721",
+  "hanzi": "三角",
+  "pinyin": "sān jiǎo",
+  "ja": "三角"
+ },
+ {
+  "id": "sao3-a84f",
+  "hanzi": "扫",
+  "pinyin": "sǎo",
+  "ja": "掃く"
+ },
+ {
+  "id": "shan1-0e24",
+  "hanzi": "山",
+  "pinyin": "shān",
+  "ja": "山"
+ },
+ {
+  "id": "shan1jiao3-63cd",
+  "hanzi": "山脚",
+  "pinyin": "shān jiǎo",
+  "ja": "山のふもと"
+ },
+ {
+  "id": "shang1-19a8",
+  "hanzi": "伤",
+  "pinyin": "shāng",
+  "ja": "傷"
+ },
+ {
+  "id": "shang1hai4-69ac",
+  "hanzi": "伤害",
+  "pinyin": "shāng hài",
+  "ja": "傷つける"
+ },
+ {
+  "id": "shang3-e6c2",
+  "hanzi": "赏",
+  "pinyin": "shǎng",
+  "ja": "眺めて楽しむ"
+ },
+ {
+  "id": "shang4hai3-99f1",
+  "hanzi": "上海",
+  "pinyin": "shàng hǎi",
+  "ja": "上海"
+ },
+ {
+  "id": "shao1-4a1c",
+  "hanzi": "烧",
+  "pinyin": "shāo",
+  "ja": "焼く"
+ },
+ {
+  "id": "shao3-fa49",
+  "hanzi": "少",
+  "pinyin": "shǎo",
+  "ja": "少ない"
+ },
+ {
+  "id": "she2-67bc",
+  "hanzi": "蛇",
+  "pinyin": "shé",
+  "ja": "蛇"
+ },
+ {
+  "id": "shen1-44a6",
+  "hanzi": "身",
+  "pinyin": "shēn",
+  "ja": "体"
+ },
+ {
+  "id": "sheng1-3eb3",
+  "hanzi": "生",
+  "pinyin": "shēng",
+  "ja": "生の"
+ },
+ {
+  "id": "sheng3-45ad",
+  "hanzi": "省",
+  "pinyin": "shěng",
+  "ja": "節約する"
+ },
+ {
+  "id": "sheng4-5db0",
+  "hanzi": "剩",
+  "pinyin": "shèng",
+  "ja": "余る"
+ },
+ {
+  "id": "shi1-53e0",
+  "hanzi": "诗",
+  "pinyin": "shī",
+  "ja": "詩"
+ },
+ {
+  "id": "shi1-7c06",
+  "hanzi": "湿",
+  "pinyin": "shī",
+  "ja": "湿った"
+ },
+ {
+  "id": "shi1ren2-305c",
+  "hanzi": "诗人",
+  "pinyin": "shī rén",
+  "ja": "詩人"
+ },
+ {
+  "id": "shi2-aa10",
+  "hanzi": "十",
+  "pinyin": "shí",
+  "ja": "十"
+ },
+ {
+  "id": "shi2ji1-6609",
+  "hanzi": "时机",
+  "pinyin": "shí jī",
+  "ja": "タイミング"
+ },
+ {
+  "id": "shi2ji4-1b85",
+  "hanzi": "实际",
+  "pinyin": "shí jì",
+  "ja": "実際"
+ },
+ {
+  "id": "shi2jian1-89b4",
+  "hanzi": "时间",
+  "pinyin": "shí jiān",
+  "ja": "時間"
+ },
+ {
+  "id": "shi3-f690",
+  "hanzi": "使",
+  "pinyin": "shǐ",
+  "ja": "使う"
+ },
+ {
+  "id": "shi4-3016",
+  "hanzi": "是",
+  "pinyin": "shì",
+  "ja": "〜である"
+ },
+ {
+  "id": "shi4jian4-550e",
+  "hanzi": "事件",
+  "pinyin": "shì jiàn",
+  "ja": "事件"
+ },
+ {
+  "id": "shou1-59a6",
+  "hanzi": "收",
+  "pinyin": "shōu",
+  "ja": "受け取る"
+ },
+ {
+  "id": "shou3-c08a",
+  "hanzi": "手",
+  "pinyin": "shǒu",
+  "ja": "手"
+ },
+ {
+  "id": "shou4-41eb",
+  "hanzi": "受",
+  "pinyin": "shòu",
+  "ja": "受ける"
+ },
+ {
+  "id": "shu1-fe04",
+  "hanzi": "书",
+  "pinyin": "shū",
+  "ja": "本"
+ },
+ {
+  "id": "shu4-7803",
+  "hanzi": "树",
+  "pinyin": "shù",
+  "ja": "木"
+ },
+ {
+  "id": "shuan4-aef8",
+  "hanzi": "涮",
+  "pinyin": "shuàn",
+  "ja": "しゃぶしゃぶにする"
+ },
+ {
+  "id": "shui3-8ffb",
+  "hanzi": "水",
+  "pinyin": "shuǐ",
+  "ja": "水"
+ },
+ {
+  "id": "shui3jiao3-e5d6",
+  "hanzi": "水饺",
+  "pinyin": "shuǐ jiǎo",
+  "ja": "水餃子"
+ },
+ {
+  "id": "shui4-c149",
+  "hanzi": "睡",
+  "pinyin": "shuì",
+  "ja": "寝る"
+ },
+ {
+  "id": "shui4jiao4-6380",
+  "hanzi": "睡觉",
+  "pinyin": "shuì jiào",
+  "ja": "寝る"
+ },
+ {
+  "id": "shuo1-be30",
+  "hanzi": "说",
+  "pinyin": "shuō",
+  "ja": "話す"
+ },
+ {
+  "id": "si1-a088",
+  "hanzi": "丝",
+  "pinyin": "sī",
+  "ja": "糸"
+ },
+ {
+  "id": "si1ren2-82b4",
+  "hanzi": "私人",
+  "pinyin": "sī rén",
+  "ja": "個人の"
+ },
+ {
+  "id": "si4-4f88",
+  "hanzi": "四",
+  "pinyin": "sì",
+  "ja": "四"
+ },
+ {
+  "id": "sou1-35d7",
+  "hanzi": "搜",
+  "pinyin": "sōu",
+  "ja": "探す"
+ },
+ {
+  "id": "suan4-2ae1",
+  "hanzi": "算",
+  "pinyin": "suàn",
+  "ja": "数える"
+ },
+ {
+  "id": "sui4-86f1",
+  "hanzi": "岁",
+  "pinyin": "suì",
+  "ja": "〜歳"
+ },
+ {
+  "id": "suo1-ad71",
+  "hanzi": "缩",
+  "pinyin": "suō",
+  "ja": "縮む"
+ },
+ {
+  "id": "ta4-08ce",
+  "hanzi": "踏",
+  "pinyin": "tà",
+  "ja": "踏む"
+ },
+ {
+  "id": "tan2qin2-e22a",
+  "hanzi": "弹琴",
+  "pinyin": "tán qín",
+  "ja": "ピアノを弾く"
+ },
+ {
+  "id": "tan2qing2-a676",
+  "hanzi": "谈情",
+  "pinyin": "tán qíng",
+  "ja": "恋を語る"
+ },
+ {
+  "id": "tang1-fc4e",
+  "hanzi": "汤",
+  "pinyin": "tāng",
+  "ja": "スープ"
+ },
+ {
+  "id": "tang2-3d8c",
+  "hanzi": "糖",
+  "pinyin": "táng",
+  "ja": "砂糖"
+ },
+ {
+  "id": "tang3-a854",
+  "hanzi": "躺",
+  "pinyin": "tǎng",
+  "ja": "横になる"
+ },
+ {
+  "id": "tang4-700e",
+  "hanzi": "烫",
+  "pinyin": "tàng",
+  "ja": "熱い"
+ },
+ {
+  "id": "tao4-0322",
+  "hanzi": "套",
+  "pinyin": "tào",
+  "ja": "カバー"
+ },
+ {
+  "id": "ti1-2359",
+  "hanzi": "梯",
+  "pinyin": "tī",
+  "ja": "はしご"
+ },
+ {
+  "id": "ti2-c9d6",
+  "hanzi": "题",
+  "pinyin": "tí",
+  "ja": "問題"
+ },
+ {
+  "id": "ti4-1f05",
+  "hanzi": "替",
+  "pinyin": "tì",
+  "ja": "代わる"
+ },
+ {
+  "id": "tian1-c330",
+  "hanzi": "天",
+  "pinyin": "tiān",
+  "ja": "空"
+ },
+ {
+  "id": "tian2-ab95",
+  "hanzi": "甜",
+  "pinyin": "tián",
+  "ja": "甘い"
+ },
+ {
+  "id": "tian3-9894",
+  "hanzi": "舔",
+  "pinyin": "tiǎn",
+  "ja": "なめる"
+ },
+ {
+  "id": "tiao4-8449",
+  "hanzi": "跳",
+  "pinyin": "tiào",
+  "ja": "跳ぶ"
+ },
+ {
+  "id": "tong1-bef2",
+  "hanzi": "通",
+  "pinyin": "tōng",
+  "ja": "通じる"
+ },
+ {
+  "id": "tong2-0b8b",
+  "hanzi": "同",
+  "pinyin": "tóng",
+  "ja": "同じ"
+ },
+ {
+  "id": "tong2zhi4-928d",
+  "hanzi": "同志",
+  "pinyin": "tóng zhì",
+  "ja": "同志"
+ },
+ {
+  "id": "tong3zhi4-a879",
+  "hanzi": "统治",
+  "pinyin": "tǒng zhì",
+  "ja": "統治"
+ },
+ {
+  "id": "tou1-9b1d",
+  "hanzi": "偷",
+  "pinyin": "tōu",
+  "ja": "盗む"
+ },
+ {
+  "id": "tou2-f366",
+  "hanzi": "头",
+  "pinyin": "tóu",
+  "ja": "頭"
+ },
+ {
+  "id": "tou4-78a0",
+  "hanzi": "透",
+  "pinyin": "tòu",
+  "ja": "透ける"
+ },
+ {
+  "id": "tu2-611a",
+  "hanzi": "图",
+  "pinyin": "tú",
+  "ja": "図"
+ },
+ {
+  "id": "tu4zi5-3daa",
+  "hanzi": "兔子",
+  "pinyin": "tù zi",
+  "ja": "ウサギ"
+ },
+ {
+  "id": "tuo1-49da",
+  "hanzi": "拖",
+  "pinyin": "tuō",
+  "ja": "引きずる"
+ },
+ {
+  "id": "wan2-0830",
+  "hanzi": "完",
+  "pinyin": "wán",
+  "ja": "終わる"
+ },
+ {
+  "id": "wan2-d0ae",
+  "hanzi": "玩",
+  "pinyin": "wán",
+  "ja": "遊ぶ"
+ },
+ {
+  "id": "wan3-7c0f",
+  "hanzi": "晚",
+  "pinyin": "wǎn",
+  "ja": "遅い"
+ },
+ {
+  "id": "wan4-0d3b",
+  "hanzi": "万",
+  "pinyin": "wàn",
+  "ja": "万"
+ },
+ {
+  "id": "wang2-c7b1",
+  "hanzi": "王",
+  "pinyin": "wáng",
+  "ja": "王"
+ },
+ {
+  "id": "wang3-4ad9",
+  "hanzi": "网",
+  "pinyin": "wǎng",
+  "ja": "ネット"
+ },
+ {
+  "id": "wang4-1787",
+  "hanzi": "忘",
+  "pinyin": "wàng",
+  "ja": "忘れる"
+ },
+ {
+  "id": "wen2-176f",
+  "hanzi": "闻",
+  "pinyin": "wén",
+  "ja": "においをかぐ"
+ },
+ {
+  "id": "wen2ti3-a14c",
+  "hanzi": "文体",
+  "pinyin": "wén tǐ",
+  "ja": "文体"
+ },
+ {
+  "id": "wen3-dfa7",
+  "hanzi": "吻",
+  "pinyin": "wěn",
+  "ja": "キスする"
+ },
+ {
+  "id": "wen4ti2-2fb4",
+  "hanzi": "问题",
+  "pinyin": "wèn tí",
+  "ja": "問題"
+ },
+ {
+  "id": "wu2-7207",
+  "hanzi": "无",
+  "pinyin": "wú",
+  "ja": "ない"
+ },
+ {
+  "id": "wu3-8f07",
+  "hanzi": "五",
+  "pinyin": "wǔ",
+  "ja": "五"
+ },
+ {
+  "id": "wu4-2697",
+  "hanzi": "雾",
+  "pinyin": "wù",
+  "ja": "霧"
+ },
+ {
+  "id": "xi1-2f64",
+  "hanzi": "西",
+  "pinyin": "xī",
+  "ja": "西"
+ },
+ {
+  "id": "xi1-869f",
+  "hanzi": "吸",
+  "pinyin": "xī",
+  "ja": "吸い込む"
+ },
+ {
+  "id": "xi3-cef2",
+  "hanzi": "洗",
+  "pinyin": "xǐ",
+  "ja": "洗う"
+ },
+ {
+  "id": "xi3-d21b",
+  "hanzi": "喜",
+  "pinyin": "xǐ",
+  "ja": "喜ぶ"
+ },
+ {
+  "id": "xi4-6a00",
+  "hanzi": "细",
+  "pinyin": "xì",
+  "ja": "細い"
+ },
+ {
+  "id": "xi4-8f46",
+  "hanzi": "戏",
+  "pinyin": "xì",
+  "ja": "芝居"
+ },
+ {
+  "id": "xian1-82d4",
+  "hanzi": "先",
+  "pinyin": "xiān",
+  "ja": "先に"
+ },
+ {
+  "id": "xian1-d10b",
+  "hanzi": "鲜",
+  "pinyin": "xiān",
+  "ja": "新鮮な"
+ },
+ {
+  "id": "xian2-1d22",
+  "hanzi": "闲",
+  "pinyin": "xián",
+  "ja": "暇な"
+ },
+ {
+  "id": "xiang1-7ba4",
+  "hanzi": "香",
+  "pinyin": "xiāng",
+  "ja": "いい香り"
+ },
+ {
+  "id": "xiang3-a48f",
+  "hanzi": "想",
+  "pinyin": "xiǎng",
+  "ja": "思う"
+ },
+ {
+  "id": "xiang4-344b",
+  "hanzi": "像",
+  "pinyin": "xiàng",
+  "ja": "似ている"
+ },
+ {
+  "id": "xiao1-06f9",
+  "hanzi": "消",
+  "pinyin": "xiāo",
+  "ja": "消える"
+ },
+ {
+  "id": "xiao3-9225",
+  "hanzi": "小",
+  "pinyin": "xiǎo",
+  "ja": "小さい"
+ },
+ {
+  "id": "xiao4-740d",
+  "hanzi": "笑",
+  "pinyin": "xiào",
+  "ja": "笑う"
+ },
+ {
+  "id": "xie2-0106",
+  "hanzi": "鞋",
+  "pinyin": "xié",
+  "ja": "靴"
+ },
+ {
+  "id": "xie3-144d",
+  "hanzi": "写",
+  "pinyin": "xiě",
+  "ja": "書く"
+ },
+ {
+  "id": "xie4-b27c",
+  "hanzi": "谢",
+  "pinyin": "xiè",
+  "ja": "感謝する"
+ },
+ {
+  "id": "xin1-481e",
+  "hanzi": "心",
+  "pinyin": "xīn",
+  "ja": "心"
+ },
+ {
+  "id": "xin4-6c71",
+  "hanzi": "信",
+  "pinyin": "xìn",
+  "ja": "手紙"
+ },
+ {
+  "id": "xing1-92ae",
+  "hanzi": "星",
+  "pinyin": "xīng",
+  "ja": "星"
+ },
+ {
+  "id": "xing3-9e66",
+  "hanzi": "醒",
+  "pinyin": "xǐng",
+  "ja": "目が覚める"
+ },
+ {
+  "id": "xing4-003e",
+  "hanzi": "姓",
+  "pinyin": "xìng",
+  "ja": "名字"
+ },
+ {
+  "id": "xiong1mao2-fc47",
+  "hanzi": "胸毛",
+  "pinyin": "xiōng máo",
+  "ja": "胸毛"
+ },
+ {
+  "id": "xiong2mao1-b1c3",
+  "hanzi": "熊猫",
+  "pinyin": "xióng māo",
+  "ja": "パンダ"
+ },
+ {
+  "id": "xue2-7c7a",
+  "hanzi": "学",
+  "pinyin": "xué",
+  "ja": "学ぶ"
+ },
+ {
+  "id": "xue3-7d74",
+  "hanzi": "雪",
+  "pinyin": "xuě",
+  "ja": "雪"
+ },
+ {
+  "id": "ya1-ee25",
+  "hanzi": "鸭",
+  "pinyin": "yā",
+  "ja": "アヒル"
+ },
+ {
+  "id": "ya1li2-843d",
+  "hanzi": "鸭梨",
+  "pinyin": "yā lí",
+  "ja": "梨"
+ },
+ {
+  "id": "ya1li4-aef4",
+  "hanzi": "压力",
+  "pinyin": "yā lì",
+  "ja": "プレッシャー"
+ },
+ {
+  "id": "ya2-87d8",
+  "hanzi": "牙",
+  "pinyin": "yá",
+  "ja": "歯"
+ },
+ {
+  "id": "ya3-a2cf",
+  "hanzi": "哑",
+  "pinyin": "yǎ",
+  "ja": "声が出ない"
+ },
+ {
+  "id": "yan1-fb4e",
+  "hanzi": "烟",
+  "pinyin": "yān",
+  "ja": "たばこ"
+ },
+ {
+  "id": "yan2-1629",
+  "hanzi": "盐",
+  "pinyin": "yán",
+  "ja": "塩"
+ },
+ {
+  "id": "yan3-6191",
+  "hanzi": "眼",
+  "pinyin": "yǎn",
+  "ja": "目"
+ },
+ {
+  "id": "yang2-de33",
+  "hanzi": "羊",
+  "pinyin": "yáng",
+  "ja": "羊"
+ },
+ {
+  "id": "yang3-51e5",
+  "hanzi": "养",
+  "pinyin": "yǎng",
+  "ja": "飼う"
+ },
+ {
+  "id": "yao1-b12d",
+  "hanzi": "腰",
+  "pinyin": "yāo",
+  "ja": "腰"
+ },
+ {
+  "id": "yao3-b6bd",
+  "hanzi": "咬",
+  "pinyin": "yǎo",
+  "ja": "かむ"
+ },
+ {
+  "id": "yao4-55b7",
+  "hanzi": "药",
+  "pinyin": "yào",
+  "ja": "薬"
+ },
+ {
+  "id": "yin1-b7ec",
+  "hanzi": "音",
+  "pinyin": "yīn",
+  "ja": "音"
+ },
+ {
+  "id": "ying1-4956",
+  "hanzi": "鹰",
+  "pinyin": "yīng",
+  "ja": "鷹"
+ },
+ {
+  "id": "you2-2407",
+  "hanzi": "油",
+  "pinyin": "yóu",
+  "ja": "油"
+ },
+ {
+  "id": "you2qian2-5ae9",
+  "hanzi": "油钱",
+  "pinyin": "yóu qián",
+  "ja": "ガソリン代"
+ },
+ {
+  "id": "you3-fbd5",
+  "hanzi": "有",
+  "pinyin": "yǒu",
+  "ja": "ある"
+ },
+ {
+  "id": "you3qian2-8b5f",
+  "hanzi": "有钱",
+  "pinyin": "yǒu qián",
+  "ja": "お金持ち"
+ },
+ {
+  "id": "you4-4c2b",
+  "hanzi": "又",
+  "pinyin": "yòu",
+  "ja": "また"
+ },
+ {
+  "id": "yu2-9246",
+  "hanzi": "鱼",
+  "pinyin": "yú",
+  "ja": "魚"
+ },
+ {
+  "id": "yu3-8995",
+  "hanzi": "雨",
+  "pinyin": "yǔ",
+  "ja": "雨"
+ },
+ {
+  "id": "yu3yan2-cd99",
+  "hanzi": "语言",
+  "pinyin": "yǔ yán",
+  "ja": "言語"
+ },
+ {
+  "id": "yu4-2081",
+  "hanzi": "玉",
+  "pinyin": "yù",
+  "ja": "玉"
+ },
+ {
+  "id": "yu4yan2-edf7",
+  "hanzi": "预言",
+  "pinyin": "yù yán",
+  "ja": "予言"
+ },
+ {
+  "id": "yuan2-aeb0",
+  "hanzi": "圆",
+  "pinyin": "yuán",
+  "ja": "丸い"
+ },
+ {
+  "id": "yuan3-e733",
+  "hanzi": "远",
+  "pinyin": "yuǎn",
+  "ja": "遠い"
+ },
+ {
+  "id": "yuan4-ead6",
+  "hanzi": "院",
+  "pinyin": "yuàn",
+  "ja": "中庭"
+ },
+ {
+  "id": "zai4-686b",
+  "hanzi": "在",
+  "pinyin": "zài",
+  "ja": "いる"
+ },
+ {
+  "id": "zang1-d94b",
+  "hanzi": "脏",
+  "pinyin": "zāng",
+  "ja": "汚い"
+ },
+ {
+  "id": "zao3-13a8",
+  "hanzi": "早",
+  "pinyin": "zǎo",
+  "ja": "早い"
+ },
+ {
+  "id": "zao4-5af6",
+  "hanzi": "造",
+  "pinyin": "zào",
+  "ja": "造る"
+ },
+ {
+  "id": "zeng1-5fa3",
+  "hanzi": "增",
+  "pinyin": "zēng",
+  "ja": "増える"
+ },
+ {
+  "id": "zhang1-9273",
+  "hanzi": "张",
+  "pinyin": "zhāng",
+  "ja": "〜枚"
+ },
+ {
+  "id": "zhao3-76aa",
+  "hanzi": "找",
+  "pinyin": "zhǎo",
+  "ja": "探す"
+ },
+ {
+  "id": "zhen1-e756",
+  "hanzi": "真",
+  "pinyin": "zhēn",
+  "ja": "本当に"
+ },
+ {
+  "id": "zheng1-3e88",
+  "hanzi": "争",
+  "pinyin": "zhēng",
+  "ja": "争う"
+ },
+ {
+  "id": "zhi1-c524",
+  "hanzi": "知",
+  "pinyin": "zhī",
+  "ja": "知る"
+ },
+ {
+  "id": "zhi3-9055",
+  "hanzi": "纸",
+  "pinyin": "zhǐ",
+  "ja": "紙"
+ },
+ {
+  "id": "zhong1-0869",
+  "hanzi": "中",
+  "pinyin": "zhōng",
+  "ja": "中"
+ },
+ {
+  "id": "zhong3-a1f3",
+  "hanzi": "肿",
+  "pinyin": "zhǒng",
+  "ja": "腫れる"
+ },
+ {
+  "id": "zhou1-451b",
+  "hanzi": "周",
+  "pinyin": "zhōu",
+  "ja": "週"
+ },
+ {
+  "id": "zhou3-0583",
+  "hanzi": "肘",
+  "pinyin": "zhǒu",
+  "ja": "ひじ"
+ },
+ {
+  "id": "zhu1-3e2d",
+  "hanzi": "猪",
+  "pinyin": "zhū",
+  "ja": "豚"
+ },
+ {
+  "id": "zhu3ren2-636e",
+  "hanzi": "主人",
+  "pinyin": "zhǔ rén",
+  "ja": "主人"
+ },
+ {
+  "id": "zhu3ren4-4876",
+  "hanzi": "主任",
+  "pinyin": "zhǔ rèn",
+  "ja": "主任"
+ },
+ {
+  "id": "zhu4-80b8",
+  "hanzi": "住",
+  "pinyin": "zhù",
+  "ja": "住む"
+ },
+ {
+  "id": "zhuo1-c4a4",
+  "hanzi": "桌",
+  "pinyin": "zhuō",
+  "ja": "机"
+ },
+ {
+  "id": "zi4-582c",
+  "hanzi": "字",
+  "pinyin": "zì",
+  "ja": "字"
+ },
+ {
+  "id": "zou3-0851",
+  "hanzi": "走",
+  "pinyin": "zǒu",
+  "ja": "歩く"
+ },
+ {
+  "id": "zu1-5d00",
+  "hanzi": "租",
+  "pinyin": "zū",
+  "ja": "借りる"
+ },
+ {
+  "id": "zuo3-df3e",
+  "hanzi": "左",
+  "pinyin": "zuǒ",
+  "ja": "左"
+ },
+ {
+  "id": "zuo4-4a1e",
+  "hanzi": "坐",
+  "pinyin": "zuò",
+  "ja": "座る"
+ }
+]

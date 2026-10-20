@@ -1,0 +1,24 @@
+.page { display: flex; flex-direction: column; gap: 20px; padding: 32px 20px 40px; }
+.h1 { margin: 0; font-size: 28px; font-weight: 600; letter-spacing: -0.02em; }
+.lead { margin: 0; font-size: 15px; line-height: 1.7; color: var(--muted); }
+.count { margin: 0; font-size: 18px; font-weight: 600; }
+.section { display: flex; flex-direction: column; gap: 8px; }
+.sectionTitle { margin: 0; padding-top: 16px; border-top: 1.5px solid var(--ink); font-size: 17px; font-weight: 600; }
+.list { margin: 0; padding: 0; list-style: none; }
+.row { display: flex; flex-direction: column; gap: 6px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.rowHead { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+.name { font-size: 16px; font-weight: 500; }
+.meta { font-size: 13px; color: var(--muted); }
+.split { margin: 0; font-size: 14px; color: var(--accent); }
+.owed { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; margin: 0; }
+.owedLabel { font-size: 13px; color: var(--muted); }
+.owedPair { font-family: var(--font-zh); font-size: 16px; color: var(--again); }
+.account { display: flex; flex-direction: column; align-items: flex-start; gap: 10px; padding: 16px; border: 1px solid var(--line-2); border-radius: var(--radius); }
+.accountTitle { margin: 0; font-size: 13px; font-weight: 600; color: var(--muted); }
+.linked { margin: 0; font-size: 15px; font-weight: 600; overflow-wrap: anywhere; }
+.textButton { padding: 0; border: 0; background: none; color: var(--muted); font-size: 14px; cursor: pointer; text-decoration: underline; text-underline-offset: 0.25em; }
+.reset { align-self: flex-start; margin-top: 24px; padding: 0; border: 0; background: none; color: var(--danger); font-size: 14px; cursor: pointer; text-decoration: underline; text-underline-offset: 0.25em; }
+
+@media (min-width: 720px) {
+  .page { padding: 40px 32px 56px; }
+}

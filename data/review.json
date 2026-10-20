@@ -1,0 +1,210 @@
+[
+ {
+  "voice": "kore",
+  "id": "bang4-3b88",
+  "hanzi": "棒",
+  "pinyin": "bàng",
+  "why": "unlike the other voices (0.67); heard 嗯 / 嗯。; heard 安 / on.",
+  "file": "scripts/work/raw/kore/bang4-3b88.1.wav"
+ },
+ {
+  "voice": "kore",
+  "id": "chou3-aa9d",
+  "hanzi": "丑",
+  "pinyin": "chǒu",
+  "why": "unlike the other voices (0.93); unlike the other voices (0.79); unlike the other voices (0.60)",
+  "file": "scripts/work/raw/kore/chou3-aa9d.2.wav"
+ },
+ {
+  "voice": "kore",
+  "id": "hui4-577c",
+  "hanzi": "会",
+  "pinyin": "huì",
+  "why": "unlike the other voices (0.96); unlike the other voices (1.55); unlike the other voices (1.00)",
+  "file": "scripts/work/raw/kore/hui4-577c.2.wav"
+ },
+ {
+  "voice": "kore",
+  "id": "ji4-ebaf",
+  "hanzi": "记",
+  "pinyin": "jì",
+  "why": "unlike the other voices (0.79); unlike the other voices (1.13); unlike the other voices (0.94)",
+  "file": "scripts/work/raw/kore/ji4-ebaf.0.wav"
+ },
+ {
+  "voice": "kore",
+  "id": "lv4-5796",
+  "hanzi": "绿",
+  "pinyin": "lǜ",
+  "why": "unlike the other voices (0.84); unlike the other voices (0.91); unlike the other voices (0.75)",
+  "file": "scripts/work/raw/kore/lv4-5796.2.wav"
+ },
+ {
+  "voice": "kore",
+  "id": "pang2-c12a",
+  "hanzi": "旁",
+  "pinyin": "páng",
+  "why": "heard as 盘; heard 谈 / 螳。; heard as 盘",
+  "file": "scripts/work/raw/kore/pang2-c12a.2.wav"
+ },
+ {
+  "voice": "kore",
+  "id": "tan2qing2-a676",
+  "hanzi": "谈情",
+  "pinyin": "tán qíng",
+  "why": "heard as 弹琴; heard as 弹琴; heard as 弹琴",
+  "file": "scripts/work/raw/kore/tan2qing2-a676.2.wav"
+ },
+ {
+  "voice": "kore",
+  "id": "zhi3-9055",
+  "hanzi": "纸",
+  "pinyin": "zhǐ",
+  "why": "heard 举 / 解。; unlike the other voices (1.13); heard 壶。 / 起儿。",
+  "file": "scripts/work/raw/kore/zhi3-9055.0.wav"
+ },
+ {
+  "voice": "kore",
+  "id": "zhou3-0583",
+  "hanzi": "肘",
+  "pinyin": "zhǒu",
+  "why": "heard as 九; heard as 九; heard as 走",
+  "file": "scripts/work/raw/kore/zhou3-0583.1.wav"
+ },
+ {
+  "voice": "erinome",
+  "id": "chai2-0dec",
+  "hanzi": "柴",
+  "pinyin": "chái",
+  "why": "heard as 才; heard as 才; heard as 才",
+  "file": "scripts/work/raw/erinome/chai2-0dec.1.wav"
+ },
+ {
+  "voice": "erinome",
+  "id": "chen2jiu4-ed43",
+  "hanzi": "陈旧",
+  "pinyin": "chén jiù",
+  "why": "heard as 成就; heard as 成就; heard as 成就",
+  "file": "scripts/work/raw/erinome/chen2jiu4-ed43.0.wav"
+ },
+ {
+  "voice": "erinome",
+  "id": "diao4-dd73",
+  "hanzi": "掉",
+  "pinyin": "diào",
+  "why": "heard as 跳; unlike the other voices (0.51); heard as 跳",
+  "file": "scripts/work/raw/erinome/diao4-dd73.0.wav"
+ },
+ {
+  "voice": "charon",
+  "id": "chen2jiu4-ed43",
+  "hanzi": "陈旧",
+  "pinyin": "chén jiù",
+  "why": "heard as 成就; heard as 成就; heard as 成就",
+  "file": "scripts/work/raw/charon/chen2jiu4-ed43.1.wav"
+ },
+ {
+  "voice": "charon",
+  "id": "diao4-dd73",
+  "hanzi": "掉",
+  "pinyin": "diào",
+  "why": "heard as 跳; heard as 跳; heard 一表 / 药。",
+  "file": "scripts/work/raw/charon/diao4-dd73.0.wav"
+ },
+ {
+  "voice": "charon",
+  "id": "dou4-d081",
+  "hanzi": "豆",
+  "pinyin": "dòu",
+  "why": "heard 词语。 / 哦。; unlike the other voices (0.57); heard 哦。 / O.",
+  "file": "scripts/work/raw/charon/dou4-d081.0.wav"
+ },
+ {
+  "voice": "charon",
+  "id": "guan1-a333",
+  "hanzi": "关",
+  "pinyin": "guān",
+  "why": "heard 博恩 / 波恩。; heard 以下是一个普通话词语 / 弯。; heard 普通话。 / one.",
+  "file": "scripts/work/raw/charon/guan1-a333.1.wav"
+ },
+ {
+  "voice": "charon",
+  "id": "jing4-f75f",
+  "hanzi": "静",
+  "pinyin": "jìng",
+  "why": "heard as 进; heard 气氛。 / 庆。; heard 亲 / 庆。",
+  "file": "scripts/work/raw/charon/jing4-f75f.0.wav"
+ },
+ {
+  "voice": "charon",
+  "id": "ling2-e0d7",
+  "hanzi": "零",
+  "pinyin": "líng",
+  "why": "heard as 林; heard as 林; heard 枟 / 云。",
+  "file": "scripts/work/raw/charon/ling2-e0d7.1.wav"
+ },
+ {
+  "voice": "charon",
+  "id": "san1jiao3-b721",
+  "hanzi": "三角",
+  "pinyin": "sān jiǎo",
+  "why": "heard as 山脚; heard as 山脚; heard as 山脚",
+  "file": "scripts/work/raw/charon/san1jiao3-b721.1.wav"
+ },
+ {
+  "voice": "charon",
+  "id": "ta4-08ce",
+  "hanzi": "踏",
+  "pinyin": "tà",
+  "why": "unlike the other voices (0.47); unlike the other voices (0.61); unlike the other voices (1.12)",
+  "file": "scripts/work/raw/charon/ta4-08ce.0.wav"
+ },
+ {
+  "voice": "charon",
+  "id": "tan2qing2-a676",
+  "hanzi": "谈情",
+  "pinyin": "tán qíng",
+  "why": "heard as 弹琴; heard as 弹琴; heard as 弹琴",
+  "file": "scripts/work/raw/charon/tan2qing2-a676.1.wav"
+ },
+ {
+  "voice": "charon",
+  "id": "ying1-4956",
+  "hanzi": "鹰",
+  "pinyin": "yīng",
+  "why": "heard as 音; heard as 音; heard as 音",
+  "file": "scripts/work/raw/charon/ying1-4956.0.wav"
+ },
+ {
+  "voice": "charon",
+  "id": "zhu1-3e2d",
+  "hanzi": "猪",
+  "pinyin": "zhū",
+  "why": "heard 哭。 / 哭。; heard 哭 / 哭。; heard as 出",
+  "file": "scripts/work/raw/charon/zhu1-3e2d.0.wav"
+ },
+ {
+  "voice": "iapetus",
+  "id": "dong1-520b",
+  "hanzi": "东",
+  "pinyin": "dōng",
+  "why": "heard 普通 / 崩。; heard 工 / 工。; heard 嗯 / 村。",
+  "file": "scripts/work/raw/iapetus/dong1-520b.1.wav"
+ },
+ {
+  "voice": "iapetus",
+  "id": "nian4-13d0",
+  "hanzi": "念",
+  "pinyin": "niàn",
+  "why": "heard 面 / 面。; heard 问 / when.; unlike the other voices (0.60)",
+  "file": "scripts/work/raw/iapetus/nian4-13d0.1.wav"
+ },
+ {
+  "voice": "iapetus",
+  "id": "ying1-4956",
+  "hanzi": "鹰",
+  "pinyin": "yīng",
+  "why": "heard as 音; heard as 音; heard as 音",
+  "file": "scripts/work/raw/iapetus/ying1-4956.2.wav"
+ }
+]

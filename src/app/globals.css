@@ -1,0 +1,133 @@
+/* ことのね (after ことのあめ): the same paper, ink and one accent, taken from ことのあめ's icon. Lines of pitch are drawn
+   on five hairlines; the learner's own voice in the accent, the model in ink.
+   No gradients or shadows inside the app; hairlines separate. */
+:root {
+  --paper: #fcfbf8;
+  --surface: #f1f4f8;
+  --ink: #172033;
+  --ink-2: #3b4558;
+  --muted: #5c6578;
+  --faint: #8c94a5;
+  --line: #e4e7ec;
+  --line-2: #d4d9e1;
+  --danger: #b42318;
+  --danger-tint: #fdf0ee;
+
+  --accent: #0a64f0;
+  --tint: #e6f0ff;
+  /* A pattern meeting the learner again. */
+  --again: #6a4fe0;
+  --again-tint: #efebff;
+
+  /* The icon's rain, for decoration only. */
+  --rain-blue: #0470fd;
+  --rain-sky: #4ea7fd;
+  --rain-violet: #a792fa;
+  --rain-pink: #e79dfa;
+  --rain-peach: #fec9a8;
+
+  --radius: 12px;
+  --tap: 44px;
+  /* Room under the bottom bar: the home indicator's inset, less what its own margin already leaves clear. */
+  --nav-bottom: max(8px, env(safe-area-inset-bottom, 0px) - 12px);
+
+  --font-ui: var(--font-plex), var(--font-plex-jp), "Hiragino Sans", "Yu Gothic", sans-serif;
+  --font-ja: var(--font-plex-jp), "Hiragino Sans", "Yu Gothic", sans-serif;
+  --font-ko: var(--font-plex-kr), "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  --font-zh: var(--font-noto-sc), "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-en: var(--font-plex), "Helvetica Neue", sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, Menlo, monospace;
+  --font-mincho: var(--font-shippori), "Hiragino Mincho ProN", "Yu Mincho", serif;
+
+  color-scheme: light;
+}
+
+/* The learner's accent (settings). rain is the default above. */
+[data-accent="ink"] { --accent: #172033; --tint: #eceef2; }
+[data-accent="hydrangea"] { --accent: #6a4fe0; --tint: #efebff; }
+[data-accent="dusk"] { --accent: #b9462a; --tint: #fbede8; }
+
+* { box-sizing: border-box; }
+
+html, body { margin: 0; padding: 0; }
+
+/* Something scrolled into view at the top stops below the status bar strip, not under it. */
+html { scroll-padding-top: env(safe-area-inset-top, 0px); }
+
+/* Every page starts below the phone's status bar; .status-fill paints the bar itself. */
+body {
+  padding-top: env(safe-area-inset-top, 0px);
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-ui);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* A solid strip behind the phone's status bar (zero tall where there is none). Without it iOS draws a gradient over
+   whatever scrolls underneath. Below the sheets, which dim it with everything else. */
+.status-fill {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 15;
+  height: env(safe-area-inset-top, 0px);
+  background: var(--status-fill, var(--paper));
+  pointer-events: none;
+}
+
+a { color: inherit; }
+button, input, select, textarea { font: inherit; color: inherit; }
+h1, h2, h3 { text-wrap: balance; }
+
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.t-ja { font-family: var(--font-ja); }
+.t-ko { font-family: var(--font-ko); }
+.t-zh { font-family: var(--font-zh); }
+.t-en { font-family: var(--font-en); }
+.mono { font-family: var(--font-mono); letter-spacing: 0.04em; }
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+}
+
+/* Shared controls */
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  min-height: 52px; padding: 0 24px; border-radius: var(--radius);
+  border: 1px solid var(--accent); background: var(--accent); color: #fff;
+  font-size: 16px; font-weight: 600; text-decoration: none; cursor: pointer;
+}
+.btn:disabled { opacity: 0.55; cursor: default; }
+/* Just done (メモしました): the button itself says so until the learner types again. */
+.btn[data-done] { background: var(--tint); border-color: var(--tint); color: var(--accent); }
+.btn-quiet {
+  display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+  min-height: 52px; padding: 0 20px; border-radius: var(--radius);
+  border: 1px solid var(--line-2); background: var(--paper); color: var(--ink);
+  font-size: 15px; font-weight: 500; text-decoration: none; cursor: pointer;
+}
+.btn-quiet:disabled { color: var(--faint); cursor: default; }
+
+.mark { background: var(--tint); color: var(--accent); border-radius: 0.15em; padding: 0 0.1em; animation: mark-in 0.5s ease-out both; }
+@keyframes mark-in { from { background: transparent; color: inherit; } }
+
+/* The wordmark: ことのあめ in mincho. */
+.wordmark-kana { font-family: var(--font-mincho); font-weight: 700; letter-spacing: 0.06em; }
+
+.label { font-size: 13px; font-weight: 600; color: var(--muted); margin: 0; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+
+/* Sentence highlights (see components/SentenceText.tsx) */
+.hl-ins { color: var(--accent); font-weight: 600; text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 0.3em; }
+.hl-del { color: var(--faint); text-decoration: line-through; text-decoration-thickness: 1.5px; }
+.hl-blank { display: inline-block; border-bottom: 2px solid var(--ink); line-height: 1.2; }
+.hl-blank > [aria-hidden] { visibility: hidden; }
+
+ruby { ruby-position: over; }
+rt { font-family: var(--font-en); font-size: 0.42em; font-weight: 400; color: var(--muted); letter-spacing: 0; }
+/* A word the learner has in their memo: met again. */
+.hl-memo { text-decoration: underline dotted var(--again); text-decoration-thickness: 2px; text-underline-offset: 0.28em; }

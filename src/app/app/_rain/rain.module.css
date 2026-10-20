@@ -1,0 +1,120 @@
+/* The rain: 聞き比べる → 聞き分ける → 文の中で → 言ってみる. As in ことのあめ: things fall from above and settle,
+   a playing button sends out ripples, hairlines separate, one accent. */
+
+.page { display: flex; flex-direction: column; gap: 24px; padding: 16px 20px 40px; }
+
+.steps { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0; padding: 0 0 12px; list-style: none; border-bottom: 1px solid var(--line); font-size: 13px; color: var(--faint); }
+.steps li[aria-current] { color: var(--accent); font-weight: 600; }
+
+.lead { margin: 0; font-size: 15px; line-height: 1.75; color: var(--muted); }
+.center { display: flex; flex-direction: column; align-items: center; gap: 16px; padding: 48px 0; text-align: center; color: var(--muted); }
+
+/* 聞き比べる: pairs falling */
+.pairs { display: flex; flex-direction: column; margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--line); }
+.pair { display: grid; grid-template-columns: 1fr 1fr; border-bottom: 1px solid var(--line); animation: fall 0.7s cubic-bezier(0.2, 0.8, 0.2, 1) both; }
+@keyframes fall { from { opacity: 0; transform: translateY(-28px); } to { opacity: 1; transform: none; } }
+
+.word {
+  position: relative; display: flex; flex-direction: column; align-items: flex-start; gap: 2px;
+  min-height: 92px; padding: 14px 12px 12px; border: 0; background: transparent; text-align: left; cursor: pointer; color: var(--ink);
+}
+.word + .word { border-left: 1px solid var(--line); }
+.word[data-playing] { background: var(--tint); }
+.hanzi { font-family: var(--font-zh); font-size: 30px; line-height: 1.25; letter-spacing: 0.02em; }
+.pinyin { font-family: var(--font-en); font-size: 16px; color: var(--ink-2); }
+.gloss { font-size: 12px; color: var(--muted); }
+.again { color: var(--again); }
+
+.actions { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.hint { margin: 0; font-size: 13px; color: var(--faint); }
+
+/* 聞き分ける */
+.trialHead { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.progress { font-family: var(--font-en); font-size: 13px; color: var(--faint); letter-spacing: 0.04em; }
+.listen {
+  position: relative; align-self: center; width: 88px; height: 88px; border-radius: 50%;
+  border: 1px solid var(--accent); background: var(--accent); color: #fff;
+  display: inline-flex; align-items: center; justify-content: center; cursor: pointer;
+}
+.listen[data-playing]::before, .listen[data-playing]::after {
+  content: ""; position: absolute; inset: -1px; border-radius: 50%; border: 1.5px solid var(--accent);
+  animation: ripple 1.6s ease-out infinite; pointer-events: none;
+}
+.listen[data-playing]::after { animation-delay: 0.8s; }
+@keyframes ripple { from { transform: scale(1); opacity: 0.55; } to { transform: scale(1.7); opacity: 0; } }
+.listenLabel { align-self: center; margin: -8px 0 0; font-size: 13px; color: var(--muted); }
+
+.choices { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.choice {
+  display: flex; flex-direction: column; align-items: center; gap: 2px; min-height: 120px; padding: 16px 8px;
+  border: 1.5px solid var(--line-2); border-radius: var(--radius); background: var(--paper); color: var(--ink); cursor: pointer;
+}
+.choice .hanzi { font-size: 34px; }
+.choice[data-state="right"] { border-color: var(--accent); background: var(--tint); }
+.choice[data-state="right"] .hanzi, .choice[data-state="right"] .pinyin { color: var(--accent); }
+.choice[data-state="picked"] { border-style: dashed; color: var(--muted); }
+.choice[data-state="dim"] { color: var(--muted); }
+.choice:disabled { cursor: default; }
+
+.feedback { display: flex; flex-direction: column; gap: 12px; padding: 16px 0 0; border-top: 1px solid var(--line); animation: settle 0.4s ease-out both; }
+@keyframes settle { from { opacity: 0; transform: translateY(8px); } }
+.message { margin: 0; font-size: 15px; font-weight: 600; }
+.message[data-right] { color: var(--accent); }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 18px; margin: 0; padding: 0; list-style: none; font-size: 13px; color: var(--muted); }
+.legend li { display: inline-flex; align-items: center; gap: 8px; }
+.legend li::before { content: ""; width: 18px; height: 0; border-top: 3px solid var(--ink); border-radius: 2px; }
+.legend .keyAnswer::before, .legend .keyOwn::before { border-top-color: var(--accent); }
+.legend .keyOther::before { border-top: 2px dashed var(--faint); }
+.legend .t { font-family: var(--font-zh); color: var(--ink); }
+
+/* 違いのこと */
+.reveal { display: flex; flex-direction: column; gap: 12px; padding-top: 16px; border-top: 1.5px solid var(--ink); }
+.revealLabel { margin: 0; font-size: 13px; font-weight: 600; color: var(--muted); }
+.revealName { margin: 0; font-size: 24px; font-weight: 600; }
+.revealHint { margin: 0; font-size: 16px; line-height: 1.8; color: var(--ink-2); }
+.split { margin: 0; padding: 12px 14px; border-left: 3px solid var(--again); background: var(--again-tint); font-size: 15px; }
+.owed { display: flex; flex-direction: column; gap: 8px; }
+.owedList { display: flex; flex-wrap: wrap; gap: 8px 16px; margin: 0; padding: 0; list-style: none; }
+.owedList li { font-family: var(--font-zh); font-size: 18px; color: var(--again); }
+.owedList .py { font-family: var(--font-en); font-size: 13px; margin-left: 4px; }
+
+/* 文の中で */
+.sentences { display: flex; flex-direction: column; margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--line); }
+.sentence { display: flex; gap: 12px; align-items: flex-start; padding: 16px 0; border-bottom: 1px solid var(--line); animation: fall 0.7s cubic-bezier(0.2, 0.8, 0.2, 1) both; }
+.speak {
+  position: relative; flex-shrink: 0; width: var(--tap); height: var(--tap); border-radius: 50%;
+  border: 1px solid var(--line-2); background: var(--paper); color: var(--ink);
+  display: inline-flex; align-items: center; justify-content: center; cursor: pointer;
+}
+.speak[data-playing] { border-color: var(--accent); color: var(--accent); }
+.zh { margin: 0; font-family: var(--font-zh); font-size: 21px; line-height: 2.2; }
+.zh rt { font-size: 0.5em; }
+.target { color: var(--accent); }
+.ja { margin: 4px 0 0; font-size: 14px; color: var(--muted); }
+.toggle { padding: 0; border: 0; background: none; color: var(--accent); font-size: 13px; cursor: pointer; text-decoration: underline; text-underline-offset: 0.25em; }
+
+/* 言ってみる */
+.sayList { display: flex; flex-direction: column; gap: 20px; margin: 0; padding: 0; list-style: none; }
+.sayCard { display: flex; flex-direction: column; gap: 14px; padding: 16px; border: 1px solid var(--line-2); border-radius: var(--radius); }
+.sayWord { display: flex; align-items: baseline; flex-wrap: wrap; gap: 4px 12px; }
+.sayButtons { display: flex; gap: 10px; flex-wrap: wrap; }
+.record { position: relative; }
+.record[data-on]::after {
+  content: ""; position: absolute; inset: -3px; border-radius: calc(var(--radius) + 3px); border: 2px solid var(--accent);
+  opacity: var(--level, 0.2); transition: opacity 0.08s linear; pointer-events: none;
+}
+.result { display: flex; flex-direction: column; gap: 10px; animation: settle 0.4s ease-out both; }
+.verdict { margin: 0; font-size: 15px; font-weight: 600; }
+.verdict[data-right] { color: var(--accent); }
+.heard { margin: 0; font-size: 14px; color: var(--muted); }
+.heard .t { font-family: var(--font-zh); font-size: 17px; color: var(--ink); }
+.through { margin-left: 10px; color: var(--accent); font-weight: 600; }
+.asPartner { margin-left: 10px; color: var(--ink-2); }
+.problem { margin: 0; font-size: 14px; color: var(--danger); }
+
+.end { display: flex; flex-direction: column; gap: 12px; padding-top: 16px; border-top: 1px solid var(--line); }
+
+@media (min-width: 720px) {
+  .page { padding: 28px 32px 56px; }
+  .hanzi { font-size: 34px; }
+}

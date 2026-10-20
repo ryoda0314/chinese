@@ -1,0 +1,10439 @@
+{
+ "kore/ba1-2142.0": {
+  "gpt-4o-transcribe": "拉。",
+  "gpt-transcribe": "八。"
+ },
+ "kore/ba2-737c.0": {
+  "gpt-4o-transcribe": "啊",
+  "gpt-transcribe": "打。",
+  "forced": {
+   "ba3-b3ba": [
+    "拔",
+    "把"
+   ],
+   "ba1-2142": [
+    "拔",
+    "拔"
+   ],
+   "ba4-a732": [
+    "拔",
+    "拔"
+   ]
+  }
+ },
+ "kore/ba3-b3ba.0": {
+  "gpt-4o-transcribe": "把。"
+ },
+ "kore/ba4-a732.0": {
+  "gpt-4o-transcribe": "坝。"
+ },
+ "kore/bai2-4a1a.0": {
+  "gpt-4o-transcribe": "白"
+ },
+ "kore/bai3-5013.0": {
+  "gpt-4o-transcribe": "摆。"
+ },
+ "kore/bai4-cbc5.0": {
+  "gpt-4o-transcribe": "再",
+  "gpt-transcribe": "爱。",
+  "forced": {
+   "bai2-4a1a": [
+    "拜",
+    "拜"
+   ]
+  }
+ },
+ "kore/ban1-1f7f.0": {
+  "gpt-4o-transcribe": "班。"
+ },
+ "kore/ban1-cca9.0": {
+  "gpt-4o-transcribe": "班。"
+ },
+ "kore/ban3-2793.0": {
+  "gpt-4o-transcribe": "板"
+ },
+ "kore/ban4-2bff.0": {
+  "gpt-4o-transcribe": "安",
+  "gpt-transcribe": "On.",
+  "forced": {
+   "bang4-3b88": [
+    "半",
+    "半"
+   ]
+  }
+ },
+ "kore/bang1-703a.0": {
+  "gpt-4o-transcribe": "斑。",
+  "gpt-transcribe": "搬。",
+  "forced": {
+   "ban1-1f7f": [
+    "班",
+    "班"
+   ]
+  }
+ },
+ "kore/bang4-3b88.0": {
+  "gpt-4o-transcribe": "棒"
+ },
+ "kore/bao1-7e39.0": {
+  "gpt-4o-transcribe": "包"
+ },
+ "kore/bao1zi5-bd1c.0": {
+  "gpt-4o-transcribe": "包子",
+  "forced": {
+   "bao4zi5-a556": [
+    "包子",
+    "包子"
+   ]
+  }
+ },
+ "kore/bao3-6dab.0": {
+  "gpt-4o-transcribe": "宝"
+ },
+ "kore/bao4-7bde.0": {
+  "gpt-4o-transcribe": "暴"
+ },
+ "kore/bao4zi5-a556.0": {
+  "gpt-4o-transcribe": "豹子"
+ },
+ "kore/bei1zi5-a49c.0": {
+  "gpt-4o-transcribe": "杯子"
+ },
+ "kore/bei3jing1-685e.0": {
+  "gpt-4o-transcribe": "北京"
+ },
+ "kore/bei4jing3-b13d.0": {
+  "gpt-4o-transcribe": "背景"
+ },
+ "kore/bei4zi5-e1d1.0": {
+  "gpt-4o-transcribe": "被子"
+ },
+ "kore/bi3-6810.0": {
+  "gpt-4o-transcribe": "比"
+ },
+ "kore/bi4-2ce3.0": {
+  "gpt-4o-transcribe": "B",
+  "gpt-transcribe": "B。",
+  "forced": {
+   "bi3-6810": [
+    "闭",
+    "闭"
+   ]
+  }
+ },
+ "kore/ca1-7dbe.0": {
+  "gpt-4o-transcribe": "她。",
+  "gpt-transcribe": "擦。"
+ },
+ "kore/cai2-b277.0": {
+  "gpt-4o-transcribe": "猜",
+  "forced": {
+   "chai2-0dec": [
+    "才",
+    "才"
+   ]
+  }
+ },
+ "kore/cai4-7b4b.0": {
+  "gpt-4o-transcribe": "菜"
+ },
+ "kore/cao3-6744.0": {
+  "gpt-4o-transcribe": "草"
+ },
+ "kore/ceng2-7895.0": {
+  "gpt-4o-transcribe": "层"
+ },
+ "kore/cha1-f565.0": {
+  "gpt-4o-transcribe": "查",
+  "forced": {
+   "ca1-7dbe": [
+    "插",
+    "插"
+   ]
+  }
+ },
+ "kore/chai2-0dec.0": {
+  "gpt-4o-transcribe": "柴。"
+ },
+ "kore/chan2-0f45.0": {
+  "gpt-4o-transcribe": "禅"
+ },
+ "kore/chao3-2c52.0": {
+  "gpt-4o-transcribe": "草",
+  "gpt-transcribe": "草。",
+  "forced": {
+   "zhao3-76aa": [
+    "炒",
+    "炒。"
+   ]
+  }
+ },
+ "kore/chao3-8268.0": {
+  "gpt-4o-transcribe": "潮",
+  "forced": {
+   "cao3-6744": [
+    "吵。",
+    "吵"
+   ]
+  }
+ },
+ "kore/chen2jiu4-ed43.0": {
+  "gpt-4o-transcribe": "陈旧"
+ },
+ "kore/cheng2-bb35.0": {
+  "gpt-4o-transcribe": "成。"
+ },
+ "kore/cheng2jiu4-5dc7.0": {
+  "gpt-4o-transcribe": "成就"
+ },
+ "kore/cheng2shi2-ef19.0": {
+  "gpt-4o-transcribe": "诚实"
+ },
+ "kore/cheng2shi4-5901.0": {
+  "gpt-4o-transcribe": "城市"
+ },
+ "kore/chi1-a10d.0": {
+  "gpt-4o-transcribe": "趋",
+  "gpt-transcribe": "区。",
+  "forced": {
+   "qi1-7db1": [
+    "吃",
+    "七"
+   ]
+  }
+ },
+ "erinome/ba1-2142.0": {
+  "gpt-4o-transcribe": "吧",
+  "forced": {
+   "ba4-a732": [
+    "八",
+    "八"
+   ],
+   "ba2-737c": [
+    "八",
+    "八"
+   ],
+   "ba3-b3ba": [
+    "八",
+    "八"
+   ]
+  }
+ },
+ "erinome/ba2-737c.0": {
+  "gpt-4o-transcribe": "拔"
+ },
+ "erinome/ba3-b3ba.0": {
+  "gpt-4o-transcribe": "法。",
+  "gpt-transcribe": "把。"
+ },
+ "erinome/ba4-a732.0": {
+  "gpt-4o-transcribe": "吧",
+  "forced": {
+   "ba1-2142": [
+    "爸",
+    "爸"
+   ],
+   "ba2-737c": [
+    "爸。",
+    "拔"
+   ],
+   "pa4-bc1c": [
+    "爸",
+    "爸"
+   ]
+  }
+ },
+ "erinome/bai2-4a1a.0": {
+  "gpt-4o-transcribe": "白"
+ },
+ "erinome/bai3-5013.0": {
+  "gpt-4o-transcribe": "白",
+  "forced": {
+   "bai2-4a1a": [
+    "白",
+    "百"
+   ]
+  }
+ },
+ "erinome/bai4-cbc5.0": {
+  "gpt-4o-transcribe": "拜"
+ },
+ "erinome/ban1-1f7f.0": {
+  "gpt-4o-transcribe": "班"
+ },
+ "erinome/ban1-cca9.0": {
+  "gpt-4o-transcribe": "班。"
+ },
+ "erinome/ban3-2793.0": {
+  "gpt-4o-transcribe": "安。",
+  "gpt-transcribe": "俺。",
+  "forced": {
+   "ban1-cca9": [
+    "板",
+    "搬"
+   ]
+  }
+ },
+ "erinome/ban4-2bff.0": {
+  "gpt-4o-transcribe": "蛋",
+  "gpt-transcribe": "半。"
+ },
+ "erinome/bang1-703a.0": {
+  "gpt-4o-transcribe": "昂",
+  "gpt-transcribe": "帮。"
+ },
+ "erinome/bang4-3b88.0": {
+  "gpt-4o-transcribe": "棒"
+ },
+ "erinome/bao1-7e39.0": {
+  "gpt-4o-transcribe": "包"
+ },
+ "erinome/bao1zi5-bd1c.0": {
+  "gpt-4o-transcribe": "包子",
+  "forced": {
+   "bao4zi5-a556": [
+    "包子",
+    "包子"
+   ]
+  }
+ },
+ "erinome/bao3-6dab.0": {
+  "gpt-4o-transcribe": "保"
+ },
+ "erinome/bao4-7bde.0": {
+  "gpt-4o-transcribe": "高。",
+  "gpt-transcribe": "道。",
+  "forced": {
+   "bao1-7e39": [
+    "包",
+    "抱"
+   ],
+   "bao3-6dab": [
+    "抱",
+    "饱"
+   ]
+  }
+ },
+ "erinome/bao4zi5-a556.0": {
+  "gpt-4o-transcribe": "包子",
+  "forced": {
+   "bao1zi5-bd1c": [
+    "豹子。",
+    "豹子"
+   ]
+  }
+ },
+ "erinome/bei1zi5-a49c.0": {
+  "gpt-4o-transcribe": "杯子"
+ },
+ "erinome/bei3jing1-685e.0": {
+  "gpt-4o-transcribe": "北金。",
+  "gpt-transcribe": "北京。"
+ },
+ "erinome/bei4jing3-b13d.0": {
+  "gpt-4o-transcribe": "背景。"
+ },
+ "erinome/bei4zi5-e1d1.0": {
+  "gpt-4o-transcribe": "被子"
+ },
+ "erinome/bi3-6810.0": {
+  "gpt-4o-transcribe": "比。"
+ },
+ "erinome/bi4-2ce3.0": {
+  "gpt-4o-transcribe": "屁",
+  "gpt-transcribe": "B。",
+  "forced": {
+   "bi3-6810": [
+    "比。",
+    "比"
+   ]
+  }
+ },
+ "erinome/ca1-7dbe.0": {
+  "gpt-4o-transcribe": "他",
+  "gpt-transcribe": "擦。"
+ },
+ "erinome/cai2-b277.0": {
+  "gpt-4o-transcribe": "才"
+ },
+ "erinome/cai4-7b4b.0": {
+  "gpt-4o-transcribe": "猜。",
+  "forced": {
+   "zai4-686b": [
+    "菜",
+    "菜"
+   ]
+  }
+ },
+ "erinome/cao3-6744.0": {
+  "gpt-4o-transcribe": "草"
+ },
+ "erinome/ceng2-7895.0": {
+  "gpt-4o-transcribe": "层。"
+ },
+ "erinome/cha1-f565.0": {
+  "gpt-4o-transcribe": "茶",
+  "forced": {
+   "ca1-7dbe": [
+    "插",
+    "插"
+   ]
+  }
+ },
+ "erinome/chai2-0dec.0": {
+  "gpt-4o-transcribe": "抬",
+  "gpt-transcribe": "財。",
+  "forced": {
+   "cai2-b277": [
+    "柴。",
+    "才"
+   ]
+  }
+ },
+ "erinome/chan2-0f45.0": {
+  "gpt-4o-transcribe": "馋"
+ },
+ "erinome/chao3-2c52.0": {
+  "gpt-4o-transcribe": "吵。"
+ },
+ "erinome/chao3-8268.0": {
+  "gpt-4o-transcribe": "草",
+  "gpt-transcribe": "草。",
+  "forced": {
+   "cao3-6744": [
+    "草。",
+    "吵"
+   ]
+  }
+ },
+ "erinome/chen2jiu4-ed43.0": {
+  "gpt-4o-transcribe": "成就",
+  "gpt-transcribe": "陈旧。"
+ },
+ "erinome/cheng2-bb35.0": {
+  "gpt-4o-transcribe": "尘",
+  "gpt-transcribe": "城。"
+ },
+ "erinome/cheng2jiu4-5dc7.0": {
+  "gpt-4o-transcribe": "成教",
+  "gpt-transcribe": "成就。"
+ },
+ "erinome/cheng2shi2-ef19.0": {
+  "gpt-4o-transcribe": "诚实"
+ },
+ "erinome/cheng2shi4-5901.0": {
+  "gpt-4o-transcribe": "城市。"
+ },
+ "erinome/chi1-a10d.0": {
+  "gpt-4o-transcribe": "吃"
+ },
+ "charon/ba1-2142.0": {
+  "gpt-4o-transcribe": "ba",
+  "gpt-transcribe": "八。"
+ },
+ "charon/ba2-737c.0": {
+  "gpt-4o-transcribe": "法",
+  "gpt-transcribe": "拔。"
+ },
+ "charon/ba3-b3ba.0": {
+  "gpt-4o-transcribe": "把"
+ },
+ "charon/ba4-a732.0": {
+  "gpt-4o-transcribe": "吧",
+  "forced": {
+   "ba1-2142": [
+    "爸。",
+    "爸"
+   ],
+   "ba2-737c": [
+    "爸",
+    "拔"
+   ],
+   "pa4-bc1c": [
+    "怕",
+    "爸"
+   ]
+  }
+ },
+ "charon/bai2-4a1a.0": {
+  "gpt-4o-transcribe": "来。",
+  "gpt-transcribe": "白。"
+ },
+ "charon/bai3-5013.0": {
+  "gpt-4o-transcribe": "摆"
+ },
+ "charon/bai4-cbc5.0": {
+  "gpt-4o-transcribe": "买",
+  "gpt-transcribe": "拜。"
+ },
+ "charon/ban1-1f7f.0": {
+  "gpt-4o-transcribe": "安。",
+  "gpt-transcribe": "搬。"
+ },
+ "charon/ban1-cca9.0": {
+  "gpt-4o-transcribe": "班"
+ },
+ "charon/ban3-2793.0": {
+  "gpt-4o-transcribe": "context:",
+  "gpt-transcribe": "按。",
+  "forced": {
+   "ban1-cca9": [
+    "板。",
+    "板。"
+   ]
+  }
+ },
+ "charon/ban4-2bff.0": {
+  "gpt-4o-transcribe": "context",
+  "gpt-transcribe": "Fun.",
+  "forced": {
+   "bang4-3b88": [
+    "半",
+    "半"
+   ]
+  }
+ },
+ "charon/bang1-703a.0": {
+  "gpt-4o-transcribe": "公",
+  "gpt-transcribe": "光。",
+  "forced": {
+   "ban1-1f7f": [
+    "帮。",
+    "帮"
+   ]
+  }
+ },
+ "charon/bang4-3b88.0": {
+  "gpt-4o-transcribe": "棒"
+ },
+ "charon/bao1-7e39.0": {
+  "gpt-4o-transcribe": "以下是一个普通话词语。",
+  "gpt-transcribe": "包。"
+ },
+ "charon/bao1zi5-bd1c.0": {
+  "gpt-4o-transcribe": "包子",
+  "forced": {
+   "bao4zi5-a556": [
+    "包子",
+    "豹子"
+   ]
+  }
+ },
+ "charon/bao3-6dab.0": {
+  "gpt-4o-transcribe": "好",
+  "gpt-transcribe": "宝。"
+ },
+ "charon/bao4-7bde.0": {
+  "gpt-4o-transcribe": "电报。",
+  "gpt-transcribe": "报。"
+ },
+ "charon/bao4zi5-a556.0": {
+  "gpt-4o-transcribe": "包子。",
+  "forced": {
+   "bao1zi5-bd1c": [
+    "豹子",
+    "豹子"
+   ]
+  }
+ },
+ "charon/bei1zi5-a49c.0": {
+  "gpt-4o-transcribe": "杯子"
+ },
+ "charon/bei3jing1-685e.0": {
+  "gpt-4o-transcribe": "北京"
+ },
+ "charon/bei4jing3-b13d.0": {
+  "gpt-4o-transcribe": "背景"
+ },
+ "charon/bei4zi5-e1d1.0": {
+  "gpt-4o-transcribe": "被子"
+ },
+ "charon/bi3-6810.0": {
+  "gpt-4o-transcribe": "比"
+ },
+ "charon/bi4-2ce3.0": {
+  "gpt-4o-transcribe": "b",
+  "gpt-transcribe": "B.",
+  "forced": {
+   "bi3-6810": [
+    "闭",
+    "逼"
+   ]
+  }
+ },
+ "charon/ca1-7dbe.0": {
+  "gpt-4o-transcribe": "擦"
+ },
+ "charon/cai2-b277.0": {
+  "gpt-4o-transcribe": "财。"
+ },
+ "charon/cai4-7b4b.0": {
+  "gpt-4o-transcribe": "词。",
+  "gpt-transcribe": "菜。"
+ },
+ "charon/cao3-6744.0": {
+  "gpt-4o-transcribe": "草"
+ },
+ "charon/ceng2-7895.0": {
+  "gpt-4o-transcribe": "层"
+ },
+ "charon/cha1-f565.0": {
+  "gpt-4o-transcribe": "茶",
+  "forced": {
+   "ca1-7dbe": [
+    "擦",
+    "擦"
+   ]
+  }
+ },
+ "charon/chai2-0dec.0": {
+  "gpt-4o-transcribe": "柴"
+ },
+ "charon/chan2-0f45.0": {
+  "gpt-4o-transcribe": "缠"
+ },
+ "charon/chao3-2c52.0": {
+  "gpt-4o-transcribe": "吵"
+ },
+ "charon/chao3-8268.0": {
+  "gpt-4o-transcribe": "吵"
+ },
+ "charon/chen2jiu4-ed43.0": {
+  "gpt-4o-transcribe": "成就",
+  "gpt-transcribe": "成就。",
+  "forced": {
+   "cheng2jiu4-5dc7": [
+    "成就",
+    "成就"
+   ]
+  }
+ },
+ "charon/cheng2-bb35.0": {
+  "gpt-4o-transcribe": "城"
+ },
+ "charon/cheng2jiu4-5dc7.0": {
+  "gpt-4o-transcribe": "成吉思楼",
+  "gpt-transcribe": "정지로.",
+  "forced": {
+   "chen2jiu4-ed43": [
+    "成就",
+    "成就"
+   ]
+  }
+ },
+ "charon/cheng2shi2-ef19.0": {
+  "gpt-4o-transcribe": "诚实"
+ },
+ "charon/cheng2shi4-5901.0": {
+  "gpt-4o-transcribe": "城市。"
+ },
+ "charon/chi1-a10d.0": {
+  "gpt-4o-transcribe": "吃"
+ },
+ "iapetus/ba1-2142.0": {
+  "gpt-4o-transcribe": "八"
+ },
+ "iapetus/ba2-737c.0": {
+  "gpt-4o-transcribe": "啊",
+  "gpt-transcribe": "靶。",
+  "forced": {
+   "ba3-b3ba": [
+    "把。",
+    "把"
+   ],
+   "ba1-2142": [
+    "拔。",
+    "拔"
+   ],
+   "ba4-a732": [
+    "拔。",
+    "拔"
+   ]
+  }
+ },
+ "iapetus/ba3-b3ba.0": {
+  "gpt-4o-transcribe": "把"
+ },
+ "iapetus/ba4-a732.0": {
+  "gpt-4o-transcribe": "爸。"
+ },
+ "iapetus/bai2-4a1a.0": {
+  "gpt-4o-transcribe": "爱",
+  "gpt-transcribe": "白。"
+ },
+ "iapetus/bai3-5013.0": {
+  "gpt-4o-transcribe": "拜",
+  "forced": {
+   "bai2-4a1a": [
+    "百",
+    "百。"
+   ]
+  }
+ },
+ "iapetus/bai4-cbc5.0": {
+  "gpt-4o-transcribe": "拜"
+ },
+ "iapetus/ban1-1f7f.0": {
+  "gpt-4o-transcribe": "翻。",
+  "gpt-transcribe": "搬。"
+ },
+ "iapetus/ban1-cca9.0": {
+  "gpt-4o-transcribe": "以下是一个普通话词语。",
+  "gpt-transcribe": "安。",
+  "forced": {
+   "ban3-2793": [
+    "板",
+    "搬"
+   ]
+  }
+ },
+ "iapetus/ban3-2793.0": {
+  "gpt-4o-transcribe": "反",
+  "gpt-transcribe": "板。"
+ },
+ "iapetus/ban4-2bff.0": {
+  "gpt-4o-transcribe": "办"
+ },
+ "iapetus/bang1-703a.0": {
+  "gpt-4o-transcribe": "帮"
+ },
+ "iapetus/bang4-3b88.0": {
+  "gpt-4o-transcribe": "棒"
+ },
+ "iapetus/bao1-7e39.0": {
+  "gpt-4o-transcribe": "普通",
+  "gpt-transcribe": "包。"
+ },
+ "iapetus/bao1zi5-bd1c.0": {
+  "gpt-4o-transcribe": "包子",
+  "forced": {
+   "bao4zi5-a556": [
+    "包子",
+    "包子"
+   ]
+  }
+ },
+ "iapetus/bao3-6dab.0": {
+  "gpt-4o-transcribe": "宝。"
+ },
+ "iapetus/bao4-7bde.0": {
+  "gpt-4o-transcribe": "抱"
+ },
+ "iapetus/bao4zi5-a556.0": {
+  "gpt-4o-transcribe": "豹子"
+ },
+ "iapetus/bei1zi5-a49c.0": {
+  "gpt-4o-transcribe": "杯子"
+ },
+ "iapetus/bei3jing1-685e.0": {
+  "gpt-4o-transcribe": "北京"
+ },
+ "iapetus/bei4jing3-b13d.0": {
+  "gpt-4o-transcribe": "背景"
+ },
+ "iapetus/bei4zi5-e1d1.0": {
+  "gpt-4o-transcribe": "被子。"
+ },
+ "iapetus/bi3-6810.0": {
+  "gpt-4o-transcribe": "笔"
+ },
+ "iapetus/bi4-2ce3.0": {
+  "gpt-4o-transcribe": "比",
+  "forced": {
+   "bi3-6810": [
+    "闭",
+    "比"
+   ]
+  }
+ },
+ "iapetus/ca1-7dbe.0": {
+  "gpt-4o-transcribe": "他。",
+  "gpt-transcribe": "擦。"
+ },
+ "iapetus/cai2-b277.0": {
+  "gpt-4o-transcribe": "才。"
+ },
+ "iapetus/cai4-7b4b.0": {
+  "gpt-4o-transcribe": "嗨",
+  "gpt-transcribe": "菜。"
+ },
+ "iapetus/cao3-6744.0": {
+  "gpt-4o-transcribe": "草"
+ },
+ "iapetus/ceng2-7895.0": {
+  "gpt-4o-transcribe": "层"
+ },
+ "iapetus/cha1-f565.0": {
+  "gpt-4o-transcribe": "他",
+  "gpt-transcribe": "差。",
+  "forced": {
+   "ca1-7dbe": [
+    "插",
+    "插"
+   ]
+  }
+ },
+ "iapetus/chai2-0dec.0": {
+  "gpt-4o-transcribe": "柴"
+ },
+ "iapetus/chan2-0f45.0": {
+  "gpt-4o-transcribe": "禅"
+ },
+ "iapetus/chao3-2c52.0": {
+  "gpt-4o-transcribe": "吵"
+ },
+ "iapetus/chao3-8268.0": {
+  "gpt-4o-transcribe": "吵。"
+ },
+ "iapetus/chen2jiu4-ed43.0": {
+  "gpt-4o-transcribe": "陈旧"
+ },
+ "iapetus/cheng2-bb35.0": {
+  "gpt-4o-transcribe": "尝",
+  "gpt-transcribe": "长。",
+  "forced": {
+   "ceng2-7895": [
+    "成",
+    "成。"
+   ]
+  }
+ },
+ "iapetus/cheng2jiu4-5dc7.0": {
+  "gpt-4o-transcribe": "成就"
+ },
+ "iapetus/cheng2shi2-ef19.0": {
+  "gpt-4o-transcribe": "诚实"
+ },
+ "iapetus/cheng2shi4-5901.0": {
+  "gpt-4o-transcribe": "城市"
+ },
+ "iapetus/chi1-a10d.0": {
+  "gpt-4o-transcribe": "吃"
+ },
+ "kore/ba2-737c.1": {
+  "gpt-4o-transcribe": "把",
+  "forced": {
+   "ba3-b3ba": [
+    "拔。",
+    "把"
+   ],
+   "ba1-2142": [
+    "拔",
+    "把。"
+   ],
+   "ba4-a732": [
+    "拔",
+    "拔"
+   ]
+  }
+ },
+ "kore/bai4-cbc5.1": {
+  "gpt-4o-transcribe": "拜"
+ },
+ "kore/ban4-2bff.1": {
+  "gpt-4o-transcribe": "饭",
+  "gpt-transcribe": "半。"
+ },
+ "kore/bang1-703a.1": {
+  "gpt-4o-transcribe": "崩",
+  "gpt-transcribe": "崩。",
+  "forced": {
+   "ban1-1f7f": [
+    "帮。",
+    "帮。"
+   ]
+  }
+ },
+ "kore/bang4-3b88.1": {
+  "gpt-4o-transcribe": "嗯",
+  "gpt-transcribe": "嗯。",
+  "forced": {
+   "ban4-2bff": [
+    "棒",
+    "半"
+   ]
+  }
+ },
+ "kore/bi3-6810.1": {
+  "gpt-4o-transcribe": "笔"
+ },
+ "kore/bi4-2ce3.1": {
+  "gpt-4o-transcribe": "壁"
+ },
+ "kore/chao3-2c52.1": {
+  "gpt-4o-transcribe": "吵。"
+ },
+ "kore/chi1-a10d.1": {
+  "gpt-4o-transcribe": "吃"
+ },
+ "erinome/bai3-5013.1": {
+  "gpt-4o-transcribe": "百"
+ },
+ "erinome/ban3-2793.1": {
+  "gpt-4o-transcribe": "板。"
+ },
+ "erinome/bao4-7bde.1": {
+  "gpt-4o-transcribe": "包",
+  "forced": {
+   "bao1-7e39": [
+    "抱",
+    "抱"
+   ],
+   "bao3-6dab": [
+    "抱",
+    "抱"
+   ]
+  }
+ },
+ "erinome/bi4-2ce3.1": {
+  "gpt-4o-transcribe": "比",
+  "forced": {
+   "bi3-6810": [
+    "闭",
+    "闭"
+   ]
+  }
+ },
+ "erinome/chai2-0dec.1": {
+  "gpt-4o-transcribe": "台",
+  "gpt-transcribe": "財。",
+  "forced": {
+   "cai2-b277": [
+    "才",
+    "才"
+   ]
+  }
+ },
+ "erinome/chao3-8268.1": {
+  "gpt-4o-transcribe": "吵。"
+ },
+ "erinome/chen2jiu4-ed43.1": {
+  "gpt-4o-transcribe": "成就",
+  "gpt-transcribe": "成就。",
+  "forced": {
+   "cheng2jiu4-5dc7": [
+    "成就",
+    "成就"
+   ]
+  }
+ },
+ "charon/ban3-2793.1": {
+  "gpt-4o-transcribe": "反",
+  "gpt-transcribe": "板。"
+ },
+ "charon/ban4-2bff.1": {
+  "gpt-4o-transcribe": "笨。",
+  "gpt-transcribe": "半。"
+ },
+ "charon/bang1-703a.1": {
+  "gpt-4o-transcribe": "纲",
+  "gpt-transcribe": "帮。"
+ },
+ "charon/bi4-2ce3.1": {
+  "gpt-4o-transcribe": "b",
+  "gpt-transcribe": "B。",
+  "forced": {
+   "bi3-6810": [
+    "比",
+    "比"
+   ]
+  }
+ },
+ "charon/chen2jiu4-ed43.1": {
+  "gpt-4o-transcribe": "成就",
+  "gpt-transcribe": "成就。",
+  "forced": {
+   "cheng2jiu4-5dc7": [
+    "成就",
+    "成就"
+   ]
+  }
+ },
+ "charon/cheng2jiu4-5dc7.1": {
+  "gpt-4o-transcribe": "成就"
+ },
+ "iapetus/ba2-737c.1": {
+  "gpt-4o-transcribe": "法",
+  "gpt-transcribe": "靶。",
+  "forced": {
+   "ba3-b3ba": [
+    "把",
+    "把"
+   ],
+   "ba1-2142": [
+    "拔",
+    "拔"
+   ],
+   "ba4-a732": [
+    "拔",
+    "爸"
+   ]
+  }
+ },
+ "iapetus/ba4-a732.1": {
+  "gpt-4o-transcribe": "吧",
+  "forced": {
+   "ba1-2142": [
+    "爸",
+    "爸"
+   ],
+   "ba2-737c": [
+    "拔",
+    "拔"
+   ],
+   "pa4-bc1c": [
+    "爸。",
+    "爸"
+   ]
+  }
+ },
+ "iapetus/ban1-cca9.1": {
+  "gpt-4o-transcribe": "以下",
+  "gpt-transcribe": "搬。"
+ },
+ "iapetus/bi4-2ce3.1": {
+  "gpt-4o-transcribe": "笔。",
+  "forced": {
+   "bi3-6810": [
+    "闭",
+    "闭"
+   ]
+  }
+ },
+ "iapetus/cheng2-bb35.1": {
+  "gpt-4o-transcribe": "馋",
+  "gpt-transcribe": "城。"
+ },
+ "kore/ba2-737c.2": {
+  "gpt-4o-transcribe": "啊",
+  "gpt-transcribe": "拔。"
+ },
+ "kore/bang1-703a.2": {
+  "gpt-4o-transcribe": "光",
+  "gpt-transcribe": "方。",
+  "forced": {
+   "ban1-1f7f": [
+    "帮。",
+    "帮。"
+   ]
+  }
+ },
+ "kore/bang4-3b88.2": {
+  "gpt-4o-transcribe": "安",
+  "gpt-transcribe": "on.",
+  "forced": {
+   "ban4-2bff": [
+    "半。",
+    "半"
+   ]
+  }
+ },
+ "kore/bi3-6810.2": {
+  "gpt-4o-transcribe": "笔。"
+ },
+ "erinome/bao4-7bde.2": {
+  "gpt-4o-transcribe": "毛",
+  "gpt-transcribe": "抱。"
+ },
+ "erinome/bi4-2ce3.2": {
+  "gpt-4o-transcribe": "屁",
+  "gpt-transcribe": "B。",
+  "forced": {
+   "bi3-6810": [
+    "比",
+    "比"
+   ]
+  }
+ },
+ "erinome/chai2-0dec.2": {
+  "gpt-4o-transcribe": "财",
+  "gpt-transcribe": "柴。"
+ },
+ "erinome/chen2jiu4-ed43.2": {
+  "gpt-4o-transcribe": "成就",
+  "gpt-transcribe": "成就。",
+  "forced": {
+   "cheng2jiu4-5dc7": [
+    "成就",
+    "成就"
+   ]
+  }
+ },
+ "charon/bi4-2ce3.2": {
+  "gpt-4o-transcribe": "比",
+  "forced": {
+   "bi3-6810": [
+    "比",
+    "比。"
+   ]
+  }
+ },
+ "charon/chen2jiu4-ed43.2": {
+  "gpt-4o-transcribe": "成就",
+  "gpt-transcribe": "陈旧。"
+ },
+ "iapetus/ba2-737c.2": {
+  "gpt-4o-transcribe": "啊",
+  "gpt-transcribe": "拔。"
+ },
+ "iapetus/bi4-2ce3.2": {
+  "gpt-4o-transcribe": "笔",
+  "forced": {
+   "bi3-6810": [
+    "闭",
+    "比"
+   ]
+  }
+ },
+ "iapetus/cheng2jiu4-5dc7.1": {
+  "gpt-4o-transcribe": "成就"
+ },
+ "kore/chi2-0c28.0": {
+  "gpt-4o-transcribe": "渠",
+  "gpt-transcribe": "渠。",
+  "forced": {
+   "ci2-df99": [
+    "迟",
+    "迟"
+   ]
+  }
+ },
+ "kore/chi3-683c.0": {
+  "gpt-4o-transcribe": "取",
+  "gpt-transcribe": "曲。",
+  "forced": {
+   "zhi3-9055": [
+    "尺",
+    "尺。"
+   ]
+  }
+ },
+ "kore/chong1-e429.0": {
+  "gpt-4o-transcribe": "冲"
+ },
+ "kore/chong2-01e3.0": {
+  "gpt-4o-transcribe": "虫"
+ },
+ "kore/chou1-ca48.0": {
+  "gpt-4o-transcribe": "抽"
+ },
+ "kore/chou2-59ae.0": {
+  "gpt-4o-transcribe": "筹"
+ },
+ "kore/chou3-aa9d.0": {
+  "gpt-4o-transcribe": "丑。"
+ },
+ "kore/chu1-69e8.0": {
+  "gpt-4o-transcribe": "初"
+ },
+ "kore/chuan2-2eaf.0": {
+  "gpt-4o-transcribe": "船"
+ },
+ "kore/chuang1-1a3d.0": {
+  "gpt-4o-transcribe": "窗"
+ },
+ "kore/chuang2-a30d.0": {
+  "gpt-4o-transcribe": "床"
+ },
+ "kore/chuang3-924b.0": {
+  "gpt-4o-transcribe": "闯"
+ },
+ "kore/chun1-3e45.0": {
+  "gpt-4o-transcribe": "春。"
+ },
+ "kore/chuo1-42b6.0": {
+  "gpt-4o-transcribe": "戳"
+ },
+ "kore/ci2-df99.0": {
+  "gpt-4o-transcribe": "词"
+ },
+ "kore/ci4-5e5b.0": {
+  "gpt-4o-transcribe": "词",
+  "forced": {
+   "zi4-582c": [
+    "次",
+    "次。"
+   ]
+  }
+ },
+ "kore/cong2-8ab9.0": {
+  "gpt-4o-transcribe": "从"
+ },
+ "kore/cou4-4d61.0": {
+  "gpt-4o-transcribe": "凑"
+ },
+ "kore/cu1-4c9c.0": {
+  "gpt-4o-transcribe": "粗"
+ },
+ "kore/cun1-4211.0": {
+  "gpt-4o-transcribe": "村。"
+ },
+ "kore/cuo4-cc73.0": {
+  "gpt-4o-transcribe": "错"
+ },
+ "kore/da3-6919.0": {
+  "gpt-4o-transcribe": "打"
+ },
+ "kore/da4-0889.0": {
+  "gpt-4o-transcribe": "炸",
+  "gpt-transcribe": "炸。",
+  "forced": {
+   "da3-6919": [
+    "大",
+    "大"
+   ],
+   "ta4-08ce": [
+    "大。",
+    "大"
+   ]
+  }
+ },
+ "kore/da4xue2-858b.0": {
+  "gpt-4o-transcribe": "大学"
+ },
+ "kore/da4xue3-7c72.0": {
+  "gpt-4o-transcribe": "大雪"
+ },
+ "kore/dao1-c8f6.0": {
+  "gpt-4o-transcribe": "刀"
+ },
+ "kore/dao3-4543.0": {
+  "gpt-4o-transcribe": "岛。"
+ },
+ "kore/dao4-792b.0": {
+  "gpt-4o-transcribe": "走",
+  "gpt-transcribe": "豆。",
+  "forced": {
+   "dao1-c8f6": [
+    "到",
+    "到"
+   ],
+   "tao4-0322": [
+    "到。",
+    "到。"
+   ]
+  }
+ },
+ "kore/deng1-7e6e.0": {
+  "gpt-4o-transcribe": "灯"
+ },
+ "kore/deng3-3d3e.0": {
+  "gpt-4o-transcribe": "盛",
+  "gpt-transcribe": "等。"
+ },
+ "kore/deng4-f350.0": {
+  "gpt-4o-transcribe": "单",
+  "gpt-transcribe": "但。",
+  "forced": {
+   "deng1-7e6e": [
+    "凳",
+    "凳"
+   ],
+   "deng3-3d3e": [
+    "凳。",
+    "凳。"
+   ]
+  }
+ },
+ "kore/di1-b9ee.0": {
+  "gpt-4o-transcribe": "鸡",
+  "gpt-transcribe": "D。",
+  "forced": {
+   "ti1-2359": [
+    "low",
+    "低。"
+   ]
+  }
+ },
+ "kore/di4-2763.0": {
+  "gpt-4o-transcribe": "地"
+ },
+ "kore/diao4-dd73.0": {
+  "gpt-4o-transcribe": "调。",
+  "gpt-transcribe": "表。",
+  "forced": {
+   "tiao4-8449": [
+    "掉",
+    "掉"
+   ]
+  }
+ },
+ "kore/dong1-520b.0": {
+  "gpt-4o-transcribe": "东"
+ },
+ "kore/dong3-632b.0": {
+  "gpt-4o-transcribe": "懂。"
+ },
+ "kore/dong4-b30d.0": {
+  "gpt-4o-transcribe": "动"
+ },
+ "kore/dou4-d081.0": {
+  "gpt-4o-transcribe": "收",
+  "gpt-transcribe": "豆。"
+ },
+ "kore/du2-d001.0": {
+  "gpt-4o-transcribe": "毒"
+ },
+ "kore/du3-d07c.0": {
+  "gpt-4o-transcribe": "佐",
+  "gpt-transcribe": "赌。"
+ },
+ "kore/du4-304f.0": {
+  "gpt-4o-transcribe": "度。"
+ },
+ "kore/du4zi5-e102.0": {
+  "gpt-4o-transcribe": "肚子",
+  "forced": {
+   "tu4zi5-3daa": [
+    "肚子",
+    "肚子"
+   ]
+  }
+ },
+ "kore/duo1-451b.0": {
+  "gpt-4o-transcribe": "多"
+ },
+ "kore/duo2-7085.0": {
+  "gpt-4o-transcribe": "踱"
+ },
+ "kore/duo3-7497.0": {
+  "gpt-4o-transcribe": "躲"
+ },
+ "kore/duo4-600c.0": {
+  "gpt-4o-transcribe": "做",
+  "gpt-transcribe": "做。",
+  "forced": {
+   "dou4-d081": [
+    "剁",
+    "剁"
+   ]
+  }
+ },
+ "kore/fa1-b089.0": {
+  "gpt-4o-transcribe": "发"
+ },
+ "kore/fan3wen4-2056.0": {
+  "gpt-4o-transcribe": "反问"
+ },
+ "kore/fan4-cded.0": {
+  "gpt-4o-transcribe": "算",
+  "gpt-transcribe": "散。",
+  "forced": {
+   "fang4-6967": [
+    "饭",
+    "饭"
+   ],
+   "han4-4743": [
+    "饭",
+    "饭。"
+   ]
+  }
+ },
+ "kore/fang1-2e9c.0": {
+  "gpt-4o-transcribe": "方。"
+ },
+ "kore/fang2-510c.0": {
+  "gpt-4o-transcribe": "蒜",
+  "gpt-transcribe": "伞。",
+  "forced": {
+   "fang1-2e9c": [
+    "房",
+    "房"
+   ],
+   "fang4-6967": [
+    "房。",
+    "房。"
+   ]
+  }
+ },
+ "kore/fang3wen4-7f56.0": {
+  "gpt-4o-transcribe": "访问"
+ },
+ "kore/fang4-6967.0": {
+  "gpt-4o-transcribe": "丧",
+  "gpt-transcribe": "sun.",
+  "forced": {
+   "fang2-510c": [
+    "放",
+    "放"
+   ],
+   "fan4-cded": [
+    "放",
+    "放"
+   ]
+  }
+ },
+ "kore/fei1-322b.0": {
+  "gpt-4o-transcribe": "say",
+  "gpt-transcribe": "C.",
+  "forced": {
+   "fei4-f07a": [
+    "飞",
+    "费"
+   ],
+   "fei2-e650": [
+    "飞",
+    "飞"
+   ],
+   "hei1-1518": [
+    "飞",
+    "飞"
+   ]
+  }
+ },
+ "kore/fei2-e650.0": {
+  "gpt-4o-transcribe": "肥"
+ },
+ "kore/fei4-f07a.0": {
+  "gpt-4o-transcribe": "say",
+  "gpt-transcribe": "say.",
+  "forced": {
+   "fei1-322b": [
+    "费",
+    "费"
+   ]
+  }
+ },
+ "kore/fen1-0d74.0": {
+  "gpt-4o-transcribe": "森。",
+  "gpt-transcribe": "森。",
+  "forced": {
+   "feng1-5344": [
+    "分。",
+    "分"
+   ]
+  }
+ },
+ "kore/fen3-febc.0": {
+  "gpt-4o-transcribe": "翻。",
+  "gpt-transcribe": "反。",
+  "forced": {
+   "hen3-8b46": [
+    "粉",
+    "粉"
+   ]
+  }
+ },
+ "kore/fen4-aa9f.0": {
+  "gpt-4o-transcribe": "分",
+  "forced": {
+   "hen4-4b14": [
+    "份",
+    "份"
+   ]
+  }
+ },
+ "kore/feng1-5344.0": {
+  "gpt-4o-transcribe": "风"
+ },
+ "kore/fu1-79b3.0": {
+  "gpt-4o-transcribe": "foo",
+  "gpt-transcribe": "夫。"
+ },
+ "kore/fu2-c792.0": {
+  "gpt-4o-transcribe": "符"
+ },
+ "kore/fu3-57c8.0": {
+  "gpt-4o-transcribe": "府"
+ },
+ "kore/gao1-b096.0": {
+  "gpt-4o-transcribe": "州",
+  "gpt-transcribe": "周。",
+  "forced": {
+   "gao3-c075": [
+    "高",
+    "高"
+   ]
+  }
+ },
+ "kore/gao3-c075.0": {
+  "gpt-4o-transcribe": "狗",
+  "gpt-transcribe": "搞。"
+ },
+ "kore/ge1-3a38.0": {
+  "gpt-4o-transcribe": "胳"
+ },
+ "kore/ge1-cdfd.0": {
+  "gpt-4o-transcribe": "割。"
+ },
+ "kore/ge4-f7b2.0": {
+  "gpt-4o-transcribe": "土锅",
+  "gpt-transcribe": "多。",
+  "forced": {
+   "ge1-3a38": [
+    "歌",
+    "歌"
+   ]
+  }
+ },
+ "kore/gou3-2fcb.0": {
+  "gpt-4o-transcribe": "狗。"
+ },
+ "kore/gou4-a69b.0": {
+  "gpt-4o-transcribe": "狗",
+  "forced": {
+   "guo4-e19e": [
+    "够",
+    "够"
+   ]
+  }
+ },
+ "kore/gu3-8932.0": {
+  "gpt-4o-transcribe": "鼓"
+ },
+ "kore/guai4-7bc1.0": {
+  "gpt-4o-transcribe": "怪"
+ },
+ "kore/guan1-a333.0": {
+  "gpt-4o-transcribe": "官。"
+ },
+ "kore/guang1-5ae5.0": {
+  "gpt-4o-transcribe": "光"
+ },
+ "kore/guo3-d62c.0": {
+  "gpt-4o-transcribe": "果"
+ },
+ "kore/guo4-e19e.0": {
+  "gpt-4o-transcribe": "过"
+ },
+ "kore/ha1-3d4e.0": {
+  "gpt-4o-transcribe": "哈"
+ },
+ "kore/han4-4743.0": {
+  "gpt-4o-transcribe": "海",
+  "gpt-transcribe": "嗨。",
+  "forced": {
+   "fan4-cded": [
+    "汗。",
+    "汗"
+   ]
+  }
+ },
+ "kore/he1-9982.0": {
+  "gpt-4o-transcribe": "喝"
+ },
+ "kore/he2-2aa3.0": {
+  "gpt-4o-transcribe": "和"
+ },
+ "kore/hei1-1518.0": {
+  "gpt-4o-transcribe": "嘿"
+ },
+ "kore/hen3-8b46.0": {
+  "gpt-4o-transcribe": "狠。"
+ },
+ "kore/hen4-4b14.0": {
+  "gpt-4o-transcribe": "恨"
+ },
+ "kore/heng1-0cc0.0": {
+  "gpt-4o-transcribe": "痕。",
+  "gpt-transcribe": "哼。"
+ },
+ "kore/hou2-a446.0": {
+  "gpt-4o-transcribe": "口",
+  "gpt-transcribe": "猴。"
+ },
+ "kore/hou4-7b55.0": {
+  "gpt-4o-transcribe": "后"
+ },
+ "kore/hu1-5869.0": {
+  "gpt-4o-transcribe": "呼"
+ },
+ "kore/hu2-58c2.0": {
+  "gpt-4o-transcribe": "壶"
+ },
+ "kore/hu3-e3b6.0": {
+  "gpt-4o-transcribe": "火",
+  "gpt-transcribe": "火。",
+  "forced": {
+   "fu3-57c8": [
+    "虎",
+    "虎"
+   ]
+  }
+ },
+ "kore/hua1-9be4.0": {
+  "gpt-4o-transcribe": "花"
+ },
+ "kore/hua2-2f0d.0": {
+  "gpt-4o-transcribe": "华"
+ },
+ "kore/hua4-9160.0": {
+  "gpt-4o-transcribe": "话。"
+ },
+ "kore/hui2-5b72.0": {
+  "gpt-4o-transcribe": "回"
+ },
+ "kore/hui4-577c.0": {
+  "gpt-4o-transcribe": "会"
+ },
+ "kore/huo2-f3e7.0": {
+  "gpt-4o-transcribe": "火",
+  "forced": {
+   "hou2-a446": [
+    "活",
+    "活"
+   ]
+  }
+ },
+ "kore/huo4-7855.0": {
+  "gpt-4o-transcribe": "货"
+ },
+ "kore/ji1-5109.0": {
+  "gpt-4o-transcribe": "词",
+  "gpt-transcribe": "鸡。"
+ },
+ "kore/ji1hui4-0692.0": {
+  "gpt-4o-transcribe": "机会"
+ },
+ "kore/ji2-eec9.0": {
+  "gpt-4o-transcribe": "集"
+ },
+ "kore/ji2hui4-8f93.0": {
+  "gpt-4o-transcribe": "集会"
+ },
+ "kore/ji3-68bf.0": {
+  "gpt-4o-transcribe": "挤"
+ },
+ "kore/ji4-ebaf.0": {
+  "gpt-4o-transcribe": "寂"
+ },
+ "kore/jia1-7de8.0": {
+  "gpt-4o-transcribe": "家"
+ },
+ "kore/jia4-1da2.0": {
+  "gpt-4o-transcribe": "嫁"
+ },
+ "kore/jian4-d65f.0": {
+  "gpt-4o-transcribe": "见"
+ },
+ "kore/jiang3-860f.0": {
+  "gpt-4o-transcribe": "讲"
+ },
+ "kore/jiang4-4f28.0": {
+  "gpt-4o-transcribe": "酱"
+ },
+ "kore/jiao1-422e.0": {
+  "gpt-4o-transcribe": "秋",
+  "gpt-transcribe": "揪。",
+  "forced": {
+   "qiao1-0a47": [
+    "交",
+    "交"
+   ]
+  }
+ },
+ "kore/jiao4shi1-aa55.0": {
+  "gpt-4o-transcribe": "教师。"
+ },
+ "kore/jiao4shi4-f325.0": {
+  "gpt-4o-transcribe": "教绪",
+  "gpt-transcribe": "教訓。",
+  "forced": {
+   "jiao4shi1-aa55": [
+    "教室。",
+    "教室"
+   ]
+  }
+ },
+ "kore/jin1-b59d.0": {
+  "gpt-4o-transcribe": "金"
+ },
+ "kore/jin1yu2-a330.0": {
+  "gpt-4o-transcribe": "金鱼"
+ },
+ "kore/jin4-681b.0": {
+  "gpt-4o-transcribe": "信",
+  "gpt-transcribe": "进。"
+ },
+ "kore/jing1yu2-2208.0": {
+  "gpt-4o-transcribe": "鲸鱼"
+ },
+ "kore/jing4-f75f.0": {
+  "gpt-4o-transcribe": "进",
+  "gpt-transcribe": "进。",
+  "forced": {
+   "jin4-681b": [
+    "进",
+    "进"
+   ]
+  }
+ },
+ "kore/jiu3-27a2.0": {
+  "gpt-4o-transcribe": "酒。"
+ },
+ "kore/jiu4-b64e.0": {
+  "gpt-4o-transcribe": "酒",
+  "forced": {
+   "jiu3-27a2": [
+    "旧",
+    "旧"
+   ]
+  }
+ },
+ "kore/ju4-27df.0": {
+  "gpt-4o-transcribe": "句"
+ },
+ "kore/kai1fan4-46be.0": {
+  "gpt-4o-transcribe": "开饭"
+ },
+ "kore/kai1fang4-7506.0": {
+  "gpt-4o-transcribe": "开旷",
+  "gpt-transcribe": "開放。"
+ },
+ "kore/kao3-ed96.0": {
+  "gpt-4o-transcribe": "考"
+ },
+ "kore/kao4-3f86.0": {
+  "gpt-4o-transcribe": "考",
+  "forced": {
+   "kao3-ed96": [
+    "考",
+    "考。"
+   ]
+  }
+ },
+ "kore/ke1-dced.0": {
+  "gpt-4o-transcribe": "科。"
+ },
+ "kore/kou3-1e7b.0": {
+  "gpt-4o-transcribe": "口"
+ },
+ "kore/ku3-f3c1.0": {
+  "gpt-4o-transcribe": "苦。"
+ },
+ "kore/kuai4-e6e9.0": {
+  "gpt-4o-transcribe": "快"
+ },
+ "kore/kuan1-6395.0": {
+  "gpt-4o-transcribe": "宽"
+ },
+ "kore/lai2-4b1d.0": {
+  "gpt-4o-transcribe": "来"
+ },
+ "kore/lai4-572f.0": {
+  "gpt-4o-transcribe": "赖。"
+ },
+ "kore/lan2-a44c.0": {
+  "gpt-4o-transcribe": "兰。"
+ },
+ "kore/lan3-56f5.0": {
+  "gpt-4o-transcribe": "懒"
+ },
+ "kore/lan4-43a5.0": {
+  "gpt-4o-transcribe": "烂"
+ },
+ "kore/lang2-84d6.0": {
+  "gpt-4o-transcribe": "郎"
+ },
+ "kore/lang4-a23e.0": {
+  "gpt-4o-transcribe": "阑。",
+  "gpt-transcribe": "烂。",
+  "forced": {
+   "lan4-43a5": [
+    "浪",
+    "烂"
+   ],
+   "rang4-c0fe": [
+    "浪",
+    "浪"
+   ]
+  }
+ },
+ "kore/lao3shi1-494f.0": {
+  "gpt-4o-transcribe": "老师。"
+ },
+ "kore/lao3shi4-e5d6.0": {
+  "gpt-4o-transcribe": "老师",
+  "forced": {
+   "lao3shi1-494f": [
+    "老师",
+    "老师"
+   ]
+  }
+ },
+ "kore/li2-c76a.0": {
+  "gpt-4o-transcribe": "礼",
+  "forced": {
+   "li3-cdd2": [
+    "李",
+    "李。"
+   ]
+  }
+ },
+ "kore/li3-cdd2.0": {
+  "gpt-4o-transcribe": "礼"
+ },
+ "kore/lian2xi4-4dd6.0": {
+  "gpt-4o-transcribe": "联系"
+ },
+ "kore/lian4xi2-5b7f.0": {
+  "gpt-4o-transcribe": "练习"
+ },
+ "kore/lin2-020f.0": {
+  "gpt-4o-transcribe": "联",
+  "gpt-transcribe": "林。"
+ },
+ "kore/ling2-e0d7.0": {
+  "gpt-4o-transcribe": "联",
+  "gpt-transcribe": "零。"
+ },
+ "kore/liu2-0990.0": {
+  "gpt-4o-transcribe": "流"
+ },
+ "kore/liu3-0dc0.0": {
+  "gpt-4o-transcribe": "柳"
+ },
+ "kore/long2-075e.0": {
+  "gpt-4o-transcribe": "龙"
+ },
+ "kore/lou2-598e.0": {
+  "gpt-4o-transcribe": "楼"
+ },
+ "kore/lou4-114e.0": {
+  "gpt-4o-transcribe": "lòu",
+  "gpt-transcribe": "漏。"
+ },
+ "kore/lu2-680d.0": {
+  "gpt-4o-transcribe": "卢"
+ },
+ "kore/lu4-de80.0": {
+  "gpt-4o-transcribe": "路"
+ },
+ "kore/luan3-e040.0": {
+  "gpt-4o-transcribe": "卵"
+ },
+ "kore/luo2-000e.0": {
+  "gpt-4o-transcribe": "罗"
+ },
+ "kore/lv2-49de.0": {
+  "gpt-4o-transcribe": "旅。",
+  "forced": {
+   "lu2-680d": [
+    "驴",
+    "驴"
+   ]
+  }
+ },
+ "kore/lv4-5796.0": {
+  "gpt-4o-transcribe": "力",
+  "gpt-transcribe": "绿。"
+ },
+ "kore/ma1-e391.0": {
+  "gpt-4o-transcribe": "妈"
+ },
+ "kore/ma2-433e.0": {
+  "gpt-4o-transcribe": "麻"
+ },
+ "kore/ma3-7d39.0": {
+  "gpt-4o-transcribe": "马"
+ },
+ "kore/ma4-6343.0": {
+  "gpt-4o-transcribe": "骂"
+ },
+ "kore/mai2-2c49.0": {
+  "gpt-4o-transcribe": "买",
+  "forced": {
+   "mai3-b6c5": [
+    "埋",
+    "埋"
+   ]
+  }
+ },
+ "kore/mai3-b6c5.0": {
+  "gpt-4o-transcribe": "买"
+ },
+ "kore/mai4-df45.0": {
+  "gpt-4o-transcribe": "卖"
+ },
+ "kore/mao1-e10b.0": {
+  "gpt-4o-transcribe": "猫。"
+ },
+ "kore/mao2-f749.0": {
+  "gpt-4o-transcribe": "毛"
+ },
+ "kore/mei3li4-e159.0": {
+  "gpt-4o-transcribe": "美丽"
+ },
+ "kore/mei4li4-abe5.0": {
+  "gpt-4o-transcribe": "魅力。"
+ },
+ "kore/mi2-2ee7.0": {
+  "gpt-4o-transcribe": "米",
+  "forced": {
+   "mi3-ee7f": [
+    "米",
+    "米"
+   ],
+   "mi4-d493": [
+    "迷",
+    "迷"
+   ]
+  }
+ },
+ "kore/mi3-ee7f.0": {
+  "gpt-4o-transcribe": "米。"
+ },
+ "kore/mi4-d493.0": {
+  "gpt-4o-transcribe": "密"
+ },
+ "kore/mu4chuan2-8efa.0": {
+  "gpt-4o-transcribe": "木船。"
+ },
+ "kore/mu4chuang2-c75f.0": {
+  "gpt-4o-transcribe": "木床"
+ },
+ "kore/na2-748a.0": {
+  "gpt-4o-transcribe": "拿"
+ },
+ "kore/na3-cd96.0": {
+  "gpt-4o-transcribe": "哪儿",
+  "gpt-transcribe": "哪儿？",
+  "forced": {
+   "na2-748a": [
+    "哪儿",
+    "哪儿"
+   ]
+  }
+ },
+ "kore/na4-3270.0": {
+  "gpt-4o-transcribe": "那"
+ },
+ "kore/nian2-6f14.0": {
+  "gpt-4o-transcribe": "年"
+ },
+ "kore/nian4-13d0.0": {
+  "gpt-4o-transcribe": "念"
+ },
+ "kore/niu2-bf9b.0": {
+  "gpt-4o-transcribe": "牛。"
+ },
+ "kore/niu3-4642.0": {
+  "gpt-4o-transcribe": "扭"
+ },
+ "kore/nu3-c530.0": {
+  "gpt-4o-transcribe": "努"
+ },
+ "kore/nv3-26bc.0": {
+  "gpt-4o-transcribe": "女"
+ },
+ "kore/pa4-bc1c.0": {
+  "gpt-4o-transcribe": "怕"
+ },
+ "kore/pai2-265d.0": {
+  "gpt-4o-transcribe": "台",
+  "gpt-transcribe": "牌。"
+ },
+ "kore/pan2-15c7.0": {
+  "gpt-4o-transcribe": "盘"
+ },
+ "kore/pang2-c12a.0": {
+  "gpt-4o-transcribe": "盘",
+  "gpt-transcribe": "盘。",
+  "forced": {
+   "pan2-15c7": [
+    "盘",
+    "盘"
+   ]
+  }
+ },
+ "kore/pao3-1516.0": {
+  "gpt-4o-transcribe": "草。",
+  "gpt-transcribe": "跑。"
+ },
+ "kore/pao4-b19a.0": {
+  "gpt-4o-transcribe": "泡"
+ },
+ "kore/qi1-7db1.0": {
+  "gpt-4o-transcribe": "妻"
+ },
+ "kore/qi2-c058.0": {
+  "gpt-4o-transcribe": "其次",
+  "gpt-transcribe": "棋。"
+ },
+ "kore/qi3-2919.0": {
+  "gpt-4o-transcribe": "起"
+ },
+ "kore/qi4-b08d.0": {
+  "gpt-4o-transcribe": "词",
+  "gpt-transcribe": "戏。",
+  "forced": {
+   "qi1-7db1": [
+    "七",
+    "七"
+   ],
+   "qi3-2919": [
+    "气。",
+    "气"
+   ],
+   "qi2-c058": [
+    "气。",
+    "气"
+   ]
+  }
+ },
+ "kore/qian2-073d.0": {
+  "gpt-4o-transcribe": "钱"
+ },
+ "kore/qian2-db4b.0": {
+  "gpt-4o-transcribe": "钱"
+ },
+ "kore/qian3-d181.0": {
+  "gpt-4o-transcribe": "钱。",
+  "forced": {
+   "qian2-db4b": [
+    "浅",
+    "钱"
+   ]
+  }
+ },
+ "kore/qian4-bdc9.0": {
+  "gpt-4o-transcribe": "欠"
+ },
+ "kore/qiang2-6512.0": {
+  "gpt-4o-transcribe": "墙。"
+ },
+ "kore/qiao1-0a47.0": {
+  "gpt-4o-transcribe": "敲"
+ },
+ "kore/qin1-a39a.0": {
+  "gpt-4o-transcribe": "亲。"
+ },
+ "kore/qiu1-8d8f.0": {
+  "gpt-4o-transcribe": "秋"
+ },
+ "kore/qiu2-f2af.0": {
+  "gpt-4o-transcribe": "球"
+ },
+ "kore/ran2-02b5.0": {
+  "gpt-4o-transcribe": "然"
+ },
+ "kore/rang4-c0fe.0": {
+  "gpt-4o-transcribe": "让"
+ },
+ "kore/ren2-4912.0": {
+  "gpt-4o-transcribe": "人"
+ },
+ "kore/ren2min2-4c4d.0": {
+  "gpt-4o-transcribe": "人民"
+ },
+ "kore/ren2ming2-0947.0": {
+  "gpt-4o-transcribe": "人民",
+  "gpt-transcribe": "人民。",
+  "forced": {
+   "ren2min2-4c4d": [
+    "人民。",
+    "人民"
+   ]
+  }
+ },
+ "kore/ren3-4ce4.0": {
+  "gpt-4o-transcribe": "忍"
+ },
+ "kore/rong2-7e83.0": {
+  "gpt-4o-transcribe": "冗。",
+  "forced": {
+   "long2-075e": [
+    "容",
+    "容。"
+   ]
+  }
+ },
+ "kore/rou2-8c77.0": {
+  "gpt-4o-transcribe": "柔"
+ },
+ "kore/rou4-6759.0": {
+  "gpt-4o-transcribe": "肉"
+ },
+ "kore/ru4-4a8d.0": {
+  "gpt-4o-transcribe": "入"
+ },
+ "kore/ruan3-6a8a.0": {
+  "gpt-4o-transcribe": "软"
+ },
+ "kore/ruo4-d479.0": {
+  "gpt-4o-transcribe": "弱"
+ },
+ "kore/san1-49dd.0": {
+  "gpt-4o-transcribe": "三"
+ },
+ "kore/san1jiao3-b721.0": {
+  "gpt-4o-transcribe": "山脚",
+  "gpt-transcribe": "山脚。",
+  "forced": {
+   "shan1jiao3-63cd": [
+    "山脚",
+    "山脚"
+   ]
+  }
+ },
+ "kore/sao3-a84f.0": {
+  "gpt-4o-transcribe": "扫"
+ },
+ "kore/shan1-0e24.0": {
+  "gpt-4o-transcribe": "shine",
+  "gpt-transcribe": "Shine.",
+  "forced": {
+   "san1-49dd": [
+    "山。",
+    "山"
+   ],
+   "xian1-82d4": [
+    "山",
+    "山"
+   ],
+   "shang1-19a8": [
+    "山",
+    "山"
+   ]
+  }
+ },
+ "kore/shan1jiao3-63cd.0": {
+  "gpt-4o-transcribe": "山脚。"
+ },
+ "kore/shang1-19a8.0": {
+  "gpt-4o-transcribe": "商"
+ },
+ "kore/shang1hai4-69ac.0": {
+  "gpt-4o-transcribe": "伤害"
+ },
+ "kore/shang3-e6c2.0": {
+  "gpt-4o-transcribe": "赏"
+ },
+ "kore/shang4hai3-99f1.0": {
+  "gpt-4o-transcribe": "上海"
+ },
+ "kore/shao1-4a1c.0": {
+  "gpt-4o-transcribe": "收",
+  "gpt-transcribe": "烧。"
+ },
+ "kore/shao3-fa49.0": {
+  "gpt-4o-transcribe": "少"
+ },
+ "kore/she2-67bc.0": {
+  "gpt-4o-transcribe": "蛇"
+ },
+ "kore/shen1-44a6.0": {
+  "gpt-4o-transcribe": "身"
+ },
+ "kore/sheng1-3eb3.0": {
+  "gpt-4o-transcribe": "生"
+ },
+ "kore/sheng3-45ad.0": {
+  "gpt-4o-transcribe": "省"
+ },
+ "kore/sheng4-5db0.0": {
+  "gpt-4o-transcribe": "瞬",
+  "gpt-transcribe": "圣。"
+ },
+ "kore/shi1-53e0.0": {
+  "gpt-4o-transcribe": "虚",
+  "gpt-transcribe": "虛。",
+  "forced": {
+   "si1-a088": [
+    "诗",
+    "诗"
+   ],
+   "xi1-2f64": [
+    "诗。",
+    "诗。"
+   ]
+  }
+ },
+ "kore/shi1-7c06.0": {
+  "gpt-4o-transcribe": "虚。",
+  "gpt-transcribe": "虚。",
+  "forced": {
+   "xi1-869f": [
+    "湿。",
+    "湿。"
+   ]
+  }
+ },
+ "kore/shi1ren2-305c.0": {
+  "gpt-4o-transcribe": "诗人"
+ },
+ "kore/shi2-aa10.0": {
+  "gpt-4o-transcribe": "屎",
+  "forced": {
+   "shi3-f690": [
+    "十",
+    "使"
+   ]
+  }
+ },
+ "kore/shi2ji1-6609.0": {
+  "gpt-4o-transcribe": "时机"
+ },
+ "kore/shi2ji4-1b85.0": {
+  "gpt-4o-transcribe": "实际"
+ },
+ "kore/shi2jian1-89b4.0": {
+  "gpt-4o-transcribe": "时间"
+ },
+ "kore/shi3-f690.0": {
+  "gpt-4o-transcribe": "写",
+  "gpt-transcribe": "史。"
+ },
+ "kore/shi4-3016.0": {
+  "gpt-4o-transcribe": "是"
+ },
+ "kore/shi4jian4-550e.0": {
+  "gpt-4o-transcribe": "事件"
+ },
+ "kore/shou1-59a6.0": {
+  "gpt-4o-transcribe": "收"
+ },
+ "kore/shou3-c08a.0": {
+  "gpt-4o-transcribe": "手"
+ },
+ "kore/shou4-41eb.0": {
+  "gpt-4o-transcribe": "收。",
+  "forced": {
+   "shou3-c08a": [
+    "受",
+    "手"
+   ]
+  }
+ },
+ "kore/shu1-fe04.0": {
+  "gpt-4o-transcribe": "书。"
+ },
+ "kore/shu4-7803.0": {
+  "gpt-4o-transcribe": "树。"
+ },
+ "kore/shuan4-aef8.0": {
+  "gpt-4o-transcribe": "栓。",
+  "forced": {
+   "suan4-2ae1": [
+    "涮",
+    "涮"
+   ]
+  }
+ },
+ "kore/shui3-8ffb.0": {
+  "gpt-4o-transcribe": "水"
+ },
+ "kore/shui3jiao3-e5d6.0": {
+  "gpt-4o-transcribe": "水饺"
+ },
+ "kore/shui4-c149.0": {
+  "gpt-4o-transcribe": "说。",
+  "gpt-transcribe": "睡。"
+ },
+ "kore/shui4jiao4-6380.0": {
+  "gpt-4o-transcribe": "睡觉"
+ },
+ "kore/shuo1-be30.0": {
+  "gpt-4o-transcribe": "说"
+ },
+ "kore/si1-a088.0": {
+  "gpt-4o-transcribe": "丝"
+ },
+ "kore/si1ren2-82b4.0": {
+  "gpt-4o-transcribe": "诗人",
+  "gpt-transcribe": "诗人。",
+  "forced": {
+   "shi1ren2-305c": [
+    "诗人",
+    "诗人"
+   ]
+  }
+ },
+ "kore/si4-4f88.0": {
+  "gpt-4o-transcribe": "四"
+ },
+ "kore/sou1-35d7.0": {
+  "gpt-4o-transcribe": "搜"
+ },
+ "kore/suan4-2ae1.0": {
+  "gpt-4o-transcribe": "算"
+ },
+ "kore/sui4-86f1.0": {
+  "gpt-4o-transcribe": "谁",
+  "gpt-transcribe": "C.",
+  "forced": {
+   "shui4-c149": [
+    "岁",
+    "岁"
+   ]
+  }
+ },
+ "kore/suo1-ad71.0": {
+  "gpt-4o-transcribe": "说。",
+  "gpt-transcribe": "缩。"
+ },
+ "kore/ta4-08ce.0": {
+  "gpt-4o-transcribe": "踏"
+ },
+ "kore/tan2qin2-e22a.0": {
+  "gpt-4o-transcribe": "弹琴"
+ },
+ "kore/tan2qing2-a676.0": {
+  "gpt-4o-transcribe": "弹琴",
+  "gpt-transcribe": "弹琴。",
+  "forced": {
+   "tan2qin2-e22a": [
+    "弹琴",
+    "弹琴"
+   ]
+  }
+ },
+ "kore/tang1-fc4e.0": {
+  "gpt-4o-transcribe": "趴翁",
+  "gpt-transcribe": "汤。"
+ },
+ "kore/tang2-3d8c.0": {
+  "gpt-4o-transcribe": "谭",
+  "gpt-transcribe": "糖。"
+ },
+ "kore/tang3-a854.0": {
+  "gpt-4o-transcribe": "Tom",
+  "gpt-transcribe": "躺。"
+ },
+ "kore/tang4-700e.0": {
+  "gpt-4o-transcribe": "烫"
+ },
+ "kore/tao4-0322.0": {
+  "gpt-4o-transcribe": "套"
+ },
+ "kore/ti1-2359.0": {
+  "gpt-4o-transcribe": "欺",
+  "gpt-transcribe": "踢。"
+ },
+ "kore/ti2-c9d6.0": {
+  "gpt-4o-transcribe": "提"
+ },
+ "kore/ti4-1f05.0": {
+  "gpt-4o-transcribe": "气",
+  "gpt-transcribe": "key.",
+  "forced": {
+   "ti2-c9d6": [
+    "替",
+    "替"
+   ],
+   "di4-2763": [
+    "替。",
+    "替"
+   ]
+  }
+ },
+ "kore/tian1-c330.0": {
+  "gpt-4o-transcribe": "天"
+ },
+ "kore/tian2-ab95.0": {
+  "gpt-4o-transcribe": "钱",
+  "gpt-transcribe": "钱。",
+  "forced": {
+   "tian1-c330": [
+    "甜",
+    "甜"
+   ]
+  }
+ },
+ "kore/tian3-9894.0": {
+  "gpt-4o-transcribe": "甜。",
+  "forced": {
+   "tian1-c330": [
+    "舔",
+    "舔"
+   ]
+  }
+ },
+ "kore/tiao4-8449.0": {
+  "gpt-4o-transcribe": "嘲",
+  "gpt-transcribe": "俏。",
+  "forced": {
+   "diao4-dd73": [
+    "跳",
+    "跳"
+   ]
+  }
+ },
+ "kore/tong1-bef2.0": {
+  "gpt-4o-transcribe": "通"
+ },
+ "kore/tong2-0b8b.0": {
+  "gpt-4o-transcribe": "从",
+  "gpt-transcribe": "从。",
+  "forced": {
+   "tong1-bef2": [
+    "同",
+    "同"
+   ]
+  }
+ },
+ "kore/tong2zhi4-928d.0": {
+  "gpt-4o-transcribe": "同志"
+ },
+ "kore/tong3zhi4-a879.0": {
+  "gpt-4o-transcribe": "统计",
+  "gpt-transcribe": "統治。"
+ },
+ "kore/tou1-9b1d.0": {
+  "gpt-4o-transcribe": "抠。",
+  "gpt-transcribe": "抠。",
+  "forced": {
+   "tou2-f366": [
+    "偷",
+    "偷"
+   ],
+   "tuo1-49da": [
+    "偷",
+    "偷"
+   ]
+  }
+ },
+ "kore/tou2-f366.0": {
+  "gpt-4o-transcribe": "头"
+ },
+ "kore/tou4-78a0.0": {
+  "gpt-4o-transcribe": "口。",
+  "gpt-transcribe": "扣。",
+  "forced": {
+   "tou2-f366": [
+    "头",
+    "头"
+   ]
+  }
+ },
+ "kore/tu2-611a.0": {
+  "gpt-4o-transcribe": "图"
+ },
+ "kore/tu4zi5-3daa.0": {
+  "gpt-4o-transcribe": "兔子"
+ },
+ "kore/tuo1-49da.0": {
+  "gpt-4o-transcribe": "拖"
+ },
+ "kore/wan2-0830.0": {
+  "gpt-4o-transcribe": "玩"
+ },
+ "kore/wan2-d0ae.0": {
+  "gpt-4o-transcribe": "完"
+ },
+ "kore/wan3-7c0f.0": {
+  "gpt-4o-transcribe": "晚。"
+ },
+ "kore/wan4-0d3b.0": {
+  "gpt-4o-transcribe": "玩。",
+  "forced": {
+   "wan3-7c0f": [
+    "万",
+    "万"
+   ],
+   "yuan4-ead6": [
+    "万。",
+    "万"
+   ]
+  }
+ },
+ "kore/wang2-c7b1.0": {
+  "gpt-4o-transcribe": "王"
+ },
+ "kore/wang3-4ad9.0": {
+  "gpt-4o-transcribe": "网"
+ },
+ "kore/wang4-1787.0": {
+  "gpt-4o-transcribe": "旺"
+ },
+ "kore/wen2-176f.0": {
+  "gpt-4o-transcribe": "文"
+ },
+ "kore/wen2ti3-a14c.0": {
+  "gpt-4o-transcribe": "文体"
+ },
+ "kore/wen3-dfa7.0": {
+  "gpt-4o-transcribe": "稳"
+ },
+ "kore/wen4ti2-2fb4.0": {
+  "gpt-4o-transcribe": "问题"
+ },
+ "kore/wu2-7207.0": {
+  "gpt-4o-transcribe": "吴"
+ },
+ "kore/wu3-8f07.0": {
+  "gpt-4o-transcribe": "五"
+ },
+ "kore/wu4-2697.0": {
+  "gpt-4o-transcribe": "误"
+ },
+ "kore/xi1-2f64.0": {
+  "gpt-4o-transcribe": "咻",
+  "gpt-transcribe": "西。"
+ },
+ "kore/xi1-869f.0": {
+  "gpt-4o-transcribe": "词。",
+  "gpt-transcribe": "西。"
+ },
+ "kore/xi3-cef2.0": {
+  "gpt-4o-transcribe": "洗。"
+ },
+ "kore/xi3-d21b.0": {
+  "gpt-4o-transcribe": "起",
+  "gpt-transcribe": "洗。"
+ },
+ "kore/xi4-6a00.0": {
+  "gpt-4o-transcribe": "戏"
+ },
+ "kore/xi4-8f46.0": {
+  "gpt-4o-transcribe": "戏"
+ },
+ "kore/xian1-82d4.0": {
+  "gpt-4o-transcribe": "先"
+ },
+ "kore/xian1-d10b.0": {
+  "gpt-4o-transcribe": "线。",
+  "forced": {
+   "xian2-1d22": [
+    "鲜",
+    "鲜。"
+   ]
+  }
+ },
+ "kore/xian2-1d22.0": {
+  "gpt-4o-transcribe": "咸"
+ },
+ "kore/xiang1-7ba4.0": {
+  "gpt-4o-transcribe": "香"
+ },
+ "kore/xiang3-a48f.0": {
+  "gpt-4o-transcribe": "想"
+ },
+ "kore/xiang4-344b.0": {
+  "gpt-4o-transcribe": "项"
+ },
+ "kore/xiao1-06f9.0": {
+  "gpt-4o-transcribe": "销"
+ },
+ "kore/xiao3-9225.0": {
+  "gpt-4o-transcribe": "小"
+ },
+ "kore/xiao4-740d.0": {
+  "gpt-4o-transcribe": "校"
+ },
+ "kore/xie2-0106.0": {
+  "gpt-4o-transcribe": "写",
+  "forced": {
+   "xie3-144d": [
+    "鞋",
+    "鞋"
+   ],
+   "xie4-b27c": [
+    "鞋",
+    "鞋"
+   ],
+   "she2-67bc": [
+    "鞋",
+    "鞋"
+   ]
+  }
+ },
+ "kore/xie3-144d.0": {
+  "gpt-4o-transcribe": "写"
+ },
+ "kore/xie4-b27c.0": {
+  "gpt-4o-transcribe": "谢。"
+ },
+ "kore/xin1-481e.0": {
+  "gpt-4o-transcribe": "心"
+ },
+ "kore/xin4-6c71.0": {
+  "gpt-4o-transcribe": "信"
+ },
+ "kore/xing1-92ae.0": {
+  "gpt-4o-transcribe": "心",
+  "gpt-transcribe": "心。",
+  "forced": {
+   "xing3-9e66": [
+    "星",
+    "醒"
+   ],
+   "sheng1-3eb3": [
+    "星。",
+    "星"
+   ],
+   "xin1-481e": [
+    "心",
+    "心"
+   ]
+  }
+ },
+ "kore/xing3-9e66.0": {
+  "gpt-4o-transcribe": "请",
+  "gpt-transcribe": "醒。"
+ },
+ "kore/xing4-003e.0": {
+  "gpt-4o-transcribe": "姓"
+ },
+ "kore/xiong1mao2-fc47.0": {
+  "gpt-4o-transcribe": "胸毛。"
+ },
+ "kore/xiong2mao1-b1c3.0": {
+  "gpt-4o-transcribe": "熊猫"
+ },
+ "kore/xue2-7c7a.0": {
+  "gpt-4o-transcribe": "邪",
+  "gpt-transcribe": "写。",
+  "forced": {
+   "xue3-7d74": [
+    "学",
+    "学。"
+   ]
+  }
+ },
+ "kore/xue3-7d74.0": {
+  "gpt-4o-transcribe": "血。",
+  "forced": {
+   "xue2-7c7a": [
+    "学",
+    "血"
+   ]
+  }
+ },
+ "kore/ya1-ee25.0": {
+  "gpt-4o-transcribe": "压"
+ },
+ "kore/ya1li2-843d.0": {
+  "gpt-4o-transcribe": "压力",
+  "forced": {
+   "ya1li4-aef4": [
+    "压力。",
+    "压力"
+   ]
+  }
+ },
+ "kore/ya1li4-aef4.0": {
+  "gpt-4o-transcribe": "压力"
+ },
+ "kore/ya2-87d8.0": {
+  "gpt-4o-transcribe": "雅。",
+  "forced": {
+   "ya3-a2cf": [
+    "牙",
+    "哑"
+   ]
+  }
+ },
+ "kore/ya3-a2cf.0": {
+  "gpt-4o-transcribe": "雅。"
+ },
+ "kore/yan1-fb4e.0": {
+  "gpt-4o-transcribe": "烟。"
+ },
+ "kore/yan2-1629.0": {
+  "gpt-4o-transcribe": "言。"
+ },
+ "kore/yan3-6191.0": {
+  "gpt-4o-transcribe": "言",
+  "forced": {
+   "yan2-1629": [
+    "眼。",
+    "眼"
+   ],
+   "yan1-fb4e": [
+    "眼",
+    "眼"
+   ],
+   "yang3-51e5": [
+    "眼。",
+    "眼"
+   ]
+  }
+ },
+ "kore/yang2-de33.0": {
+  "gpt-4o-transcribe": "羊"
+ },
+ "kore/yang3-51e5.0": {
+  "gpt-4o-transcribe": "羊",
+  "forced": {
+   "yan3-6191": [
+    "养",
+    "养"
+   ]
+  }
+ },
+ "kore/yao1-b12d.0": {
+  "gpt-4o-transcribe": "腰"
+ },
+ "kore/yao3-b6bd.0": {
+  "gpt-4o-transcribe": "咬。"
+ },
+ "kore/yao4-55b7.0": {
+  "gpt-4o-transcribe": "要"
+ },
+ "kore/yin1-b7ec.0": {
+  "gpt-4o-transcribe": "音"
+ },
+ "kore/ying1-4956.0": {
+  "gpt-4o-transcribe": "应",
+  "forced": {
+   "yin1-b7ec": [
+    "鹰",
+    "鹰"
+   ]
+  }
+ },
+ "kore/you2-2407.0": {
+  "gpt-4o-transcribe": "游"
+ },
+ "kore/you2qian2-5ae9.0": {
+  "gpt-4o-transcribe": "有钱",
+  "forced": {
+   "you3qian2-8b5f": [
+    "油钱",
+    "油钱"
+   ]
+  }
+ },
+ "kore/you3-fbd5.0": {
+  "gpt-4o-transcribe": "有"
+ },
+ "kore/you3qian2-8b5f.0": {
+  "gpt-4o-transcribe": "有钱"
+ },
+ "kore/you4-4c2b.0": {
+  "gpt-4o-transcribe": "友",
+  "forced": {
+   "you3-fbd5": [
+    "又",
+    "有"
+   ],
+   "you2-2407": [
+    "又",
+    "又"
+   ]
+  }
+ },
+ "kore/yu2-9246.0": {
+  "gpt-4o-transcribe": "语",
+  "forced": {
+   "yu3-8995": [
+    "鱼。",
+    "鱼"
+   ],
+   "yu4-2081": [
+    "鱼",
+    "鱼"
+   ],
+   "wu2-7207": [
+    "鱼。",
+    "鱼。"
+   ]
+  }
+ },
+ "kore/yu3-8995.0": {
+  "gpt-4o-transcribe": "以",
+  "gpt-transcribe": "雨。"
+ },
+ "kore/yu3yan2-cd99.0": {
+  "gpt-4o-transcribe": "语言"
+ },
+ "kore/yu4-2081.0": {
+  "gpt-4o-transcribe": "玉。"
+ },
+ "kore/yu4yan2-edf7.0": {
+  "gpt-4o-transcribe": "预言"
+ },
+ "kore/yuan2-aeb0.0": {
+  "gpt-4o-transcribe": "圆"
+ },
+ "kore/yuan3-e733.0": {
+  "gpt-4o-transcribe": "远。"
+ },
+ "kore/yuan4-ead6.0": {
+  "gpt-4o-transcribe": "冤",
+  "forced": {
+   "yuan3-e733": [
+    "院。",
+    "院。"
+   ],
+   "wan4-0d3b": [
+    "院",
+    "院。"
+   ]
+  }
+ },
+ "kore/zai4-686b.0": {
+  "gpt-4o-transcribe": "赛",
+  "gpt-transcribe": "在。"
+ },
+ "kore/zang1-d94b.0": {
+  "gpt-4o-transcribe": "藏。",
+  "gpt-transcribe": "髒。"
+ },
+ "kore/zao3-13a8.0": {
+  "gpt-4o-transcribe": "早"
+ },
+ "kore/zao4-5af6.0": {
+  "gpt-4o-transcribe": "扫。",
+  "gpt-transcribe": "造。"
+ },
+ "kore/zeng1-5fa3.0": {
+  "gpt-4o-transcribe": "松。",
+  "gpt-transcribe": "增。"
+ },
+ "kore/zhang1-9273.0": {
+  "gpt-4o-transcribe": "张"
+ },
+ "kore/zhao3-76aa.0": {
+  "gpt-4o-transcribe": "找。"
+ },
+ "kore/zhen1-e756.0": {
+  "gpt-4o-transcribe": "gem",
+  "gpt-transcribe": "jam。",
+  "forced": {
+   "jin1-b59d": [
+    "真",
+    "真"
+   ],
+   "zheng1-3e88": [
+    "真",
+    "争"
+   ]
+  }
+ },
+ "kore/zheng1-3e88.0": {
+  "gpt-4o-transcribe": "中",
+  "gpt-transcribe": "争。"
+ },
+ "kore/zhi1-c524.0": {
+  "gpt-4o-transcribe": "猪。",
+  "gpt-transcribe": "居。",
+  "forced": {
+   "ji1-5109": [
+    "知",
+    "知"
+   ]
+  }
+ },
+ "kore/zhi3-9055.0": {
+  "gpt-4o-transcribe": "举",
+  "gpt-transcribe": "解。",
+  "forced": {
+   "chi3-683c": [
+    "纸",
+    "纸"
+   ],
+   "ji3-68bf": [
+    "几",
+    "纸。"
+   ]
+  }
+ },
+ "kore/zhong1-0869.0": {
+  "gpt-4o-transcribe": "中"
+ },
+ "kore/zhong3-a1f3.0": {
+  "gpt-4o-transcribe": "种"
+ },
+ "kore/zhou1-451b.0": {
+  "gpt-4o-transcribe": "州"
+ },
+ "kore/zhou3-0583.0": {
+  "gpt-4o-transcribe": "酒。",
+  "gpt-transcribe": "酒。",
+  "forced": {
+   "zou3-0851": [
+    "肘",
+    "肘"
+   ],
+   "jiu3-27a2": [
+    "九",
+    "九"
+   ]
+  }
+ },
+ "kore/zhu1-3e2d.0": {
+  "gpt-4o-transcribe": "出",
+  "gpt-transcribe": "出。",
+  "forced": {
+   "chu1-69e8": [
+    "猪",
+    "出"
+   ]
+  }
+ },
+ "kore/zhu3ren2-636e.0": {
+  "gpt-4o-transcribe": "主人"
+ },
+ "kore/zhu3ren4-4876.0": {
+  "gpt-4o-transcribe": "主宴",
+  "gpt-transcribe": "主宴。",
+  "forced": {
+   "zhu3ren2-636e": [
+    "主任",
+    "主任"
+   ]
+  }
+ },
+ "kore/zhu4-80b8.0": {
+  "gpt-4o-transcribe": "注"
+ },
+ "kore/zhuo1-c4a4.0": {
+  "gpt-4o-transcribe": "猪",
+  "gpt-transcribe": "桌。"
+ },
+ "kore/zi4-582c.0": {
+  "gpt-4o-transcribe": "字"
+ },
+ "kore/zou3-0851.0": {
+  "gpt-4o-transcribe": "走"
+ },
+ "kore/zu1-5d00.0": {
+  "gpt-4o-transcribe": "粗",
+  "gpt-transcribe": "粗。",
+  "forced": {
+   "cu1-4c9c": [
+    "粗",
+    "粗"
+   ]
+  }
+ },
+ "kore/zuo3-df3e.0": {
+  "gpt-4o-transcribe": "左"
+ },
+ "kore/zuo4-4a1e.0": {
+  "gpt-4o-transcribe": "做"
+ },
+ "erinome/chi2-0c28.0": {
+  "gpt-4o-transcribe": "趋",
+  "gpt-transcribe": "渠。",
+  "forced": {
+   "ci2-df99": [
+    "迟",
+    "词"
+   ]
+  }
+ },
+ "erinome/chi3-683c.0": {
+  "gpt-4o-transcribe": "蚀",
+  "gpt-transcribe": "齿。"
+ },
+ "erinome/chong1-e429.0": {
+  "gpt-4o-transcribe": "冲"
+ },
+ "erinome/chong2-01e3.0": {
+  "gpt-4o-transcribe": "虫"
+ },
+ "erinome/chou1-ca48.0": {
+  "gpt-4o-transcribe": "偷。",
+  "gpt-transcribe": "抽。"
+ },
+ "erinome/chou2-59ae.0": {
+  "gpt-4o-transcribe": "绸"
+ },
+ "erinome/chou3-aa9d.0": {
+  "gpt-4o-transcribe": "丑。"
+ },
+ "erinome/chu1-69e8.0": {
+  "gpt-4o-transcribe": "出"
+ },
+ "erinome/chuan2-2eaf.0": {
+  "gpt-4o-transcribe": "传。"
+ },
+ "erinome/chuang1-1a3d.0": {
+  "gpt-4o-transcribe": "窗"
+ },
+ "erinome/chuang2-a30d.0": {
+  "gpt-4o-transcribe": "床"
+ },
+ "erinome/chuang3-924b.0": {
+  "gpt-4o-transcribe": "床",
+  "forced": {
+   "chuang2-a30d": [
+    "床",
+    "床"
+   ],
+   "chuang1-1a3d": [
+    "闯",
+    "窗。"
+   ]
+  }
+ },
+ "erinome/chun1-3e45.0": {
+  "gpt-4o-transcribe": "春"
+ },
+ "erinome/chuo1-42b6.0": {
+  "gpt-4o-transcribe": "戳"
+ },
+ "erinome/ci2-df99.0": {
+  "gpt-4o-transcribe": "词"
+ },
+ "erinome/ci4-5e5b.0": {
+  "gpt-4o-transcribe": "刺"
+ },
+ "erinome/cong2-8ab9.0": {
+  "gpt-4o-transcribe": "从"
+ },
+ "erinome/cou4-4d61.0": {
+  "gpt-4o-transcribe": "草",
+  "gpt-transcribe": "臭。",
+  "forced": {
+   "cuo4-cc73": [
+    "凑",
+    "凑"
+   ]
+  }
+ },
+ "erinome/cu1-4c9c.0": {
+  "gpt-4o-transcribe": "粗"
+ },
+ "erinome/cun1-4211.0": {
+  "gpt-4o-transcribe": "村"
+ },
+ "erinome/cuo4-cc73.0": {
+  "gpt-4o-transcribe": "错"
+ },
+ "erinome/da3-6919.0": {
+  "gpt-4o-transcribe": "打"
+ },
+ "erinome/da4-0889.0": {
+  "gpt-4o-transcribe": "大"
+ },
+ "erinome/da4xue2-858b.0": {
+  "gpt-4o-transcribe": "大学"
+ },
+ "erinome/da4xue3-7c72.0": {
+  "gpt-4o-transcribe": "大雪"
+ },
+ "erinome/dao1-c8f6.0": {
+  "gpt-4o-transcribe": "刀"
+ },
+ "erinome/dao3-4543.0": {
+  "gpt-4o-transcribe": "倒。"
+ },
+ "erinome/dao4-792b.0": {
+  "gpt-4o-transcribe": "报",
+  "gpt-transcribe": "爆。",
+  "forced": {
+   "dao1-c8f6": [
+    "到",
+    "到。"
+   ],
+   "tao4-0322": [
+    "到",
+    "套"
+   ]
+  }
+ },
+ "erinome/deng1-7e6e.0": {
+  "gpt-4o-transcribe": "灯。"
+ },
+ "erinome/deng3-3d3e.0": {
+  "gpt-4o-transcribe": "等"
+ },
+ "erinome/deng4-f350.0": {
+  "gpt-4o-transcribe": "懂",
+  "gpt-transcribe": "邓。"
+ },
+ "erinome/di1-b9ee.0": {
+  "gpt-4o-transcribe": "滴"
+ },
+ "erinome/di4-2763.0": {
+  "gpt-4o-transcribe": "低",
+  "forced": {
+   "ti4-1f05": [
+    "弟。",
+    "弟"
+   ]
+  }
+ },
+ "erinome/diao4-dd73.0": {
+  "gpt-4o-transcribe": "调",
+  "gpt-transcribe": "調。"
+ },
+ "erinome/dong1-520b.0": {
+  "gpt-4o-transcribe": "公",
+  "gpt-transcribe": "工。",
+  "forced": {
+   "dong4-b30d": [
+    "东",
+    "东"
+   ],
+   "dong3-632b": [
+    "东",
+    "东"
+   ]
+  }
+ },
+ "erinome/dong3-632b.0": {
+  "gpt-4o-transcribe": "懂"
+ },
+ "erinome/dong4-b30d.0": {
+  "gpt-4o-transcribe": "痛",
+  "gpt-transcribe": "洞。"
+ },
+ "erinome/dou4-d081.0": {
+  "gpt-4o-transcribe": "豆"
+ },
+ "erinome/du2-d001.0": {
+  "gpt-4o-transcribe": "读"
+ },
+ "erinome/du3-d07c.0": {
+  "gpt-4o-transcribe": "堵"
+ },
+ "erinome/du4-304f.0": {
+  "gpt-4o-transcribe": "度"
+ },
+ "erinome/du4zi5-e102.0": {
+  "gpt-4o-transcribe": "肚子",
+  "forced": {
+   "tu4zi5-3daa": [
+    "肚子",
+    "肚子"
+   ]
+  }
+ },
+ "erinome/duo1-451b.0": {
+  "gpt-4o-transcribe": "多"
+ },
+ "erinome/duo2-7085.0": {
+  "gpt-4o-transcribe": "躲",
+  "forced": {
+   "duo1-451b": [
+    "夺",
+    "夺"
+   ]
+  }
+ },
+ "erinome/duo3-7497.0": {
+  "gpt-4o-transcribe": "做娃",
+  "gpt-transcribe": "爪。",
+  "forced": {
+   "duo1-451b": [
+    "躲",
+    "躲。"
+   ]
+  }
+ },
+ "erinome/duo4-600c.0": {
+  "gpt-4o-transcribe": "做",
+  "gpt-transcribe": "做。",
+  "forced": {
+   "dou4-d081": [
+    "剁",
+    "剁"
+   ]
+  }
+ },
+ "erinome/fa1-b089.0": {
+  "gpt-4o-transcribe": "发"
+ },
+ "erinome/fan3wen4-2056.0": {
+  "gpt-4o-transcribe": "反问。"
+ },
+ "erinome/fan4-cded.0": {
+  "gpt-4o-transcribe": "饭"
+ },
+ "erinome/fang1-2e9c.0": {
+  "gpt-4o-transcribe": "翻。",
+  "gpt-transcribe": "分。",
+  "forced": {
+   "fang2-510c": [
+    "方。",
+    "方"
+   ]
+  }
+ },
+ "erinome/fang2-510c.0": {
+  "gpt-4o-transcribe": "房"
+ },
+ "erinome/fang3wen4-7f56.0": {
+  "gpt-4o-transcribe": "访问"
+ },
+ "erinome/fang4-6967.0": {
+  "gpt-4o-transcribe": "放。"
+ },
+ "erinome/fei1-322b.0": {
+  "gpt-4o-transcribe": "飞"
+ },
+ "erinome/fei2-e650.0": {
+  "gpt-4o-transcribe": "飞。",
+  "forced": {
+   "fei1-322b": [
+    "肥",
+    "肥"
+   ]
+  }
+ },
+ "erinome/fei4-f07a.0": {
+  "gpt-4o-transcribe": "费。"
+ },
+ "erinome/fen1-0d74.0": {
+  "gpt-4o-transcribe": "分。"
+ },
+ "erinome/fen3-febc.0": {
+  "gpt-4o-transcribe": "粉"
+ },
+ "erinome/fen4-aa9f.0": {
+  "gpt-4o-transcribe": "饭",
+  "gpt-transcribe": "愤。"
+ },
+ "erinome/feng1-5344.0": {
+  "gpt-4o-transcribe": "风"
+ },
+ "erinome/fu1-79b3.0": {
+  "gpt-4o-transcribe": "夫"
+ },
+ "erinome/fu2-c792.0": {
+  "gpt-4o-transcribe": "伏"
+ },
+ "erinome/fu3-57c8.0": {
+  "gpt-4o-transcribe": "词。",
+  "gpt-transcribe": "府。"
+ },
+ "erinome/gao1-b096.0": {
+  "gpt-4o-transcribe": "高"
+ },
+ "erinome/gao3-c075.0": {
+  "gpt-4o-transcribe": "稿"
+ },
+ "erinome/ge1-3a38.0": {
+  "gpt-4o-transcribe": "歌"
+ },
+ "erinome/ge1-cdfd.0": {
+  "gpt-4o-transcribe": "啊",
+  "gpt-transcribe": "ㄜ。",
+  "forced": {
+   "ke1-dced": [
+    "哥。",
+    "哥"
+   ]
+  }
+ },
+ "erinome/ge4-f7b2.0": {
+  "gpt-4o-transcribe": "搁",
+  "forced": {
+   "ge1-3a38": [
+    "歌",
+    "歌"
+   ]
+  }
+ },
+ "erinome/gou3-2fcb.0": {
+  "gpt-4o-transcribe": "狗"
+ },
+ "erinome/gou4-a69b.0": {
+  "gpt-4o-transcribe": "够"
+ },
+ "erinome/gu3-8932.0": {
+  "gpt-4o-transcribe": "鼓"
+ },
+ "erinome/guai4-7bc1.0": {
+  "gpt-4o-transcribe": "怪"
+ },
+ "erinome/guan1-a333.0": {
+  "gpt-4o-transcribe": "官"
+ },
+ "erinome/guang1-5ae5.0": {
+  "gpt-4o-transcribe": "光"
+ },
+ "erinome/guo3-d62c.0": {
+  "gpt-4o-transcribe": "果"
+ },
+ "erinome/guo4-e19e.0": {
+  "gpt-4o-transcribe": "过"
+ },
+ "erinome/ha1-3d4e.0": {
+  "gpt-4o-transcribe": "哈。"
+ },
+ "erinome/han4-4743.0": {
+  "gpt-4o-transcribe": "汉"
+ },
+ "erinome/he1-9982.0": {
+  "gpt-4o-transcribe": "喝"
+ },
+ "erinome/he2-2aa3.0": {
+  "gpt-4o-transcribe": "河"
+ },
+ "erinome/hei1-1518.0": {
+  "gpt-4o-transcribe": "嘿"
+ },
+ "erinome/hen3-8b46.0": {
+  "gpt-4o-transcribe": "狠"
+ },
+ "erinome/hen4-4b14.0": {
+  "gpt-4o-transcribe": "恨"
+ },
+ "erinome/heng1-0cc0.0": {
+  "gpt-4o-transcribe": "哼"
+ },
+ "erinome/hou2-a446.0": {
+  "gpt-4o-transcribe": "猴"
+ },
+ "erinome/hou4-7b55.0": {
+  "gpt-4o-transcribe": "后"
+ },
+ "erinome/hu1-5869.0": {
+  "gpt-4o-transcribe": "哭。",
+  "gpt-transcribe": "哭。",
+  "forced": {
+   "fu1-79b3": [
+    "呼",
+    "呼"
+   ]
+  }
+ },
+ "erinome/hu2-58c2.0": {
+  "gpt-4o-transcribe": "胡。"
+ },
+ "erinome/hu3-e3b6.0": {
+  "gpt-4o-transcribe": "虎。"
+ },
+ "erinome/hua1-9be4.0": {
+  "gpt-4o-transcribe": "花"
+ },
+ "erinome/hua2-2f0d.0": {
+  "gpt-4o-transcribe": "划",
+  "forced": {
+   "hua1-9be4": [
+    "滑。",
+    "滑"
+   ]
+  }
+ },
+ "erinome/hua4-9160.0": {
+  "gpt-4o-transcribe": "话"
+ },
+ "erinome/hui2-5b72.0": {
+  "gpt-4o-transcribe": "回"
+ },
+ "erinome/hui4-577c.0": {
+  "gpt-4o-transcribe": "会"
+ },
+ "erinome/huo2-f3e7.0": {
+  "gpt-4o-transcribe": "活"
+ },
+ "erinome/huo4-7855.0": {
+  "gpt-4o-transcribe": "话。",
+  "gpt-transcribe": "豁。",
+  "forced": {
+   "hou4-7b55": [
+    "货",
+    "货"
+   ]
+  }
+ },
+ "erinome/ji1-5109.0": {
+  "gpt-4o-transcribe": "鸡"
+ },
+ "erinome/ji1hui4-0692.0": {
+  "gpt-4o-transcribe": "机会"
+ },
+ "erinome/ji2-eec9.0": {
+  "gpt-4o-transcribe": "集"
+ },
+ "erinome/ji2hui4-8f93.0": {
+  "gpt-4o-transcribe": "集会"
+ },
+ "erinome/ji3-68bf.0": {
+  "gpt-4o-transcribe": "起",
+  "gpt-transcribe": "挤。"
+ },
+ "erinome/ji4-ebaf.0": {
+  "gpt-4o-transcribe": "鸡",
+  "forced": {
+   "ji1-5109": [
+    "记。",
+    "鸡。"
+   ],
+   "ji3-68bf": [
+    "记",
+    "记"
+   ],
+   "ji2-eec9": [
+    "记",
+    "记"
+   ]
+  }
+ },
+ "erinome/jia1-7de8.0": {
+  "gpt-4o-transcribe": "家"
+ },
+ "erinome/jia4-1da2.0": {
+  "gpt-4o-transcribe": "价"
+ },
+ "erinome/jian4-d65f.0": {
+  "gpt-4o-transcribe": "贱"
+ },
+ "erinome/jiang3-860f.0": {
+  "gpt-4o-transcribe": "讲"
+ },
+ "erinome/jiang4-4f28.0": {
+  "gpt-4o-transcribe": "项。",
+  "gpt-transcribe": "酱。"
+ },
+ "erinome/jiao1-422e.0": {
+  "gpt-4o-transcribe": "焦"
+ },
+ "erinome/jiao4shi1-aa55.0": {
+  "gpt-4o-transcribe": "教师"
+ },
+ "erinome/jiao4shi4-f325.0": {
+  "gpt-4o-transcribe": "教室"
+ },
+ "erinome/jin1-b59d.0": {
+  "gpt-4o-transcribe": "金"
+ },
+ "erinome/jin1yu2-a330.0": {
+  "gpt-4o-transcribe": "金鱼"
+ },
+ "erinome/jin4-681b.0": {
+  "gpt-4o-transcribe": "近"
+ },
+ "erinome/jing1yu2-2208.0": {
+  "gpt-4o-transcribe": "金鱼",
+  "gpt-transcribe": "金鱼。",
+  "forced": {
+   "jin1yu2-a330": [
+    "鲸鱼。",
+    "金鱼"
+   ]
+  }
+ },
+ "erinome/jing4-f75f.0": {
+  "gpt-4o-transcribe": "敬"
+ },
+ "erinome/jiu3-27a2.0": {
+  "gpt-4o-transcribe": "词语。",
+  "gpt-transcribe": "酒。"
+ },
+ "erinome/jiu4-b64e.0": {
+  "gpt-4o-transcribe": "旧"
+ },
+ "erinome/ju4-27df.0": {
+  "gpt-4o-transcribe": "句"
+ },
+ "erinome/kai1fan4-46be.0": {
+  "gpt-4o-transcribe": "开饭"
+ },
+ "erinome/kai1fang4-7506.0": {
+  "gpt-4o-transcribe": "开放。"
+ },
+ "erinome/kao3-ed96.0": {
+  "gpt-4o-transcribe": "烤"
+ },
+ "erinome/kao4-3f86.0": {
+  "gpt-4o-transcribe": "靠"
+ },
+ "erinome/ke1-dced.0": {
+  "gpt-4o-transcribe": "科"
+ },
+ "erinome/kou3-1e7b.0": {
+  "gpt-4o-transcribe": "考。",
+  "gpt-transcribe": "烤。",
+  "forced": {
+   "gou3-2fcb": [
+    "口。",
+    "口"
+   ]
+  }
+ },
+ "erinome/ku3-f3c1.0": {
+  "gpt-4o-transcribe": "苦。"
+ },
+ "erinome/kuai4-e6e9.0": {
+  "gpt-4o-transcribe": "快"
+ },
+ "erinome/kuan1-6395.0": {
+  "gpt-4o-transcribe": "宽"
+ },
+ "erinome/lai2-4b1d.0": {
+  "gpt-4o-transcribe": "来"
+ },
+ "erinome/lai4-572f.0": {
+  "gpt-4o-transcribe": "赖"
+ },
+ "erinome/lan2-a44c.0": {
+  "gpt-4o-transcribe": "蓝"
+ },
+ "erinome/lan3-56f5.0": {
+  "gpt-4o-transcribe": "懒"
+ },
+ "erinome/lan4-43a5.0": {
+  "gpt-4o-transcribe": "烂。"
+ },
+ "erinome/lang2-84d6.0": {
+  "gpt-4o-transcribe": "狼"
+ },
+ "erinome/lang4-a23e.0": {
+  "gpt-4o-transcribe": "浪"
+ },
+ "erinome/lao3shi1-494f.0": {
+  "gpt-4o-transcribe": "老师"
+ },
+ "erinome/lao3shi4-e5d6.0": {
+  "gpt-4o-transcribe": "老式"
+ },
+ "erinome/li2-c76a.0": {
+  "gpt-4o-transcribe": "李",
+  "forced": {
+   "li3-cdd2": [
+    "梨",
+    "梨"
+   ]
+  }
+ },
+ "erinome/li3-cdd2.0": {
+  "gpt-4o-transcribe": "里"
+ },
+ "erinome/lian2xi4-4dd6.0": {
+  "gpt-4o-transcribe": "联系"
+ },
+ "erinome/lian4xi2-5b7f.0": {
+  "gpt-4o-transcribe": "练习"
+ },
+ "erinome/lin2-020f.0": {
+  "gpt-4o-transcribe": "林"
+ },
+ "erinome/ling2-e0d7.0": {
+  "gpt-4o-transcribe": "零"
+ },
+ "erinome/liu2-0990.0": {
+  "gpt-4o-transcribe": "流"
+ },
+ "erinome/liu3-0dc0.0": {
+  "gpt-4o-transcribe": "柳。"
+ },
+ "erinome/long2-075e.0": {
+  "gpt-4o-transcribe": "聋。"
+ },
+ "erinome/lou2-598e.0": {
+  "gpt-4o-transcribe": "楼。"
+ },
+ "erinome/lou4-114e.0": {
+  "gpt-4o-transcribe": "漏"
+ },
+ "erinome/lu2-680d.0": {
+  "gpt-4o-transcribe": "庐"
+ },
+ "erinome/lu4-de80.0": {
+  "gpt-4o-transcribe": "路"
+ },
+ "erinome/luan3-e040.0": {
+  "gpt-4o-transcribe": "卵"
+ },
+ "erinome/luo2-000e.0": {
+  "gpt-4o-transcribe": "锣"
+ },
+ "erinome/lv2-49de.0": {
+  "gpt-4o-transcribe": "旅。",
+  "forced": {
+   "lu2-680d": [
+    "驴",
+    "驴"
+   ]
+  }
+ },
+ "erinome/lv4-5796.0": {
+  "gpt-4o-transcribe": "绿。"
+ },
+ "erinome/ma1-e391.0": {
+  "gpt-4o-transcribe": "吗。",
+  "forced": {
+   "ma4-6343": [
+    "妈",
+    "妈"
+   ],
+   "ma2-433e": [
+    "妈",
+    "妈"
+   ],
+   "ma3-7d39": [
+    "妈",
+    "妈"
+   ]
+  }
+ },
+ "erinome/ma2-433e.0": {
+  "gpt-4o-transcribe": "马",
+  "forced": {
+   "ma3-7d39": [
+    "马",
+    "马"
+   ],
+   "ma1-e391": [
+    "麻",
+    "妈"
+   ],
+   "ma4-6343": [
+    "骂",
+    "麻"
+   ]
+  }
+ },
+ "erinome/ma3-7d39.0": {
+  "gpt-4o-transcribe": "马"
+ },
+ "erinome/ma4-6343.0": {
+  "gpt-4o-transcribe": "骂"
+ },
+ "erinome/mai2-2c49.0": {
+  "gpt-4o-transcribe": "买",
+  "forced": {
+   "mai3-b6c5": [
+    "买",
+    "买"
+   ]
+  }
+ },
+ "erinome/mai3-b6c5.0": {
+  "gpt-4o-transcribe": "买"
+ },
+ "erinome/mai4-df45.0": {
+  "gpt-4o-transcribe": "卖"
+ },
+ "erinome/mao1-e10b.0": {
+  "gpt-4o-transcribe": "猫"
+ },
+ "erinome/mao2-f749.0": {
+  "gpt-4o-transcribe": "毛"
+ },
+ "erinome/mei3li4-e159.0": {
+  "gpt-4o-transcribe": "美丽"
+ },
+ "erinome/mei4li4-abe5.0": {
+  "gpt-4o-transcribe": "魅力"
+ },
+ "erinome/mi2-2ee7.0": {
+  "gpt-4o-transcribe": "米",
+  "forced": {
+   "mi3-ee7f": [
+    "迷",
+    "米"
+   ],
+   "mi4-d493": [
+    "谜",
+    "迷"
+   ]
+  }
+ },
+ "erinome/mi3-ee7f.0": {
+  "gpt-4o-transcribe": "米。"
+ },
+ "erinome/mi4-d493.0": {
+  "gpt-4o-transcribe": "密"
+ },
+ "erinome/mu4chuan2-8efa.0": {
+  "gpt-4o-transcribe": "木船"
+ },
+ "erinome/mu4chuang2-c75f.0": {
+  "gpt-4o-transcribe": "木床。"
+ },
+ "erinome/na2-748a.0": {
+  "gpt-4o-transcribe": "拿。"
+ },
+ "erinome/na3-cd96.0": {
+  "gpt-4o-transcribe": "哪儿",
+  "gpt-transcribe": "哪儿？",
+  "forced": {
+   "na2-748a": [
+    "哪儿",
+    "哪儿。"
+   ]
+  }
+ },
+ "erinome/na4-3270.0": {
+  "gpt-4o-transcribe": "那"
+ },
+ "erinome/nian2-6f14.0": {
+  "gpt-4o-transcribe": "年"
+ },
+ "erinome/nian4-13d0.0": {
+  "gpt-4o-transcribe": "念"
+ },
+ "erinome/niu2-bf9b.0": {
+  "gpt-4o-transcribe": "牛"
+ },
+ "erinome/niu3-4642.0": {
+  "gpt-4o-transcribe": "扭"
+ },
+ "erinome/nu3-c530.0": {
+  "gpt-4o-transcribe": "挪",
+  "gpt-transcribe": "弩。"
+ },
+ "erinome/nv3-26bc.0": {
+  "gpt-4o-transcribe": "女"
+ },
+ "erinome/pa4-bc1c.0": {
+  "gpt-4o-transcribe": "帕。"
+ },
+ "erinome/pai2-265d.0": {
+  "gpt-4o-transcribe": "排"
+ },
+ "erinome/pan2-15c7.0": {
+  "gpt-4o-transcribe": "盘"
+ },
+ "erinome/pang2-c12a.0": {
+  "gpt-4o-transcribe": "旁"
+ },
+ "erinome/pao3-1516.0": {
+  "gpt-4o-transcribe": "跑"
+ },
+ "erinome/pao4-b19a.0": {
+  "gpt-4o-transcribe": "炮"
+ },
+ "erinome/qi1-7db1.0": {
+  "gpt-4o-transcribe": "七"
+ },
+ "erinome/qi2-c058.0": {
+  "gpt-4o-transcribe": "奇"
+ },
+ "erinome/qi3-2919.0": {
+  "gpt-4o-transcribe": "起"
+ },
+ "erinome/qi4-b08d.0": {
+  "gpt-4o-transcribe": "气"
+ },
+ "erinome/qian2-073d.0": {
+  "gpt-4o-transcribe": "黏",
+  "gpt-transcribe": "钱。"
+ },
+ "erinome/qian2-db4b.0": {
+  "gpt-4o-transcribe": "钱。"
+ },
+ "erinome/qian3-d181.0": {
+  "gpt-4o-transcribe": "浅。"
+ },
+ "erinome/qian4-bdc9.0": {
+  "gpt-4o-transcribe": "倩"
+ },
+ "erinome/qiang2-6512.0": {
+  "gpt-4o-transcribe": "钱",
+  "gpt-transcribe": "墙。"
+ },
+ "erinome/qiao1-0a47.0": {
+  "gpt-4o-transcribe": "敲"
+ },
+ "erinome/qin1-a39a.0": {
+  "gpt-4o-transcribe": "亲"
+ },
+ "erinome/qiu1-8d8f.0": {
+  "gpt-4o-transcribe": "秋"
+ },
+ "erinome/qiu2-f2af.0": {
+  "gpt-4o-transcribe": "求"
+ },
+ "erinome/ran2-02b5.0": {
+  "gpt-4o-transcribe": "然"
+ },
+ "erinome/rang4-c0fe.0": {
+  "gpt-4o-transcribe": "让"
+ },
+ "erinome/ren2-4912.0": {
+  "gpt-4o-transcribe": "人。"
+ },
+ "erinome/ren2min2-4c4d.0": {
+  "gpt-4o-transcribe": "人民"
+ },
+ "erinome/ren2ming2-0947.0": {
+  "gpt-4o-transcribe": "人民",
+  "gpt-transcribe": "人名。"
+ },
+ "erinome/ren3-4ce4.0": {
+  "gpt-4o-transcribe": "忍"
+ },
+ "erinome/rong2-7e83.0": {
+  "gpt-4o-transcribe": "总",
+  "gpt-transcribe": "总。",
+  "forced": {
+   "long2-075e": [
+    "容",
+    "容"
+   ]
+  }
+ },
+ "erinome/rou2-8c77.0": {
+  "gpt-4o-transcribe": "柔"
+ },
+ "erinome/rou4-6759.0": {
+  "gpt-4o-transcribe": "又",
+  "gpt-transcribe": "肉。"
+ },
+ "erinome/ru4-4a8d.0": {
+  "gpt-4o-transcribe": "入"
+ },
+ "erinome/ruan3-6a8a.0": {
+  "gpt-4o-transcribe": "软"
+ },
+ "erinome/ruo4-d479.0": {
+  "gpt-4o-transcribe": "弱"
+ },
+ "erinome/san1-49dd.0": {
+  "gpt-4o-transcribe": "三"
+ },
+ "erinome/san1jiao3-b721.0": {
+  "gpt-4o-transcribe": "三角"
+ },
+ "erinome/sao3-a84f.0": {
+  "gpt-4o-transcribe": "嫂。"
+ },
+ "erinome/shan1-0e24.0": {
+  "gpt-4o-transcribe": "以下是一个普通话词语。",
+  "gpt-transcribe": "山。"
+ },
+ "erinome/shan1jiao3-63cd.0": {
+  "gpt-4o-transcribe": "山脚"
+ },
+ "erinome/shang1-19a8.0": {
+  "gpt-4o-transcribe": "商。"
+ },
+ "erinome/shang1hai4-69ac.0": {
+  "gpt-4o-transcribe": "伤害"
+ },
+ "erinome/shang3-e6c2.0": {
+  "gpt-4o-transcribe": "赏"
+ },
+ "erinome/shang4hai3-99f1.0": {
+  "gpt-4o-transcribe": "上海"
+ },
+ "erinome/shao1-4a1c.0": {
+  "gpt-4o-transcribe": "收",
+  "gpt-transcribe": "收。",
+  "forced": {
+   "xiao1-06f9": [
+    "烧",
+    "烧"
+   ]
+  }
+ },
+ "erinome/shao3-fa49.0": {
+  "gpt-4o-transcribe": "少"
+ },
+ "erinome/she2-67bc.0": {
+  "gpt-4o-transcribe": "蛇。"
+ },
+ "erinome/shen1-44a6.0": {
+  "gpt-4o-transcribe": "深"
+ },
+ "erinome/sheng1-3eb3.0": {
+  "gpt-4o-transcribe": "生"
+ },
+ "erinome/sheng3-45ad.0": {
+  "gpt-4o-transcribe": "省。"
+ },
+ "erinome/sheng4-5db0.0": {
+  "gpt-4o-transcribe": "剩"
+ },
+ "erinome/shi1-53e0.0": {
+  "gpt-4o-transcribe": "输",
+  "gpt-transcribe": "虚。",
+  "forced": {
+   "si1-a088": [
+    "诗",
+    "诗"
+   ],
+   "xi1-2f64": [
+    "诗",
+    "虛"
+   ]
+  }
+ },
+ "erinome/shi1-7c06.0": {
+  "gpt-4o-transcribe": "诗"
+ },
+ "erinome/shi1ren2-305c.0": {
+  "gpt-4o-transcribe": "诗人"
+ },
+ "erinome/shi2-aa10.0": {
+  "gpt-4o-transcribe": "食"
+ },
+ "erinome/shi2ji1-6609.0": {
+  "gpt-4o-transcribe": "时机"
+ },
+ "erinome/shi2ji4-1b85.0": {
+  "gpt-4o-transcribe": "实绩"
+ },
+ "erinome/shi2jian1-89b4.0": {
+  "gpt-4o-transcribe": "时间"
+ },
+ "erinome/shi3-f690.0": {
+  "gpt-4o-transcribe": "屈",
+  "gpt-transcribe": "使。"
+ },
+ "erinome/shi4-3016.0": {
+  "gpt-4o-transcribe": "削",
+  "gpt-transcribe": "是。"
+ },
+ "erinome/shi4jian4-550e.0": {
+  "gpt-4o-transcribe": "事件"
+ },
+ "erinome/shou1-59a6.0": {
+  "gpt-4o-transcribe": "书",
+  "gpt-transcribe": "收。"
+ },
+ "erinome/shou3-c08a.0": {
+  "gpt-4o-transcribe": "手"
+ },
+ "erinome/shou4-41eb.0": {
+  "gpt-4o-transcribe": "熟",
+  "gpt-transcribe": "瘦。"
+ },
+ "erinome/shu1-fe04.0": {
+  "gpt-4o-transcribe": "书。"
+ },
+ "erinome/shu4-7803.0": {
+  "gpt-4o-transcribe": "树"
+ },
+ "erinome/shuan4-aef8.0": {
+  "gpt-4o-transcribe": "蒜",
+  "gpt-transcribe": "算。",
+  "forced": {
+   "suan4-2ae1": [
+    "涮",
+    "涮。"
+   ]
+  }
+ },
+ "erinome/shui3-8ffb.0": {
+  "gpt-4o-transcribe": "水"
+ },
+ "erinome/shui3jiao3-e5d6.0": {
+  "gpt-4o-transcribe": "水饺"
+ },
+ "erinome/shui4-c149.0": {
+  "gpt-4o-transcribe": "税。"
+ },
+ "erinome/shui4jiao4-6380.0": {
+  "gpt-4o-transcribe": "睡觉"
+ },
+ "erinome/shuo1-be30.0": {
+  "gpt-4o-transcribe": "说"
+ },
+ "erinome/si1-a088.0": {
+  "gpt-4o-transcribe": "丝。"
+ },
+ "erinome/si1ren2-82b4.0": {
+  "gpt-4o-transcribe": "私人"
+ },
+ "erinome/si4-4f88.0": {
+  "gpt-4o-transcribe": "次",
+  "gpt-transcribe": "四。"
+ },
+ "erinome/sou1-35d7.0": {
+  "gpt-4o-transcribe": "搜"
+ },
+ "erinome/suan4-2ae1.0": {
+  "gpt-4o-transcribe": "算"
+ },
+ "erinome/sui4-86f1.0": {
+  "gpt-4o-transcribe": "四",
+  "gpt-transcribe": "碎。"
+ },
+ "erinome/suo1-ad71.0": {
+  "gpt-4o-transcribe": "缩。"
+ },
+ "erinome/ta4-08ce.0": {
+  "gpt-4o-transcribe": "他",
+  "forced": {
+   "da4-0889": [
+    "踏",
+    "踏"
+   ]
+  }
+ },
+ "erinome/tan2qin2-e22a.0": {
+  "gpt-4o-transcribe": "弹琴"
+ },
+ "erinome/tan2qing2-a676.0": {
+  "gpt-4o-transcribe": "谈情"
+ },
+ "erinome/tang1-fc4e.0": {
+  "gpt-4o-transcribe": "汤"
+ },
+ "erinome/tang2-3d8c.0": {
+  "gpt-4o-transcribe": "堂"
+ },
+ "erinome/tang3-a854.0": {
+  "gpt-4o-transcribe": "场",
+  "gpt-transcribe": "躺。"
+ },
+ "erinome/tang4-700e.0": {
+  "gpt-4o-transcribe": "烫。"
+ },
+ "erinome/tao4-0322.0": {
+  "gpt-4o-transcribe": "套"
+ },
+ "erinome/ti1-2359.0": {
+  "gpt-4o-transcribe": "七",
+  "gpt-transcribe": "七。",
+  "forced": {
+   "di1-b9ee": [
+    "梯",
+    "梯。"
+   ]
+  }
+ },
+ "erinome/ti2-c9d6.0": {
+  "gpt-4o-transcribe": "提"
+ },
+ "erinome/ti4-1f05.0": {
+  "gpt-4o-transcribe": "气。",
+  "gpt-transcribe": "替。"
+ },
+ "erinome/tian1-c330.0": {
+  "gpt-4o-transcribe": "天"
+ },
+ "erinome/tian2-ab95.0": {
+  "gpt-4o-transcribe": "钱",
+  "gpt-transcribe": "田。"
+ },
+ "erinome/tian3-9894.0": {
+  "gpt-4o-transcribe": "舔"
+ },
+ "erinome/tiao4-8449.0": {
+  "gpt-4o-transcribe": "票",
+  "gpt-transcribe": "跳。"
+ },
+ "erinome/tong1-bef2.0": {
+  "gpt-4o-transcribe": "通"
+ },
+ "erinome/tong2-0b8b.0": {
+  "gpt-4o-transcribe": "铜"
+ },
+ "erinome/tong2zhi4-928d.0": {
+  "gpt-4o-transcribe": "铜铁",
+  "gpt-transcribe": "銅鐵。",
+  "forced": {
+   "tong3zhi4-a879": [
+    "同志",
+    "统治"
+   ]
+  }
+ },
+ "erinome/tong3zhi4-a879.0": {
+  "gpt-4o-transcribe": "恐惧",
+  "gpt-transcribe": "统治。"
+ },
+ "erinome/tou1-9b1d.0": {
+  "gpt-4o-transcribe": "偷"
+ },
+ "erinome/tou2-f366.0": {
+  "gpt-4o-transcribe": "头"
+ },
+ "erinome/tou4-78a0.0": {
+  "gpt-4o-transcribe": "考",
+  "gpt-transcribe": "扣。",
+  "forced": {
+   "tou2-f366": [
+    "头。",
+    "头"
+   ]
+  }
+ },
+ "erinome/tu2-611a.0": {
+  "gpt-4o-transcribe": "图"
+ },
+ "erinome/tu4zi5-3daa.0": {
+  "gpt-4o-transcribe": "兔子"
+ },
+ "erinome/tuo1-49da.0": {
+  "gpt-4o-transcribe": "拖"
+ },
+ "erinome/wan2-0830.0": {
+  "gpt-4o-transcribe": "玩。"
+ },
+ "erinome/wan2-d0ae.0": {
+  "gpt-4o-transcribe": "玩"
+ },
+ "erinome/wan3-7c0f.0": {
+  "gpt-4o-transcribe": "碗。"
+ },
+ "erinome/wan4-0d3b.0": {
+  "gpt-4o-transcribe": "玩",
+  "forced": {
+   "wan3-7c0f": [
+    "万",
+    "晚"
+   ],
+   "yuan4-ead6": [
+    "万",
+    "万"
+   ]
+  }
+ },
+ "erinome/wang2-c7b1.0": {
+  "gpt-4o-transcribe": "王"
+ },
+ "erinome/wang3-4ad9.0": {
+  "gpt-4o-transcribe": "网。"
+ },
+ "erinome/wang4-1787.0": {
+  "gpt-4o-transcribe": "旺"
+ },
+ "erinome/wen2-176f.0": {
+  "gpt-4o-transcribe": "闻"
+ },
+ "erinome/wen2ti3-a14c.0": {
+  "gpt-4o-transcribe": "文体"
+ },
+ "erinome/wen3-dfa7.0": {
+  "gpt-4o-transcribe": "稳"
+ },
+ "erinome/wen4ti2-2fb4.0": {
+  "gpt-4o-transcribe": "问题"
+ },
+ "erinome/wu2-7207.0": {
+  "gpt-4o-transcribe": "五",
+  "forced": {
+   "yu2-9246": [
+    "无",
+    "无"
+   ]
+  }
+ },
+ "erinome/wu3-8f07.0": {
+  "gpt-4o-transcribe": "五"
+ },
+ "erinome/wu4-2697.0": {
+  "gpt-4o-transcribe": "雾"
+ },
+ "erinome/xi1-2f64.0": {
+  "gpt-4o-transcribe": "西"
+ },
+ "erinome/xi1-869f.0": {
+  "gpt-4o-transcribe": "西"
+ },
+ "erinome/xi3-cef2.0": {
+  "gpt-4o-transcribe": "洗"
+ },
+ "erinome/xi3-d21b.0": {
+  "gpt-4o-transcribe": "洗。"
+ },
+ "erinome/xi4-6a00.0": {
+  "gpt-4o-transcribe": "系"
+ },
+ "erinome/xi4-8f46.0": {
+  "gpt-4o-transcribe": "四。",
+  "gpt-transcribe": "细。"
+ },
+ "erinome/xian1-82d4.0": {
+  "gpt-4o-transcribe": "鲜"
+ },
+ "erinome/xian1-d10b.0": {
+  "gpt-4o-transcribe": "先"
+ },
+ "erinome/xian2-1d22.0": {
+  "gpt-4o-transcribe": "咸"
+ },
+ "erinome/xiang1-7ba4.0": {
+  "gpt-4o-transcribe": "香。"
+ },
+ "erinome/xiang3-a48f.0": {
+  "gpt-4o-transcribe": "想"
+ },
+ "erinome/xiang4-344b.0": {
+  "gpt-4o-transcribe": "羌",
+  "gpt-transcribe": "巷。"
+ },
+ "erinome/xiao1-06f9.0": {
+  "gpt-4o-transcribe": "消"
+ },
+ "erinome/xiao3-9225.0": {
+  "gpt-4o-transcribe": "小"
+ },
+ "erinome/xiao4-740d.0": {
+  "gpt-4o-transcribe": "秀。",
+  "gpt-transcribe": "笑。"
+ },
+ "erinome/xie2-0106.0": {
+  "gpt-4o-transcribe": "鞋。"
+ },
+ "erinome/xie3-144d.0": {
+  "gpt-4o-transcribe": "写。"
+ },
+ "erinome/xie4-b27c.0": {
+  "gpt-4o-transcribe": "谢。"
+ },
+ "erinome/xin1-481e.0": {
+  "gpt-4o-transcribe": "心"
+ },
+ "erinome/xin4-6c71.0": {
+  "gpt-4o-transcribe": "信"
+ },
+ "erinome/xing1-92ae.0": {
+  "gpt-4o-transcribe": "星"
+ },
+ "erinome/xing3-9e66.0": {
+  "gpt-4o-transcribe": "请",
+  "gpt-transcribe": "醒。"
+ },
+ "erinome/xing4-003e.0": {
+  "gpt-4o-transcribe": "性。"
+ },
+ "erinome/xiong1mao2-fc47.0": {
+  "gpt-4o-transcribe": "胸毛"
+ },
+ "erinome/xiong2mao1-b1c3.0": {
+  "gpt-4o-transcribe": "熊猫"
+ },
+ "erinome/xue2-7c7a.0": {
+  "gpt-4o-transcribe": "鞋",
+  "gpt-transcribe": "鞋。",
+  "forced": {
+   "xue3-7d74": [
+    "学",
+    "学"
+   ]
+  }
+ },
+ "erinome/xue3-7d74.0": {
+  "gpt-4o-transcribe": "血",
+  "forced": {
+   "xue2-7c7a": [
+    "雪",
+    "雪"
+   ]
+  }
+ },
+ "erinome/ya1-ee25.0": {
+  "gpt-4o-transcribe": "呀",
+  "forced": {
+   "ya3-a2cf": [
+    "哑",
+    "鸭"
+   ]
+  }
+ },
+ "erinome/ya1li2-843d.0": {
+  "gpt-4o-transcribe": "压力",
+  "forced": {
+   "ya1li4-aef4": [
+    "鸭梨",
+    "鸭梨"
+   ]
+  }
+ },
+ "erinome/ya1li4-aef4.0": {
+  "gpt-4o-transcribe": "压力"
+ },
+ "erinome/ya2-87d8.0": {
+  "gpt-4o-transcribe": "哑",
+  "forced": {
+   "ya3-a2cf": [
+    "「牙」。",
+    "牙。"
+   ]
+  }
+ },
+ "erinome/ya3-a2cf.0": {
+  "gpt-4o-transcribe": "雅"
+ },
+ "erinome/yan1-fb4e.0": {
+  "gpt-4o-transcribe": "烟。"
+ },
+ "erinome/yan2-1629.0": {
+  "gpt-4o-transcribe": "严"
+ },
+ "erinome/yan3-6191.0": {
+  "gpt-4o-transcribe": "眼"
+ },
+ "erinome/yang2-de33.0": {
+  "gpt-4o-transcribe": "羊"
+ },
+ "erinome/yang3-51e5.0": {
+  "gpt-4o-transcribe": "养"
+ },
+ "erinome/yao1-b12d.0": {
+  "gpt-4o-transcribe": "腰"
+ },
+ "erinome/yao3-b6bd.0": {
+  "gpt-4o-transcribe": "舀"
+ },
+ "erinome/yao4-55b7.0": {
+  "gpt-4o-transcribe": "要"
+ },
+ "erinome/yin1-b7ec.0": {
+  "gpt-4o-transcribe": "音"
+ },
+ "erinome/ying1-4956.0": {
+  "gpt-4o-transcribe": "忧",
+  "gpt-transcribe": "唷。",
+  "forced": {
+   "yin1-b7ec": [
+    "yīng",
+    "音"
+   ]
+  }
+ },
+ "erinome/you2-2407.0": {
+  "gpt-4o-transcribe": "游"
+ },
+ "erinome/you2qian2-5ae9.0": {
+  "gpt-4o-transcribe": "有钱",
+  "forced": {
+   "you3qian2-8b5f": [
+    "油钱",
+    "油钱"
+   ]
+  }
+ },
+ "erinome/you3-fbd5.0": {
+  "gpt-4o-transcribe": "有"
+ },
+ "erinome/you3qian2-8b5f.0": {
+  "gpt-4o-transcribe": "有钱"
+ },
+ "erinome/you4-4c2b.0": {
+  "gpt-4o-transcribe": "以上",
+  "gpt-transcribe": "有。",
+  "forced": {
+   "you3-fbd5": [
+    "又",
+    "又"
+   ],
+   "you2-2407": [
+    "又。",
+    "又"
+   ]
+  }
+ },
+ "erinome/yu2-9246.0": {
+  "gpt-4o-transcribe": "以",
+  "gpt-transcribe": "椅。",
+  "forced": {
+   "yu3-8995": [
+    "雨",
+    "雨"
+   ],
+   "yu4-2081": [
+    "鱼",
+    "鱼"
+   ],
+   "wu2-7207": [
+    "以",
+    "鱼"
+   ]
+  }
+ },
+ "erinome/yu3-8995.0": {
+  "gpt-4o-transcribe": "语。"
+ },
+ "erinome/yu3yan2-cd99.0": {
+  "gpt-4o-transcribe": "语言。"
+ },
+ "erinome/yu4-2081.0": {
+  "gpt-4o-transcribe": "预"
+ },
+ "erinome/yu4yan2-edf7.0": {
+  "gpt-4o-transcribe": "预言"
+ },
+ "erinome/yuan2-aeb0.0": {
+  "gpt-4o-transcribe": "圆"
+ },
+ "erinome/yuan3-e733.0": {
+  "gpt-4o-transcribe": "远。"
+ },
+ "erinome/yuan4-ead6.0": {
+  "gpt-4o-transcribe": "愿。"
+ },
+ "erinome/zai4-686b.0": {
+  "gpt-4o-transcribe": "赛",
+  "gpt-transcribe": "在。"
+ },
+ "erinome/zang1-d94b.0": {
+  "gpt-4o-transcribe": "桑",
+  "gpt-transcribe": "髒。"
+ },
+ "erinome/zao3-13a8.0": {
+  "gpt-4o-transcribe": "骚",
+  "gpt-transcribe": "早。"
+ },
+ "erinome/zao4-5af6.0": {
+  "gpt-4o-transcribe": "扫。",
+  "gpt-transcribe": "造。"
+ },
+ "erinome/zeng1-5fa3.0": {
+  "gpt-4o-transcribe": "赠。",
+  "forced": {
+   "zheng1-3e88": [
+    "增",
+    "增"
+   ]
+  }
+ },
+ "erinome/zhang1-9273.0": {
+  "gpt-4o-transcribe": "章"
+ },
+ "erinome/zhao3-76aa.0": {
+  "gpt-4o-transcribe": "找。"
+ },
+ "erinome/zhen1-e756.0": {
+  "gpt-4o-transcribe": "称。",
+  "gpt-transcribe": "真。"
+ },
+ "erinome/zheng1-3e88.0": {
+  "gpt-4o-transcribe": "睁"
+ },
+ "erinome/zhi1-c524.0": {
+  "gpt-4o-transcribe": "猪",
+  "gpt-transcribe": "居。",
+  "forced": {
+   "ji1-5109": [
+    "知。",
+    "「知」"
+   ]
+  }
+ },
+ "erinome/zhi3-9055.0": {
+  "gpt-4o-transcribe": "起语",
+  "gpt-transcribe": "契约。",
+  "forced": {
+   "chi3-683c": [
+    "纸",
+    "尺。"
+   ],
+   "ji3-68bf": [
+    "纸。",
+    "纸。"
+   ]
+  }
+ },
+ "erinome/zhong1-0869.0": {
+  "gpt-4o-transcribe": "中"
+ },
+ "erinome/zhong3-a1f3.0": {
+  "gpt-4o-transcribe": "种"
+ },
+ "erinome/zhou1-451b.0": {
+  "gpt-4o-transcribe": "周"
+ },
+ "erinome/zhou3-0583.0": {
+  "gpt-4o-transcribe": "酒",
+  "gpt-transcribe": "找。",
+  "forced": {
+   "zou3-0851": [
+    "肘。",
+    "肘"
+   ],
+   "jiu3-27a2": [
+    "九",
+    "九"
+   ]
+  }
+ },
+ "erinome/zhu1-3e2d.0": {
+  "gpt-4o-transcribe": "出",
+  "gpt-transcribe": "出。",
+  "forced": {
+   "chu1-69e8": [
+    "猪",
+    "猪。"
+   ]
+  }
+ },
+ "erinome/zhu3ren2-636e.0": {
+  "gpt-4o-transcribe": "主人"
+ },
+ "erinome/zhu3ren4-4876.0": {
+  "gpt-4o-transcribe": "主任"
+ },
+ "erinome/zhu4-80b8.0": {
+  "gpt-4o-transcribe": "注"
+ },
+ "erinome/zhuo1-c4a4.0": {
+  "gpt-4o-transcribe": "捉。"
+ },
+ "erinome/zi4-582c.0": {
+  "gpt-4o-transcribe": "四",
+  "gpt-transcribe": "字。"
+ },
+ "erinome/zou3-0851.0": {
+  "gpt-4o-transcribe": "走"
+ },
+ "erinome/zu1-5d00.0": {
+  "gpt-4o-transcribe": "粗",
+  "gpt-transcribe": "租。"
+ },
+ "erinome/zuo3-df3e.0": {
+  "gpt-4o-transcribe": "自我",
+  "gpt-transcribe": "左。"
+ },
+ "erinome/zuo4-4a1e.0": {
+  "gpt-4o-transcribe": "做"
+ },
+ "charon/chi2-0c28.0": {
+  "gpt-4o-transcribe": "十",
+  "gpt-transcribe": "十。",
+  "forced": {
+   "ci2-df99": [
+    "迟",
+    "词。"
+   ]
+  }
+ },
+ "charon/chi3-683c.0": {
+  "gpt-4o-transcribe": "尺。"
+ },
+ "charon/chong1-e429.0": {
+  "gpt-4o-transcribe": "床",
+  "gpt-transcribe": "冲。"
+ },
+ "charon/chong2-01e3.0": {
+  "gpt-4o-transcribe": "重",
+  "gpt-transcribe": "虫。"
+ },
+ "charon/chou1-ca48.0": {
+  "gpt-4o-transcribe": "抽"
+ },
+ "charon/chou2-59ae.0": {
+  "gpt-4o-transcribe": "筹"
+ },
+ "charon/chou3-aa9d.0": {
+  "gpt-4o-transcribe": "丑"
+ },
+ "charon/chu1-69e8.0": {
+  "gpt-4o-transcribe": "哭",
+  "gpt-transcribe": "出。"
+ },
+ "charon/chuan2-2eaf.0": {
+  "gpt-4o-transcribe": "船"
+ },
+ "charon/chuang1-1a3d.0": {
+  "gpt-4o-transcribe": "穿",
+  "gpt-transcribe": "穿。",
+  "forced": {
+   "chuang2-a30d": [
+    "窗",
+    "窗"
+   ],
+   "chuang3-924b": [
+    "窗",
+    "窗"
+   ]
+  }
+ },
+ "charon/chuang2-a30d.0": {
+  "gpt-4o-transcribe": "床"
+ },
+ "charon/chuang3-924b.0": {
+  "gpt-4o-transcribe": "闯"
+ },
+ "charon/chun1-3e45.0": {
+  "gpt-4o-transcribe": "屯。",
+  "gpt-transcribe": "春。"
+ },
+ "charon/chuo1-42b6.0": {
+  "gpt-4o-transcribe": "戳"
+ },
+ "charon/ci2-df99.0": {
+  "gpt-4o-transcribe": "词"
+ },
+ "charon/ci4-5e5b.0": {
+  "gpt-4o-transcribe": "次。"
+ },
+ "charon/cong2-8ab9.0": {
+  "gpt-4o-transcribe": "从"
+ },
+ "charon/cou4-4d61.0": {
+  "gpt-4o-transcribe": "凑"
+ },
+ "charon/cu1-4c9c.0": {
+  "gpt-4o-transcribe": "粗"
+ },
+ "charon/cun1-4211.0": {
+  "gpt-4o-transcribe": "村"
+ },
+ "charon/cuo4-cc73.0": {
+  "gpt-4o-transcribe": "错。"
+ },
+ "charon/da3-6919.0": {
+  "gpt-4o-transcribe": "答",
+  "forced": {
+   "da4-0889": [
+    "打",
+    "打"
+   ]
+  }
+ },
+ "charon/da4-0889.0": {
+  "gpt-4o-transcribe": "啦",
+  "gpt-transcribe": "啊。",
+  "forced": {
+   "da3-6919": [
+    "打。",
+    "打。"
+   ],
+   "ta4-08ce": [
+    "大。",
+    "大"
+   ]
+  }
+ },
+ "charon/da4xue2-858b.0": {
+  "gpt-4o-transcribe": "大学"
+ },
+ "charon/da4xue3-7c72.0": {
+  "gpt-4o-transcribe": "大雪"
+ },
+ "charon/dao1-c8f6.0": {
+  "gpt-4o-transcribe": "狗",
+  "gpt-transcribe": "高。",
+  "forced": {
+   "dao4-792b": [
+    "刀",
+    "刀"
+   ],
+   "dao3-4543": [
+    "刀",
+    "刀"
+   ]
+  }
+ },
+ "charon/dao3-4543.0": {
+  "gpt-4o-transcribe": "早",
+  "gpt-transcribe": "岛。"
+ },
+ "charon/dao4-792b.0": {
+  "gpt-4o-transcribe": "小偷",
+  "gpt-transcribe": "道。"
+ },
+ "charon/deng1-7e6e.0": {
+  "gpt-4o-transcribe": "灯"
+ },
+ "charon/deng3-3d3e.0": {
+  "gpt-4o-transcribe": "懂。",
+  "gpt-transcribe": "等。"
+ },
+ "charon/deng4-f350.0": {
+  "gpt-4o-transcribe": "噹",
+  "gpt-transcribe": "正。",
+  "forced": {
+   "deng1-7e6e": [
+    "凳。",
+    "凳"
+   ],
+   "deng3-3d3e": [
+    "凳。",
+    "凳"
+   ]
+  }
+ },
+ "charon/di1-b9ee.0": {
+  "gpt-4o-transcribe": "的",
+  "gpt-transcribe": "D.",
+  "forced": {
+   "ti1-2359": [
+    "低",
+    "低"
+   ]
+  }
+ },
+ "charon/di4-2763.0": {
+  "gpt-4o-transcribe": "弟"
+ },
+ "charon/diao4-dd73.0": {
+  "gpt-4o-transcribe": "以下。",
+  "gpt-transcribe": "调。",
+  "forced": {
+   "tiao4-8449": [
+    "跳。",
+    "掉"
+   ]
+  }
+ },
+ "charon/dong1-520b.0": {
+  "gpt-4o-transcribe": "动",
+  "forced": {
+   "dong4-b30d": [
+    "东",
+    "动"
+   ],
+   "dong3-632b": [
+    "懂",
+    "懂。"
+   ]
+  }
+ },
+ "charon/dong3-632b.0": {
+  "gpt-4o-transcribe": "懂"
+ },
+ "charon/dong4-b30d.0": {
+  "gpt-4o-transcribe": "动"
+ },
+ "charon/dou4-d081.0": {
+  "gpt-4o-transcribe": "词语。",
+  "gpt-transcribe": "哦。",
+  "forced": {
+   "duo4-600c": [
+    "豆。",
+    "剁"
+   ]
+  }
+ },
+ "charon/du2-d001.0": {
+  "gpt-4o-transcribe": "独"
+ },
+ "charon/du3-d07c.0": {
+  "gpt-4o-transcribe": "读。",
+  "forced": {
+   "du2-d001": [
+    "堵",
+    "堵"
+   ]
+  }
+ },
+ "charon/du4-304f.0": {
+  "gpt-4o-transcribe": "偷",
+  "gpt-transcribe": "豆。",
+  "forced": {
+   "du2-d001": [
+    "度",
+    "度。"
+   ]
+  }
+ },
+ "charon/du4zi5-e102.0": {
+  "gpt-4o-transcribe": "兔子",
+  "gpt-transcribe": "肚子。",
+  "forced": {
+   "tu4zi5-3daa": [
+    "肚子",
+    "肚子"
+   ]
+  }
+ },
+ "charon/duo1-451b.0": {
+  "gpt-4o-transcribe": "说",
+  "gpt-transcribe": "多。"
+ },
+ "charon/duo2-7085.0": {
+  "gpt-4o-transcribe": "夺"
+ },
+ "charon/duo3-7497.0": {
+  "gpt-4o-transcribe": "躲"
+ },
+ "charon/duo4-600c.0": {
+  "gpt-4o-transcribe": "做",
+  "gpt-transcribe": "剁。"
+ },
+ "charon/fa1-b089.0": {
+  "gpt-4o-transcribe": "发"
+ },
+ "charon/fan3wen4-2056.0": {
+  "gpt-4o-transcribe": "反问"
+ },
+ "charon/fan4-cded.0": {
+  "gpt-4o-transcribe": "饭"
+ },
+ "charon/fang1-2e9c.0": {
+  "gpt-4o-transcribe": "方"
+ },
+ "charon/fang2-510c.0": {
+  "gpt-4o-transcribe": "凡。",
+  "gpt-transcribe": "房。"
+ },
+ "charon/fang3wen4-7f56.0": {
+  "gpt-4o-transcribe": "访问"
+ },
+ "charon/fang4-6967.0": {
+  "gpt-4o-transcribe": "方。",
+  "forced": {
+   "fang2-510c": [
+    "放",
+    "房"
+   ],
+   "fan4-cded": [
+    "放",
+    "放。"
+   ]
+  }
+ },
+ "charon/fei1-322b.0": {
+  "gpt-4o-transcribe": "飞"
+ },
+ "charon/fei2-e650.0": {
+  "gpt-4o-transcribe": "水",
+  "gpt-transcribe": "肥。"
+ },
+ "charon/fei4-f07a.0": {
+  "gpt-4o-transcribe": "非",
+  "forced": {
+   "fei1-322b": [
+    "飞",
+    "飞"
+   ]
+  }
+ },
+ "charon/fen1-0d74.0": {
+  "gpt-4o-transcribe": "分"
+ },
+ "charon/fen3-febc.0": {
+  "gpt-4o-transcribe": "粉"
+ },
+ "charon/fen4-aa9f.0": {
+  "gpt-4o-transcribe": "份"
+ },
+ "charon/feng1-5344.0": {
+  "gpt-4o-transcribe": "唛唛",
+  "gpt-transcribe": "风。"
+ },
+ "charon/fu1-79b3.0": {
+  "gpt-4o-transcribe": "夫。"
+ },
+ "charon/fu2-c792.0": {
+  "gpt-4o-transcribe": "福"
+ },
+ "charon/fu3-57c8.0": {
+  "gpt-4o-transcribe": "俯"
+ },
+ "charon/gao1-b096.0": {
+  "gpt-4o-transcribe": "狗",
+  "gpt-transcribe": "勾。",
+  "forced": {
+   "gao3-c075": [
+    "搞",
+    "搞"
+   ]
+  }
+ },
+ "charon/gao3-c075.0": {
+  "gpt-4o-transcribe": "找",
+  "gpt-transcribe": "早。",
+  "forced": {
+   "gao1-b096": [
+    "搞",
+    "搞。"
+   ]
+  }
+ },
+ "charon/ge1-3a38.0": {
+  "gpt-4o-transcribe": "歌"
+ },
+ "charon/ge1-cdfd.0": {
+  "gpt-4o-transcribe": "哥"
+ },
+ "charon/ge4-f7b2.0": {
+  "gpt-4o-transcribe": "过",
+  "gpt-transcribe": "个。"
+ },
+ "charon/gou3-2fcb.0": {
+  "gpt-4o-transcribe": "狗"
+ },
+ "charon/gou4-a69b.0": {
+  "gpt-4o-transcribe": "狗",
+  "forced": {
+   "guo4-e19e": [
+    "够",
+    "够"
+   ]
+  }
+ },
+ "charon/gu3-8932.0": {
+  "gpt-4o-transcribe": "古物",
+  "gpt-transcribe": "鼓。"
+ },
+ "charon/guai4-7bc1.0": {
+  "gpt-4o-transcribe": "怪"
+ },
+ "charon/guan1-a333.0": {
+  "gpt-4o-transcribe": "博恩",
+  "gpt-transcribe": "波恩。",
+  "forced": {
+   "kuan1-6395": [
+    "关。",
+    "宽。"
+   ],
+   "guang1-5ae5": [
+    "关",
+    "光"
+   ]
+  }
+ },
+ "charon/guang1-5ae5.0": {
+  "gpt-4o-transcribe": "光"
+ },
+ "charon/guo3-d62c.0": {
+  "gpt-4o-transcribe": "果"
+ },
+ "charon/guo4-e19e.0": {
+  "gpt-4o-transcribe": "过"
+ },
+ "charon/ha1-3d4e.0": {
+  "gpt-4o-transcribe": "哈"
+ },
+ "charon/han4-4743.0": {
+  "gpt-4o-transcribe": "嗯",
+  "gpt-transcribe": "汉。"
+ },
+ "charon/he1-9982.0": {
+  "gpt-4o-transcribe": "喝"
+ },
+ "charon/he2-2aa3.0": {
+  "gpt-4o-transcribe": "河"
+ },
+ "charon/hei1-1518.0": {
+  "gpt-4o-transcribe": "黑"
+ },
+ "charon/hen3-8b46.0": {
+  "gpt-4o-transcribe": "狠"
+ },
+ "charon/hen4-4b14.0": {
+  "gpt-4o-transcribe": "恨"
+ },
+ "charon/heng1-0cc0.0": {
+  "gpt-4o-transcribe": "哼"
+ },
+ "charon/hou2-a446.0": {
+  "gpt-4o-transcribe": "头",
+  "gpt-transcribe": "頭。",
+  "forced": {
+   "huo2-f3e7": [
+    "猴",
+    "猴"
+   ]
+  }
+ },
+ "charon/hou4-7b55.0": {
+  "gpt-4o-transcribe": "后"
+ },
+ "charon/hu1-5869.0": {
+  "gpt-4o-transcribe": "忽。"
+ },
+ "charon/hu2-58c2.0": {
+  "gpt-4o-transcribe": "糊"
+ },
+ "charon/hu3-e3b6.0": {
+  "gpt-4o-transcribe": "虎"
+ },
+ "charon/hua1-9be4.0": {
+  "gpt-4o-transcribe": "花"
+ },
+ "charon/hua2-2f0d.0": {
+  "gpt-4o-transcribe": "华"
+ },
+ "charon/hua4-9160.0": {
+  "gpt-4o-transcribe": "话"
+ },
+ "charon/hui2-5b72.0": {
+  "gpt-4o-transcribe": "回"
+ },
+ "charon/hui4-577c.0": {
+  "gpt-4o-transcribe": "汇。"
+ },
+ "charon/huo2-f3e7.0": {
+  "gpt-4o-transcribe": "活"
+ },
+ "charon/huo4-7855.0": {
+  "gpt-4o-transcribe": "话",
+  "gpt-transcribe": "豁。",
+  "forced": {
+   "hou4-7b55": [
+    "货",
+    "货。"
+   ]
+  }
+ },
+ "charon/ji1-5109.0": {
+  "gpt-4o-transcribe": "机"
+ },
+ "charon/ji1hui4-0692.0": {
+  "gpt-4o-transcribe": "机会"
+ },
+ "charon/ji2-eec9.0": {
+  "gpt-4o-transcribe": "词。",
+  "gpt-transcribe": "集。"
+ },
+ "charon/ji2hui4-8f93.0": {
+  "gpt-4o-transcribe": "集会"
+ },
+ "charon/ji3-68bf.0": {
+  "gpt-4o-transcribe": "几"
+ },
+ "charon/ji4-ebaf.0": {
+  "gpt-4o-transcribe": "词",
+  "gpt-transcribe": "G。",
+  "forced": {
+   "ji1-5109": [
+    "记",
+    "记"
+   ],
+   "ji3-68bf": [
+    "几。",
+    "记"
+   ],
+   "ji2-eec9": [
+    "记",
+    "急。"
+   ]
+  }
+ },
+ "charon/jia1-7de8.0": {
+  "gpt-4o-transcribe": "家"
+ },
+ "charon/jia4-1da2.0": {
+  "gpt-4o-transcribe": "下",
+  "gpt-transcribe": "架。"
+ },
+ "charon/jian4-d65f.0": {
+  "gpt-4o-transcribe": "剑"
+ },
+ "charon/jiang3-860f.0": {
+  "gpt-4o-transcribe": "讲"
+ },
+ "charon/jiang4-4f28.0": {
+  "gpt-4o-transcribe": "讲",
+  "forced": {
+   "jiang3-860f": [
+    "酱",
+    "酱"
+   ],
+   "jian4-d65f": [
+    "酱",
+    "酱。"
+   ]
+  }
+ },
+ "charon/jiao1-422e.0": {
+  "gpt-4o-transcribe": "教",
+  "forced": {
+   "qiao1-0a47": [
+    "交",
+    "交"
+   ]
+  }
+ },
+ "charon/jiao4shi1-aa55.0": {
+  "gpt-4o-transcribe": "教师"
+ },
+ "charon/jiao4shi4-f325.0": {
+  "gpt-4o-transcribe": "教室"
+ },
+ "charon/jin1-b59d.0": {
+  "gpt-4o-transcribe": "斤"
+ },
+ "charon/jin1yu2-a330.0": {
+  "gpt-4o-transcribe": "金鱼"
+ },
+ "charon/jin4-681b.0": {
+  "gpt-4o-transcribe": "斤",
+  "forced": {
+   "jing4-f75f": [
+    "进",
+    "进"
+   ]
+  }
+ },
+ "charon/jing1yu2-2208.0": {
+  "gpt-4o-transcribe": "金鱼",
+  "gpt-transcribe": "金鱼。",
+  "forced": {
+   "jin1yu2-a330": [
+    "鲸鱼",
+    "金鱼"
+   ]
+  }
+ },
+ "charon/jing4-f75f.0": {
+  "gpt-4o-transcribe": "禁",
+  "gpt-transcribe": "进。",
+  "forced": {
+   "jin4-681b": [
+    "进",
+    "进"
+   ]
+  }
+ },
+ "charon/jiu3-27a2.0": {
+  "gpt-4o-transcribe": "酒"
+ },
+ "charon/jiu4-b64e.0": {
+  "gpt-4o-transcribe": "庭。",
+  "gpt-transcribe": "就。"
+ },
+ "charon/ju4-27df.0": {
+  "gpt-4o-transcribe": "去",
+  "gpt-transcribe": "距。"
+ },
+ "charon/kai1fan4-46be.0": {
+  "gpt-4o-transcribe": "开饭"
+ },
+ "charon/kai1fang4-7506.0": {
+  "gpt-4o-transcribe": "开放"
+ },
+ "charon/kao3-ed96.0": {
+  "gpt-4o-transcribe": "草。",
+  "gpt-transcribe": "跑。",
+  "forced": {
+   "kao4-3f86": [
+    "考",
+    "考"
+   ]
+  }
+ },
+ "charon/kao4-3f86.0": {
+  "gpt-4o-transcribe": "靠"
+ },
+ "charon/ke1-dced.0": {
+  "gpt-4o-transcribe": "科"
+ },
+ "charon/kou3-1e7b.0": {
+  "gpt-4o-transcribe": "口"
+ },
+ "charon/ku3-f3c1.0": {
+  "gpt-4o-transcribe": "苦。"
+ },
+ "charon/kuai4-e6e9.0": {
+  "gpt-4o-transcribe": "快"
+ },
+ "charon/kuan1-6395.0": {
+  "gpt-4o-transcribe": "宽"
+ },
+ "charon/lai2-4b1d.0": {
+  "gpt-4o-transcribe": "来"
+ },
+ "charon/lai4-572f.0": {
+  "gpt-4o-transcribe": "赖"
+ },
+ "charon/lan2-a44c.0": {
+  "gpt-4o-transcribe": "蓝"
+ },
+ "charon/lan3-56f5.0": {
+  "gpt-4o-transcribe": "懒"
+ },
+ "charon/lan4-43a5.0": {
+  "gpt-4o-transcribe": "烂"
+ },
+ "charon/lang2-84d6.0": {
+  "gpt-4o-transcribe": "廊。"
+ },
+ "charon/lang4-a23e.0": {
+  "gpt-4o-transcribe": "浪"
+ },
+ "charon/lao3shi1-494f.0": {
+  "gpt-4o-transcribe": "老师"
+ },
+ "charon/lao3shi4-e5d6.0": {
+  "gpt-4o-transcribe": "老师。",
+  "forced": {
+   "lao3shi1-494f": [
+    "老是",
+    "老师"
+   ]
+  }
+ },
+ "charon/li2-c76a.0": {
+  "gpt-4o-transcribe": "离"
+ },
+ "charon/li3-cdd2.0": {
+  "gpt-4o-transcribe": "礼"
+ },
+ "charon/lian2xi4-4dd6.0": {
+  "gpt-4o-transcribe": "联系"
+ },
+ "charon/lian4xi2-5b7f.0": {
+  "gpt-4o-transcribe": "练习"
+ },
+ "charon/lin2-020f.0": {
+  "gpt-4o-transcribe": "林"
+ },
+ "charon/ling2-e0d7.0": {
+  "gpt-4o-transcribe": "林",
+  "gpt-transcribe": "Then.",
+  "forced": {
+   "lin2-020f": [
+    "零",
+    "林"
+   ]
+  }
+ },
+ "charon/liu2-0990.0": {
+  "gpt-4o-transcribe": "留"
+ },
+ "charon/liu3-0dc0.0": {
+  "gpt-4o-transcribe": "柳"
+ },
+ "charon/long2-075e.0": {
+  "gpt-4o-transcribe": "龙"
+ },
+ "charon/lou2-598e.0": {
+  "gpt-4o-transcribe": "楼"
+ },
+ "charon/lou4-114e.0": {
+  "gpt-4o-transcribe": "咯",
+  "gpt-transcribe": "low.",
+  "forced": {
+   "rou4-6759": [
+    "漏",
+    "漏"
+   ]
+  }
+ },
+ "charon/lu2-680d.0": {
+  "gpt-4o-transcribe": "鲁。",
+  "forced": {
+   "lv2-49de": [
+    "炉",
+    "炉"
+   ]
+  }
+ },
+ "charon/lu4-de80.0": {
+  "gpt-4o-transcribe": "路"
+ },
+ "charon/luan3-e040.0": {
+  "gpt-4o-transcribe": "卵"
+ },
+ "charon/luo2-000e.0": {
+  "gpt-4o-transcribe": "罗"
+ },
+ "charon/lv2-49de.0": {
+  "gpt-4o-transcribe": "驴"
+ },
+ "charon/lv4-5796.0": {
+  "gpt-4o-transcribe": "绿"
+ },
+ "charon/ma1-e391.0": {
+  "gpt-4o-transcribe": "妈"
+ },
+ "charon/ma2-433e.0": {
+  "gpt-4o-transcribe": "嘛",
+  "forced": {
+   "ma3-7d39": [
+    "马。",
+    "马"
+   ],
+   "ma1-e391": [
+    "麻",
+    "妈"
+   ],
+   "ma4-6343": [
+    "麻。",
+    "骂。"
+   ]
+  }
+ },
+ "charon/ma3-7d39.0": {
+  "gpt-4o-transcribe": "马"
+ },
+ "charon/ma4-6343.0": {
+  "gpt-4o-transcribe": "妈",
+  "forced": {
+   "ma1-e391": [
+    "骂。",
+    "骂。"
+   ],
+   "ma3-7d39": [
+    "骂",
+    "骂"
+   ],
+   "ma2-433e": [
+    "骂",
+    "骂"
+   ]
+  }
+ },
+ "charon/mai2-2c49.0": {
+  "gpt-4o-transcribe": "买",
+  "forced": {
+   "mai3-b6c5": [
+    "埋",
+    "买"
+   ]
+  }
+ },
+ "charon/mai3-b6c5.0": {
+  "gpt-4o-transcribe": "买。"
+ },
+ "charon/mai4-df45.0": {
+  "gpt-4o-transcribe": "卖"
+ },
+ "charon/mao1-e10b.0": {
+  "gpt-4o-transcribe": "猫。"
+ },
+ "charon/mao2-f749.0": {
+  "gpt-4o-transcribe": "毛"
+ },
+ "charon/mei3li4-e159.0": {
+  "gpt-4o-transcribe": "美丽"
+ },
+ "charon/mei4li4-abe5.0": {
+  "gpt-4o-transcribe": "美味",
+  "gpt-transcribe": "魅力。"
+ },
+ "charon/mi2-2ee7.0": {
+  "gpt-4o-transcribe": "米。",
+  "forced": {
+   "mi3-ee7f": [
+    "米",
+    "「米」"
+   ],
+   "mi4-d493": [
+    "密",
+    "迷"
+   ]
+  }
+ },
+ "charon/mi3-ee7f.0": {
+  "gpt-4o-transcribe": "米"
+ },
+ "charon/mi4-d493.0": {
+  "gpt-4o-transcribe": "迷。",
+  "forced": {
+   "mi3-ee7f": [
+    "密",
+    "米"
+   ],
+   "mi2-2ee7": [
+    "迷",
+    "迷"
+   ]
+  }
+ },
+ "charon/mu4chuan2-8efa.0": {
+  "gpt-4o-transcribe": "木船"
+ },
+ "charon/mu4chuang2-c75f.0": {
+  "gpt-4o-transcribe": "木床"
+ },
+ "charon/na2-748a.0": {
+  "gpt-4o-transcribe": "拿"
+ },
+ "charon/na3-cd96.0": {
+  "gpt-4o-transcribe": "哪儿",
+  "gpt-transcribe": "哪儿？",
+  "forced": {
+   "na2-748a": [
+    "哪儿",
+    "哪儿"
+   ]
+  }
+ },
+ "charon/na4-3270.0": {
+  "gpt-4o-transcribe": "那"
+ },
+ "charon/nian2-6f14.0": {
+  "gpt-4o-transcribe": "年"
+ },
+ "charon/nian4-13d0.0": {
+  "gpt-4o-transcribe": "念"
+ },
+ "charon/niu2-bf9b.0": {
+  "gpt-4o-transcribe": "牛"
+ },
+ "charon/niu3-4642.0": {
+  "gpt-4o-transcribe": "扭"
+ },
+ "charon/nu3-c530.0": {
+  "gpt-4o-transcribe": "奴。",
+  "forced": {
+   "nv3-26bc": [
+    "努",
+    "努"
+   ]
+  }
+ },
+ "charon/nv3-26bc.0": {
+  "gpt-4o-transcribe": "女"
+ },
+ "charon/pa4-bc1c.0": {
+  "gpt-4o-transcribe": "怕"
+ },
+ "charon/pai2-265d.0": {
+  "gpt-4o-transcribe": "台",
+  "gpt-transcribe": "牌。"
+ },
+ "charon/pan2-15c7.0": {
+  "gpt-4o-transcribe": "盘"
+ },
+ "charon/pang2-c12a.0": {
+  "gpt-4o-transcribe": "旁"
+ },
+ "charon/pao3-1516.0": {
+  "gpt-4o-transcribe": "跑"
+ },
+ "charon/pao4-b19a.0": {
+  "gpt-4o-transcribe": "跑",
+  "forced": {
+   "pao3-1516": [
+    "跑",
+    "泡。"
+   ]
+  }
+ },
+ "charon/qi1-7db1.0": {
+  "gpt-4o-transcribe": "汽。",
+  "forced": {
+   "qi4-b08d": [
+    "七",
+    "七"
+   ],
+   "qi2-c058": [
+    "七",
+    "骑"
+   ],
+   "qi3-2919": [
+    "七",
+    "起"
+   ],
+   "ji1-5109": [
+    "七",
+    "七"
+   ],
+   "chi1-a10d": [
+    "七",
+    "七"
+   ]
+  }
+ },
+ "charon/qi2-c058.0": {
+  "gpt-4o-transcribe": "起",
+  "forced": {
+   "qi3-2919": [
+    "骑",
+    "起"
+   ],
+   "qi1-7db1": [
+    "骑。",
+    "骑"
+   ],
+   "qi4-b08d": [
+    "骑",
+    "骑。"
+   ]
+  }
+ },
+ "charon/qi3-2919.0": {
+  "gpt-4o-transcribe": "起义",
+  "gpt-transcribe": "起疑。",
+  "forced": {
+   "qi2-c058": [
+    "起。",
+    "骑"
+   ],
+   "qi4-b08d": [
+    "起",
+    "起"
+   ],
+   "qi1-7db1": [
+    "起",
+    "起"
+   ]
+  }
+ },
+ "charon/qi4-b08d.0": {
+  "gpt-4o-transcribe": "气"
+ },
+ "charon/qian2-073d.0": {
+  "gpt-4o-transcribe": "钱"
+ },
+ "charon/qian2-db4b.0": {
+  "gpt-4o-transcribe": "钱"
+ },
+ "charon/qian3-d181.0": {
+  "gpt-4o-transcribe": "钱。",
+  "forced": {
+   "qian2-db4b": [
+    "浅",
+    "浅"
+   ]
+  }
+ },
+ "charon/qian4-bdc9.0": {
+  "gpt-4o-transcribe": "欠。"
+ },
+ "charon/qiang2-6512.0": {
+  "gpt-4o-transcribe": "墙"
+ },
+ "charon/qiao1-0a47.0": {
+  "gpt-4o-transcribe": "敲"
+ },
+ "charon/qin1-a39a.0": {
+  "gpt-4o-transcribe": "群",
+  "gpt-transcribe": "青。",
+  "forced": {
+   "jin1-b59d": [
+    "亲",
+    "亲"
+   ]
+  }
+ },
+ "charon/qiu1-8d8f.0": {
+  "gpt-4o-transcribe": "秋"
+ },
+ "charon/qiu2-f2af.0": {
+  "gpt-4o-transcribe": "球。"
+ },
+ "charon/ran2-02b5.0": {
+  "gpt-4o-transcribe": "然"
+ },
+ "charon/rang4-c0fe.0": {
+  "gpt-4o-transcribe": "让"
+ },
+ "charon/ren2-4912.0": {
+  "gpt-4o-transcribe": "人"
+ },
+ "charon/ren2min2-4c4d.0": {
+  "gpt-4o-transcribe": "人民"
+ },
+ "charon/ren2ming2-0947.0": {
+  "gpt-4o-transcribe": "人民",
+  "gpt-transcribe": "人名。"
+ },
+ "charon/ren3-4ce4.0": {
+  "gpt-4o-transcribe": "忍"
+ },
+ "charon/rong2-7e83.0": {
+  "gpt-4o-transcribe": "拥",
+  "gpt-transcribe": "容。"
+ },
+ "charon/rou2-8c77.0": {
+  "gpt-4o-transcribe": "楼",
+  "gpt-transcribe": "柔。"
+ },
+ "charon/rou4-6759.0": {
+  "gpt-4o-transcribe": "肉"
+ },
+ "charon/ru4-4a8d.0": {
+  "gpt-4o-transcribe": "儒",
+  "forced": {
+   "lu4-de80": [
+    "入",
+    "入"
+   ]
+  }
+ },
+ "charon/ruan3-6a8a.0": {
+  "gpt-4o-transcribe": "软。"
+ },
+ "charon/ruo4-d479.0": {
+  "gpt-4o-transcribe": "若"
+ },
+ "charon/san1-49dd.0": {
+  "gpt-4o-transcribe": "三"
+ },
+ "charon/san1jiao3-b721.0": {
+  "gpt-4o-transcribe": "山脚",
+  "gpt-transcribe": "山脚。",
+  "forced": {
+   "shan1jiao3-63cd": [
+    "山脚",
+    "山脚"
+   ]
+  }
+ },
+ "charon/sao3-a84f.0": {
+  "gpt-4o-transcribe": "扫"
+ },
+ "charon/shan1-0e24.0": {
+  "gpt-4o-transcribe": "山"
+ },
+ "charon/shan1jiao3-63cd.0": {
+  "gpt-4o-transcribe": "山脚"
+ },
+ "charon/shang1-19a8.0": {
+  "gpt-4o-transcribe": "商"
+ },
+ "charon/shang1hai4-69ac.0": {
+  "gpt-4o-transcribe": "伤害"
+ },
+ "charon/shang3-e6c2.0": {
+  "gpt-4o-transcribe": "赏。"
+ },
+ "charon/shang4hai3-99f1.0": {
+  "gpt-4o-transcribe": "上海"
+ },
+ "charon/shao1-4a1c.0": {
+  "gpt-4o-transcribe": "收",
+  "gpt-transcribe": "收。",
+  "forced": {
+   "xiao1-06f9": [
+    "烧",
+    "烧"
+   ]
+  }
+ },
+ "charon/shao3-fa49.0": {
+  "gpt-4o-transcribe": "少"
+ },
+ "charon/she2-67bc.0": {
+  "gpt-4o-transcribe": "蛇"
+ },
+ "charon/shen1-44a6.0": {
+  "gpt-4o-transcribe": "三",
+  "gpt-transcribe": "三。",
+  "forced": {
+   "xin1-481e": [
+    "身",
+    "身"
+   ],
+   "sheng1-3eb3": [
+    "身",
+    "身"
+   ]
+  }
+ },
+ "charon/sheng1-3eb3.0": {
+  "gpt-4o-transcribe": "什么",
+  "gpt-transcribe": "生。"
+ },
+ "charon/sheng3-45ad.0": {
+  "gpt-4o-transcribe": "省"
+ },
+ "charon/sheng4-5db0.0": {
+  "gpt-4o-transcribe": "上",
+  "gpt-transcribe": "上。",
+  "forced": {
+   "sheng1-3eb3": [
+    "剩",
+    "剩"
+   ]
+  }
+ },
+ "charon/shi1-53e0.0": {
+  "gpt-4o-transcribe": "狮"
+ },
+ "charon/shi1-7c06.0": {
+  "gpt-4o-transcribe": "狮。"
+ },
+ "charon/shi1ren2-305c.0": {
+  "gpt-4o-transcribe": "诗人"
+ },
+ "charon/shi2-aa10.0": {
+  "gpt-4o-transcribe": "十"
+ },
+ "charon/shi2ji1-6609.0": {
+  "gpt-4o-transcribe": "时机"
+ },
+ "charon/shi2ji4-1b85.0": {
+  "gpt-4o-transcribe": "实际。"
+ },
+ "charon/shi2jian1-89b4.0": {
+  "gpt-4o-transcribe": "时间"
+ },
+ "charon/shi3-f690.0": {
+  "gpt-4o-transcribe": "词。",
+  "gpt-transcribe": "屎。"
+ },
+ "charon/shi4-3016.0": {
+  "gpt-4o-transcribe": "是"
+ },
+ "charon/shi4jian4-550e.0": {
+  "gpt-4o-transcribe": "事件"
+ },
+ "charon/shou1-59a6.0": {
+  "gpt-4o-transcribe": "伞。",
+  "gpt-transcribe": "收。"
+ },
+ "charon/shou3-c08a.0": {
+  "gpt-4o-transcribe": "手"
+ },
+ "charon/shou4-41eb.0": {
+  "gpt-4o-transcribe": "瘦"
+ },
+ "charon/shu1-fe04.0": {
+  "gpt-4o-transcribe": "书"
+ },
+ "charon/shu4-7803.0": {
+  "gpt-4o-transcribe": "树"
+ },
+ "charon/shuan4-aef8.0": {
+  "gpt-4o-transcribe": "拴。",
+  "forced": {
+   "suan4-2ae1": [
+    "涮",
+    "涮"
+   ]
+  }
+ },
+ "charon/shui3-8ffb.0": {
+  "gpt-4o-transcribe": "水"
+ },
+ "charon/shui3jiao3-e5d6.0": {
+  "gpt-4o-transcribe": "水饺"
+ },
+ "charon/shui4-c149.0": {
+  "gpt-4o-transcribe": "睡"
+ },
+ "charon/shui4jiao4-6380.0": {
+  "gpt-4o-transcribe": "睡觉"
+ },
+ "charon/shuo1-be30.0": {
+  "gpt-4o-transcribe": "说"
+ },
+ "charon/si1-a088.0": {
+  "gpt-4o-transcribe": "词",
+  "gpt-transcribe": "丝。"
+ },
+ "charon/si1ren2-82b4.0": {
+  "gpt-4o-transcribe": "私人"
+ },
+ "charon/si4-4f88.0": {
+  "gpt-4o-transcribe": "四"
+ },
+ "charon/sou1-35d7.0": {
+  "gpt-4o-transcribe": "搜"
+ },
+ "charon/suan4-2ae1.0": {
+  "gpt-4o-transcribe": "算。"
+ },
+ "charon/sui4-86f1.0": {
+  "gpt-4o-transcribe": "词汇",
+  "gpt-transcribe": "碎。"
+ },
+ "charon/suo1-ad71.0": {
+  "gpt-4o-transcribe": "缩"
+ },
+ "charon/ta4-08ce.0": {
+  "gpt-4o-transcribe": "他",
+  "forced": {
+   "da4-0889": [
+    "踏",
+    "踏"
+   ]
+  }
+ },
+ "charon/tan2qin2-e22a.0": {
+  "gpt-4o-transcribe": "弹琴"
+ },
+ "charon/tan2qing2-a676.0": {
+  "gpt-4o-transcribe": "弹琴。",
+  "gpt-transcribe": "谈情。"
+ },
+ "charon/tang1-fc4e.0": {
+  "gpt-4o-transcribe": "汤。"
+ },
+ "charon/tang2-3d8c.0": {
+  "gpt-4o-transcribe": "谈",
+  "gpt-transcribe": "谈。",
+  "forced": {
+   "tang3-a854": [
+    "糖",
+    "躺"
+   ],
+   "tang1-fc4e": [
+    "糖",
+    "汤"
+   ],
+   "tang4-700e": [
+    "烫。",
+    "糖"
+   ]
+  }
+ },
+ "charon/tang3-a854.0": {
+  "gpt-4o-transcribe": "躺。"
+ },
+ "charon/tang4-700e.0": {
+  "gpt-4o-transcribe": "叹",
+  "gpt-transcribe": "tang.",
+  "forced": {
+   "tang1-fc4e": [
+    "烫",
+    "烫"
+   ],
+   "tang3-a854": [
+    "烫。",
+    "躺"
+   ],
+   "tang2-3d8c": [
+    "烫",
+    "烫"
+   ]
+  }
+ },
+ "charon/tao4-0322.0": {
+  "gpt-4o-transcribe": "套"
+ },
+ "charon/ti1-2359.0": {
+  "gpt-4o-transcribe": "期",
+  "gpt-transcribe": "七。",
+  "forced": {
+   "di1-b9ee": [
+    "梯",
+    "梯"
+   ]
+  }
+ },
+ "charon/ti2-c9d6.0": {
+  "gpt-4o-transcribe": "提。"
+ },
+ "charon/ti4-1f05.0": {
+  "gpt-4o-transcribe": "气",
+  "gpt-transcribe": "key.",
+  "forced": {
+   "ti2-c9d6": [
+    "替",
+    "替"
+   ],
+   "di4-2763": [
+    "替。",
+    "替。"
+   ]
+  }
+ },
+ "charon/tian1-c330.0": {
+  "gpt-4o-transcribe": "千",
+  "gpt-transcribe": "天。"
+ },
+ "charon/tian2-ab95.0": {
+  "gpt-4o-transcribe": "甜"
+ },
+ "charon/tian3-9894.0": {
+  "gpt-4o-transcribe": "填",
+  "forced": {
+   "tian1-c330": [
+    "舔",
+    "舔"
+   ]
+  }
+ },
+ "charon/tiao4-8449.0": {
+  "gpt-4o-transcribe": "跳"
+ },
+ "charon/tong1-bef2.0": {
+  "gpt-4o-transcribe": "通"
+ },
+ "charon/tong2-0b8b.0": {
+  "gpt-4o-transcribe": "从",
+  "gpt-transcribe": "孔。",
+  "forced": {
+   "tong1-bef2": [
+    "同",
+    "「同」"
+   ]
+  }
+ },
+ "charon/tong2zhi4-928d.0": {
+  "gpt-4o-transcribe": "同志"
+ },
+ "charon/tong3zhi4-a879.0": {
+  "gpt-4o-transcribe": "屯聚",
+  "gpt-transcribe": "统治。"
+ },
+ "charon/tou1-9b1d.0": {
+  "gpt-4o-transcribe": "偷"
+ },
+ "charon/tou2-f366.0": {
+  "gpt-4o-transcribe": "口",
+  "gpt-transcribe": "口。",
+  "forced": {
+   "tou1-9b1d": [
+    "偷",
+    "口"
+   ],
+   "tou4-78a0": [
+    "头",
+    "头。"
+   ]
+  }
+ },
+ "charon/tou4-78a0.0": {
+  "gpt-4o-transcribe": "扣",
+  "gpt-transcribe": "扣。",
+  "forced": {
+   "tou2-f366": [
+    "透。",
+    "透"
+   ]
+  }
+ },
+ "charon/tu2-611a.0": {
+  "gpt-4o-transcribe": "图"
+ },
+ "charon/tu4zi5-3daa.0": {
+  "gpt-4o-transcribe": "兔子"
+ },
+ "charon/tuo1-49da.0": {
+  "gpt-4o-transcribe": "拖"
+ },
+ "charon/wan2-0830.0": {
+  "gpt-4o-transcribe": "玩"
+ },
+ "charon/wan2-d0ae.0": {
+  "gpt-4o-transcribe": "玩"
+ },
+ "charon/wan3-7c0f.0": {
+  "gpt-4o-transcribe": "玩",
+  "forced": {
+   "wan2-0830": [
+    "完",
+    "完"
+   ],
+   "wan4-0d3b": [
+    "万",
+    "万"
+   ],
+   "wang3-4ad9": [
+    "晚。",
+    "晚"
+   ],
+   "yuan3-e733": [
+    "晚",
+    "晚"
+   ]
+  }
+ },
+ "charon/wan4-0d3b.0": {
+  "gpt-4o-transcribe": "万"
+ },
+ "charon/wang2-c7b1.0": {
+  "gpt-4o-transcribe": "玩。",
+  "gpt-transcribe": "玩。",
+  "forced": {
+   "wang3-4ad9": [
+    "网",
+    "网"
+   ],
+   "wang4-1787": [
+    "「顽」",
+    "完"
+   ],
+   "wan2-0830": [
+    "完",
+    "完"
+   ]
+  }
+ },
+ "charon/wang3-4ad9.0": {
+  "gpt-4o-transcribe": "网。"
+ },
+ "charon/wang4-1787.0": {
+  "gpt-4o-transcribe": "旺"
+ },
+ "charon/wen2-176f.0": {
+  "gpt-4o-transcribe": "文"
+ },
+ "charon/wen2ti3-a14c.0": {
+  "gpt-4o-transcribe": "文体"
+ },
+ "charon/wen3-dfa7.0": {
+  "gpt-4o-transcribe": "稳。"
+ },
+ "charon/wen4ti2-2fb4.0": {
+  "gpt-4o-transcribe": "问题"
+ },
+ "charon/wu2-7207.0": {
+  "gpt-4o-transcribe": "武",
+  "forced": {
+   "yu2-9246": [
+    "无",
+    "无"
+   ]
+  }
+ },
+ "charon/wu3-8f07.0": {
+  "gpt-4o-transcribe": "五"
+ },
+ "charon/wu4-2697.0": {
+  "gpt-4o-transcribe": "污",
+  "forced": {
+   "wu3-8f07": [
+    "雾",
+    "雾"
+   ],
+   "yu4-2081": [
+    "雾",
+    "雾"
+   ]
+  }
+ },
+ "charon/xi1-2f64.0": {
+  "gpt-4o-transcribe": "七",
+  "gpt-transcribe": "西。"
+ },
+ "charon/xi1-869f.0": {
+  "gpt-4o-transcribe": "词",
+  "gpt-transcribe": "西。"
+ },
+ "charon/xi3-cef2.0": {
+  "gpt-4o-transcribe": "喜"
+ },
+ "charon/xi3-d21b.0": {
+  "gpt-4o-transcribe": "洗。"
+ },
+ "charon/xi4-6a00.0": {
+  "gpt-4o-transcribe": "四。",
+  "gpt-transcribe": "戏。"
+ },
+ "charon/xi4-8f46.0": {
+  "gpt-4o-transcribe": "戏"
+ },
+ "charon/xian1-82d4.0": {
+  "gpt-4o-transcribe": "先"
+ },
+ "charon/xian1-d10b.0": {
+  "gpt-4o-transcribe": "先"
+ },
+ "charon/xian2-1d22.0": {
+  "gpt-4o-transcribe": "咸。"
+ },
+ "charon/xiang1-7ba4.0": {
+  "gpt-4o-transcribe": "香"
+ },
+ "charon/xiang3-a48f.0": {
+  "gpt-4o-transcribe": "想。"
+ },
+ "charon/xiang4-344b.0": {
+  "gpt-4o-transcribe": "象"
+ },
+ "charon/xiao1-06f9.0": {
+  "gpt-4o-transcribe": "消。"
+ },
+ "charon/xiao3-9225.0": {
+  "gpt-4o-transcribe": "小"
+ },
+ "charon/xiao4-740d.0": {
+  "gpt-4o-transcribe": "笑"
+ },
+ "charon/xie2-0106.0": {
+  "gpt-4o-transcribe": "写。",
+  "forced": {
+   "xie3-144d": [
+    "鞋",
+    "鞋"
+   ],
+   "xie4-b27c": [
+    "鞋",
+    "鞋。"
+   ],
+   "she2-67bc": [
+    "鞋",
+    "鞋"
+   ]
+  }
+ },
+ "charon/xie3-144d.0": {
+  "gpt-4o-transcribe": "写。"
+ },
+ "charon/xie4-b27c.0": {
+  "gpt-4o-transcribe": "谢"
+ },
+ "charon/xin1-481e.0": {
+  "gpt-4o-transcribe": "亲",
+  "gpt-transcribe": "新。"
+ },
+ "charon/xin4-6c71.0": {
+  "gpt-4o-transcribe": "信"
+ },
+ "charon/xing1-92ae.0": {
+  "gpt-4o-transcribe": "亲",
+  "gpt-transcribe": "星。"
+ },
+ "charon/xing3-9e66.0": {
+  "gpt-4o-transcribe": "谦。",
+  "gpt-transcribe": "醒。"
+ },
+ "charon/xing4-003e.0": {
+  "gpt-4o-transcribe": "汛",
+  "gpt-transcribe": "姓。"
+ },
+ "charon/xiong1mao2-fc47.0": {
+  "gpt-4o-transcribe": "胸毛"
+ },
+ "charon/xiong2mao1-b1c3.0": {
+  "gpt-4o-transcribe": "穷薄",
+  "gpt-transcribe": "熊猫。"
+ },
+ "charon/xue2-7c7a.0": {
+  "gpt-4o-transcribe": "学"
+ },
+ "charon/xue3-7d74.0": {
+  "gpt-4o-transcribe": "血",
+  "forced": {
+   "xue2-7c7a": [
+    "雪",
+    "雪"
+   ]
+  }
+ },
+ "charon/ya1-ee25.0": {
+  "gpt-4o-transcribe": "鸭"
+ },
+ "charon/ya1li2-843d.0": {
+  "gpt-4o-transcribe": "压力",
+  "forced": {
+   "ya1li4-aef4": [
+    "鸭梨",
+    "鸭梨"
+   ]
+  }
+ },
+ "charon/ya1li4-aef4.0": {
+  "gpt-4o-transcribe": "压力"
+ },
+ "charon/ya2-87d8.0": {
+  "gpt-4o-transcribe": "呀",
+  "forced": {
+   "ya3-a2cf": [
+    "哑",
+    "哑"
+   ]
+  }
+ },
+ "charon/ya3-a2cf.0": {
+  "gpt-4o-transcribe": "哑"
+ },
+ "charon/yan1-fb4e.0": {
+  "gpt-4o-transcribe": "烟。"
+ },
+ "charon/yan2-1629.0": {
+  "gpt-4o-transcribe": "盐"
+ },
+ "charon/yan3-6191.0": {
+  "gpt-4o-transcribe": "言",
+  "forced": {
+   "yan2-1629": [
+    "眼",
+    "眼"
+   ],
+   "yan1-fb4e": [
+    "眼",
+    "眼"
+   ],
+   "yang3-51e5": [
+    "眼",
+    "眼"
+   ]
+  }
+ },
+ "charon/yang2-de33.0": {
+  "gpt-4o-transcribe": "羊"
+ },
+ "charon/yang3-51e5.0": {
+  "gpt-4o-transcribe": "雅姆",
+  "gpt-transcribe": "啱。",
+  "forced": {
+   "yan3-6191": [
+    "眼",
+    "眼。"
+   ]
+  }
+ },
+ "charon/yao1-b12d.0": {
+  "gpt-4o-transcribe": "摇。",
+  "forced": {
+   "yao4-55b7": [
+    "腰",
+    "腰"
+   ],
+   "yao3-b6bd": [
+    "咬",
+    "咬"
+   ]
+  }
+ },
+ "charon/yao3-b6bd.0": {
+  "gpt-4o-transcribe": "有",
+  "gpt-transcribe": "咬。"
+ },
+ "charon/yao4-55b7.0": {
+  "gpt-4o-transcribe": "妖",
+  "forced": {
+   "yao1-b12d": [
+    "药",
+    "腰"
+   ]
+  }
+ },
+ "charon/yin1-b7ec.0": {
+  "gpt-4o-transcribe": "阴"
+ },
+ "charon/ying1-4956.0": {
+  "gpt-4o-transcribe": "阴",
+  "gpt-transcribe": "英。"
+ },
+ "charon/you2-2407.0": {
+  "gpt-4o-transcribe": "由"
+ },
+ "charon/you2qian2-5ae9.0": {
+  "gpt-4o-transcribe": "油钱"
+ },
+ "charon/you3-fbd5.0": {
+  "gpt-4o-transcribe": "有。"
+ },
+ "charon/you3qian2-8b5f.0": {
+  "gpt-4o-transcribe": "有钱"
+ },
+ "charon/you4-4c2b.0": {
+  "gpt-4o-transcribe": "幽",
+  "forced": {
+   "you3-fbd5": [
+    "又",
+    "有"
+   ],
+   "you2-2407": [
+    "又",
+    "又"
+   ]
+  }
+ },
+ "charon/yu2-9246.0": {
+  "gpt-4o-transcribe": "也",
+  "gpt-transcribe": "雨。",
+  "forced": {
+   "yu3-8995": [
+    "鱼",
+    "雨"
+   ],
+   "yu4-2081": [
+    "鱼",
+    "玉"
+   ],
+   "wu2-7207": [
+    "鱼",
+    "鱼。"
+   ]
+  }
+ },
+ "charon/yu3-8995.0": {
+  "gpt-4o-transcribe": "语语",
+  "gpt-transcribe": "鲈鱼。",
+  "forced": {
+   "yu2-9246": [
+    "雨鱼",
+    "鱼雨。"
+   ],
+   "yu4-2081": [
+    "雨语",
+    "玉宇"
+   ],
+   "wu3-8f07": [
+    "雨语。",
+    "雨与"
+   ]
+  }
+ },
+ "charon/yu3yan2-cd99.0": {
+  "gpt-4o-transcribe": "语言"
+ },
+ "charon/yu4-2081.0": {
+  "gpt-4o-transcribe": "语",
+  "forced": {
+   "yu3-8995": [
+    "玉",
+    "玉"
+   ],
+   "yu2-9246": [
+    "玉",
+    "鱼"
+   ],
+   "wu4-2697": [
+    "玉。",
+    "玉"
+   ]
+  }
+ },
+ "charon/yu4yan2-edf7.0": {
+  "gpt-4o-transcribe": "预言"
+ },
+ "charon/yuan2-aeb0.0": {
+  "gpt-4o-transcribe": "圆"
+ },
+ "charon/yuan3-e733.0": {
+  "gpt-4o-transcribe": "远"
+ },
+ "charon/yuan4-ead6.0": {
+  "gpt-4o-transcribe": "愿"
+ },
+ "charon/zai4-686b.0": {
+  "gpt-4o-transcribe": "在"
+ },
+ "charon/zang1-d94b.0": {
+  "gpt-4o-transcribe": "context:",
+  "gpt-transcribe": "脏。"
+ },
+ "charon/zao3-13a8.0": {
+  "gpt-4o-transcribe": "早"
+ },
+ "charon/zao4-5af6.0": {
+  "gpt-4o-transcribe": "扫",
+  "gpt-transcribe": "灶。"
+ },
+ "charon/zeng1-5fa3.0": {
+  "gpt-4o-transcribe": "context",
+  "gpt-transcribe": "增。"
+ },
+ "charon/zhang1-9273.0": {
+  "gpt-4o-transcribe": "张"
+ },
+ "charon/zhao3-76aa.0": {
+  "gpt-4o-transcribe": "找。"
+ },
+ "charon/zhen1-e756.0": {
+  "gpt-4o-transcribe": "慎。",
+  "gpt-transcribe": "真。"
+ },
+ "charon/zheng1-3e88.0": {
+  "gpt-4o-transcribe": "争"
+ },
+ "charon/zhi1-c524.0": {
+  "gpt-4o-transcribe": "师。",
+  "gpt-transcribe": "之。"
+ },
+ "charon/zhi3-9055.0": {
+  "gpt-4o-transcribe": "举",
+  "gpt-transcribe": "纸。"
+ },
+ "charon/zhong1-0869.0": {
+  "gpt-4o-transcribe": "中"
+ },
+ "charon/zhong3-a1f3.0": {
+  "gpt-4o-transcribe": "种"
+ },
+ "charon/zhou1-451b.0": {
+  "gpt-4o-transcribe": "周"
+ },
+ "charon/zhou3-0583.0": {
+  "gpt-4o-transcribe": "周",
+  "forced": {
+   "zou3-0851": [
+    "肘",
+    "肘"
+   ],
+   "jiu3-27a2": [
+    "肘。",
+    "肘"
+   ]
+  }
+ },
+ "charon/zhu1-3e2d.0": {
+  "gpt-4o-transcribe": "哭。",
+  "gpt-transcribe": "哭。",
+  "forced": {
+   "chu1-69e8": [
+    "猪",
+    "出"
+   ]
+  }
+ },
+ "charon/zhu3ren2-636e.0": {
+  "gpt-4o-transcribe": "助人",
+  "forced": {
+   "zhu3ren4-4876": [
+    "主人",
+    "主人"
+   ]
+  }
+ },
+ "charon/zhu3ren4-4876.0": {
+  "gpt-4o-transcribe": "主任"
+ },
+ "charon/zhu4-80b8.0": {
+  "gpt-4o-transcribe": "助"
+ },
+ "charon/zhuo1-c4a4.0": {
+  "gpt-4o-transcribe": "捉"
+ },
+ "charon/zi4-582c.0": {
+  "gpt-4o-transcribe": "字。"
+ },
+ "charon/zou3-0851.0": {
+  "gpt-4o-transcribe": "走。"
+ },
+ "charon/zu1-5d00.0": {
+  "gpt-4o-transcribe": "租"
+ },
+ "charon/zuo3-df3e.0": {
+  "gpt-4o-transcribe": "所",
+  "gpt-transcribe": "左。"
+ },
+ "charon/zuo4-4a1e.0": {
+  "gpt-4o-transcribe": "做"
+ },
+ "iapetus/chi2-0c28.0": {
+  "gpt-4o-transcribe": "取",
+  "gpt-transcribe": "曲儿。",
+  "forced": {
+   "ci2-df99": [
+    "迟",
+    "迟"
+   ]
+  }
+ },
+ "iapetus/chi3-683c.0": {
+  "gpt-4o-transcribe": "尺"
+ },
+ "iapetus/chong1-e429.0": {
+  "gpt-4o-transcribe": "冲"
+ },
+ "iapetus/chong2-01e3.0": {
+  "gpt-4o-transcribe": "虫"
+ },
+ "iapetus/chou1-ca48.0": {
+  "gpt-4o-transcribe": "抽"
+ },
+ "iapetus/chou2-59ae.0": {
+  "gpt-4o-transcribe": "仇"
+ },
+ "iapetus/chou3-aa9d.0": {
+  "gpt-4o-transcribe": "丑"
+ },
+ "iapetus/chu1-69e8.0": {
+  "gpt-4o-transcribe": "出"
+ },
+ "iapetus/chuan2-2eaf.0": {
+  "gpt-4o-transcribe": "船。"
+ },
+ "iapetus/chuang1-1a3d.0": {
+  "gpt-4o-transcribe": "酸",
+  "gpt-transcribe": "窗。"
+ },
+ "iapetus/chuang2-a30d.0": {
+  "gpt-4o-transcribe": "床"
+ },
+ "iapetus/chuang3-924b.0": {
+  "gpt-4o-transcribe": "闯。"
+ },
+ "iapetus/chun1-3e45.0": {
+  "gpt-4o-transcribe": "淳。",
+  "forced": {
+   "cun1-4211": [
+    "春",
+    "春"
+   ]
+  }
+ },
+ "iapetus/chuo1-42b6.0": {
+  "gpt-4o-transcribe": "戳"
+ },
+ "iapetus/ci2-df99.0": {
+  "gpt-4o-transcribe": "词。"
+ },
+ "iapetus/ci4-5e5b.0": {
+  "gpt-4o-transcribe": "刺。"
+ },
+ "iapetus/cong2-8ab9.0": {
+  "gpt-4o-transcribe": "从"
+ },
+ "iapetus/cou4-4d61.0": {
+  "gpt-4o-transcribe": "臭",
+  "gpt-transcribe": "臭。",
+  "forced": {
+   "cuo4-cc73": [
+    "凑",
+    "错"
+   ]
+  }
+ },
+ "iapetus/cu1-4c9c.0": {
+  "gpt-4o-transcribe": "屠。",
+  "gpt-transcribe": "粗。"
+ },
+ "iapetus/cun1-4211.0": {
+  "gpt-4o-transcribe": "村。"
+ },
+ "iapetus/cuo4-cc73.0": {
+  "gpt-4o-transcribe": "错"
+ },
+ "iapetus/da3-6919.0": {
+  "gpt-4o-transcribe": "啊",
+  "gpt-transcribe": "ǎ。",
+  "forced": {
+   "da4-0889": [
+    "打",
+    "打"
+   ]
+  }
+ },
+ "iapetus/da4-0889.0": {
+  "gpt-4o-transcribe": "大"
+ },
+ "iapetus/da4xue2-858b.0": {
+  "gpt-4o-transcribe": "大学"
+ },
+ "iapetus/da4xue3-7c72.0": {
+  "gpt-4o-transcribe": "大雪"
+ },
+ "iapetus/dao1-c8f6.0": {
+  "gpt-4o-transcribe": "收",
+  "gpt-transcribe": "刀。"
+ },
+ "iapetus/dao3-4543.0": {
+  "gpt-4o-transcribe": "捣"
+ },
+ "iapetus/dao4-792b.0": {
+  "gpt-4o-transcribe": "道"
+ },
+ "iapetus/deng1-7e6e.0": {
+  "gpt-4o-transcribe": "对",
+  "gpt-transcribe": "灯。"
+ },
+ "iapetus/deng3-3d3e.0": {
+  "gpt-4o-transcribe": "三",
+  "gpt-transcribe": "胆。",
+  "forced": {
+   "deng4-f350": [
+    "凳",
+    "等"
+   ],
+   "deng1-7e6e": [
+    "等",
+    "等。"
+   ]
+  }
+ },
+ "iapetus/deng4-f350.0": {
+  "gpt-4o-transcribe": "凳"
+ },
+ "iapetus/di1-b9ee.0": {
+  "gpt-4o-transcribe": "提",
+  "gpt-transcribe": "D。",
+  "forced": {
+   "ti1-2359": [
+    "梯",
+    "梯"
+   ]
+  }
+ },
+ "iapetus/di4-2763.0": {
+  "gpt-4o-transcribe": "字。",
+  "gpt-transcribe": "P。",
+  "forced": {
+   "ti4-1f05": [
+    "替。",
+    "替"
+   ]
+  }
+ },
+ "iapetus/diao4-dd73.0": {
+  "gpt-4o-transcribe": "德尔",
+  "gpt-transcribe": "掉。"
+ },
+ "iapetus/dong1-520b.0": {
+  "gpt-4o-transcribe": "普通",
+  "gpt-transcribe": "崩。",
+  "forced": {
+   "dong4-b30d": [
+    "东",
+    "动"
+   ],
+   "dong3-632b": [
+    "东",
+    "懂"
+   ]
+  }
+ },
+ "iapetus/dong3-632b.0": {
+  "gpt-4o-transcribe": "懂"
+ },
+ "iapetus/dong4-b30d.0": {
+  "gpt-4o-transcribe": "顿",
+  "gpt-transcribe": "动。"
+ },
+ "iapetus/dou4-d081.0": {
+  "gpt-4o-transcribe": "斗"
+ },
+ "iapetus/du2-d001.0": {
+  "gpt-4o-transcribe": "毒"
+ },
+ "iapetus/du3-d07c.0": {
+  "gpt-4o-transcribe": "土",
+  "gpt-transcribe": "补。",
+  "forced": {
+   "du2-d001": [
+    "堵。",
+    "堵"
+   ]
+  }
+ },
+ "iapetus/du4-304f.0": {
+  "gpt-4o-transcribe": "度"
+ },
+ "iapetus/du4zi5-e102.0": {
+  "gpt-4o-transcribe": "肚子",
+  "forced": {
+   "tu4zi5-3daa": [
+    "肚子",
+    "肚子"
+   ]
+  }
+ },
+ "iapetus/duo1-451b.0": {
+  "gpt-4o-transcribe": "多"
+ },
+ "iapetus/duo2-7085.0": {
+  "gpt-4o-transcribe": "躲",
+  "forced": {
+   "duo1-451b": [
+    "夺",
+    "夺。"
+   ]
+  }
+ },
+ "iapetus/duo3-7497.0": {
+  "gpt-4o-transcribe": "躲"
+ },
+ "iapetus/duo4-600c.0": {
+  "gpt-4o-transcribe": "坐",
+  "gpt-transcribe": "舵。"
+ },
+ "iapetus/fa1-b089.0": {
+  "gpt-4o-transcribe": "发"
+ },
+ "iapetus/fan3wen4-2056.0": {
+  "gpt-4o-transcribe": "访问",
+  "gpt-transcribe": "反问。"
+ },
+ "iapetus/fan4-cded.0": {
+  "gpt-4o-transcribe": "烦",
+  "forced": {
+   "fang4-6967": [
+    "放。",
+    "饭。"
+   ],
+   "han4-4743": [
+    "饭",
+    "饭。"
+   ]
+  }
+ },
+ "iapetus/fang1-2e9c.0": {
+  "gpt-4o-transcribe": "方。"
+ },
+ "iapetus/fang2-510c.0": {
+  "gpt-4o-transcribe": "访",
+  "forced": {
+   "fang1-2e9c": [
+    "房。",
+    "房"
+   ],
+   "fang4-6967": [
+    "访。",
+    "访"
+   ]
+  }
+ },
+ "iapetus/fang3wen4-7f56.0": {
+  "gpt-4o-transcribe": "访问"
+ },
+ "iapetus/fang4-6967.0": {
+  "gpt-4o-transcribe": "放"
+ },
+ "iapetus/fei1-322b.0": {
+  "gpt-4o-transcribe": "斯",
+  "gpt-transcribe": "C。",
+  "forced": {
+   "fei4-f07a": [
+    "飞",
+    "飞"
+   ],
+   "fei2-e650": [
+    "肥。",
+    "飞"
+   ],
+   "hei1-1518": [
+    "飞",
+    "飞"
+   ]
+  }
+ },
+ "iapetus/fei2-e650.0": {
+  "gpt-4o-transcribe": "肥"
+ },
+ "iapetus/fei4-f07a.0": {
+  "gpt-4o-transcribe": "费。"
+ },
+ "iapetus/fen1-0d74.0": {
+  "gpt-4o-transcribe": "分"
+ },
+ "iapetus/fen3-febc.0": {
+  "gpt-4o-transcribe": "粉"
+ },
+ "iapetus/fen4-aa9f.0": {
+  "gpt-4o-transcribe": "奋"
+ },
+ "iapetus/feng1-5344.0": {
+  "gpt-4o-transcribe": "风"
+ },
+ "iapetus/fu1-79b3.0": {
+  "gpt-4o-transcribe": "符",
+  "forced": {
+   "hu1-5869": [
+    "夫",
+    "夫"
+   ]
+  }
+ },
+ "iapetus/fu2-c792.0": {
+  "gpt-4o-transcribe": "服"
+ },
+ "iapetus/fu3-57c8.0": {
+  "gpt-4o-transcribe": "府"
+ },
+ "iapetus/gao1-b096.0": {
+  "gpt-4o-transcribe": "错误",
+  "gpt-transcribe": "周。",
+  "forced": {
+   "gao3-c075": [
+    "搞",
+    "高"
+   ]
+  }
+ },
+ "iapetus/gao3-c075.0": {
+  "gpt-4o-transcribe": "搞"
+ },
+ "iapetus/ge1-3a38.0": {
+  "gpt-4o-transcribe": "格。",
+  "forced": {
+   "ge4-f7b2": [
+    "歌",
+    "个。"
+   ]
+  }
+ },
+ "iapetus/ge1-cdfd.0": {
+  "gpt-4o-transcribe": "哥"
+ },
+ "iapetus/ge4-f7b2.0": {
+  "gpt-4o-transcribe": "个"
+ },
+ "iapetus/gou3-2fcb.0": {
+  "gpt-4o-transcribe": "狗"
+ },
+ "iapetus/gou4-a69b.0": {
+  "gpt-4o-transcribe": "狗",
+  "forced": {
+   "guo4-e19e": [
+    "够",
+    "够"
+   ]
+  }
+ },
+ "iapetus/gu3-8932.0": {
+  "gpt-4o-transcribe": "土。",
+  "gpt-transcribe": "土。",
+  "forced": {
+   "ku3-f3c1": [
+    "苦",
+    "苦"
+   ]
+  }
+ },
+ "iapetus/guai4-7bc1.0": {
+  "gpt-4o-transcribe": "怪"
+ },
+ "iapetus/guan1-a333.0": {
+  "gpt-4o-transcribe": "以下是一个普通话词语",
+  "gpt-transcribe": "湾。",
+  "forced": {
+   "kuan1-6395": [
+    "关",
+    "宽"
+   ],
+   "guang1-5ae5": [
+    "关",
+    "关"
+   ]
+  }
+ },
+ "iapetus/guang1-5ae5.0": {
+  "gpt-4o-transcribe": "光"
+ },
+ "iapetus/guo3-d62c.0": {
+  "gpt-4o-transcribe": "果"
+ },
+ "iapetus/guo4-e19e.0": {
+  "gpt-4o-transcribe": "过"
+ },
+ "iapetus/ha1-3d4e.0": {
+  "gpt-4o-transcribe": "哈"
+ },
+ "iapetus/han4-4743.0": {
+  "gpt-4o-transcribe": "汗"
+ },
+ "iapetus/he1-9982.0": {
+  "gpt-4o-transcribe": "喝"
+ },
+ "iapetus/he2-2aa3.0": {
+  "gpt-4o-transcribe": "和"
+ },
+ "iapetus/hei1-1518.0": {
+  "gpt-4o-transcribe": "黑"
+ },
+ "iapetus/hen3-8b46.0": {
+  "gpt-4o-transcribe": "狠"
+ },
+ "iapetus/hen4-4b14.0": {
+  "gpt-4o-transcribe": "恨"
+ },
+ "iapetus/heng1-0cc0.0": {
+  "gpt-4o-transcribe": "亨。"
+ },
+ "iapetus/hou2-a446.0": {
+  "gpt-4o-transcribe": "猴"
+ },
+ "iapetus/hou4-7b55.0": {
+  "gpt-4o-transcribe": "好",
+  "gpt-transcribe": "后。"
+ },
+ "iapetus/hu1-5869.0": {
+  "gpt-4o-transcribe": "灰",
+  "gpt-transcribe": "灰。",
+  "forced": {
+   "fu1-79b3": [
+    "呼。",
+    "呼"
+   ]
+  }
+ },
+ "iapetus/hu2-58c2.0": {
+  "gpt-4o-transcribe": "湖"
+ },
+ "iapetus/hu3-e3b6.0": {
+  "gpt-4o-transcribe": "虎"
+ },
+ "iapetus/hua1-9be4.0": {
+  "gpt-4o-transcribe": "花"
+ },
+ "iapetus/hua2-2f0d.0": {
+  "gpt-4o-transcribe": "滑"
+ },
+ "iapetus/hua4-9160.0": {
+  "gpt-4o-transcribe": "话"
+ },
+ "iapetus/hui2-5b72.0": {
+  "gpt-4o-transcribe": "回"
+ },
+ "iapetus/hui4-577c.0": {
+  "gpt-4o-transcribe": "会"
+ },
+ "iapetus/huo2-f3e7.0": {
+  "gpt-4o-transcribe": "活"
+ },
+ "iapetus/huo4-7855.0": {
+  "gpt-4o-transcribe": "或。"
+ },
+ "iapetus/ji1-5109.0": {
+  "gpt-4o-transcribe": "鸡。"
+ },
+ "iapetus/ji1hui4-0692.0": {
+  "gpt-4o-transcribe": "机会。"
+ },
+ "iapetus/ji2-eec9.0": {
+  "gpt-4o-transcribe": "提",
+  "gpt-transcribe": "提。",
+  "forced": {
+   "ji3-68bf": [
+    "几",
+    "几"
+   ],
+   "ji1-5109": [
+    "急",
+    "急。"
+   ],
+   "ji4-ebaf": [
+    "急",
+    "急。"
+   ]
+  }
+ },
+ "iapetus/ji2hui4-8f93.0": {
+  "gpt-4o-transcribe": "集会"
+ },
+ "iapetus/ji3-68bf.0": {
+  "gpt-4o-transcribe": "起",
+  "gpt-transcribe": "体。",
+  "forced": {
+   "ji2-eec9": [
+    "几",
+    "几"
+   ],
+   "ji4-ebaf": [
+    "几",
+    "几"
+   ],
+   "ji1-5109": [
+    "几",
+    "几"
+   ],
+   "zhi3-9055": [
+    "几",
+    "几"
+   ]
+  }
+ },
+ "iapetus/ji4-ebaf.0": {
+  "gpt-4o-transcribe": "寄"
+ },
+ "iapetus/jia1-7de8.0": {
+  "gpt-4o-transcribe": "以下",
+  "gpt-transcribe": "家。"
+ },
+ "iapetus/jia4-1da2.0": {
+  "gpt-4o-transcribe": "下",
+  "gpt-transcribe": "架。"
+ },
+ "iapetus/jian4-d65f.0": {
+  "gpt-4o-transcribe": "欠",
+  "gpt-transcribe": "见。"
+ },
+ "iapetus/jiang3-860f.0": {
+  "gpt-4o-transcribe": "讲"
+ },
+ "iapetus/jiang4-4f28.0": {
+  "gpt-4o-transcribe": "项",
+  "gpt-transcribe": "像。",
+  "forced": {
+   "jiang3-860f": [
+    "酱。",
+    "酱"
+   ],
+   "jian4-d65f": [
+    "酱",
+    "酱"
+   ]
+  }
+ },
+ "iapetus/jiao1-422e.0": {
+  "gpt-4o-transcribe": "交"
+ },
+ "iapetus/jiao4shi1-aa55.0": {
+  "gpt-4o-transcribe": "教师"
+ },
+ "iapetus/jiao4shi4-f325.0": {
+  "gpt-4o-transcribe": "教室"
+ },
+ "iapetus/jin1-b59d.0": {
+  "gpt-4o-transcribe": "亲",
+  "gpt-transcribe": "尖。",
+  "forced": {
+   "qin1-a39a": [
+    "亲",
+    "亲"
+   ],
+   "zhen1-e756": [
+    "金",
+    "金"
+   ]
+  }
+ },
+ "iapetus/jin1yu2-a330.0": {
+  "gpt-4o-transcribe": "新语",
+  "gpt-transcribe": "金魚。"
+ },
+ "iapetus/jin4-681b.0": {
+  "gpt-4o-transcribe": "亲",
+  "gpt-transcribe": "进。"
+ },
+ "iapetus/jing1yu2-2208.0": {
+  "gpt-4o-transcribe": "星语",
+  "gpt-transcribe": "鲸鱼。"
+ },
+ "iapetus/jing4-f75f.0": {
+  "gpt-4o-transcribe": "词",
+  "gpt-transcribe": "Two.",
+  "forced": {
+   "jin4-681b": [
+    "进",
+    "进"
+   ]
+  }
+ },
+ "iapetus/jiu3-27a2.0": {
+  "gpt-4o-transcribe": "求",
+  "gpt-transcribe": "九。"
+ },
+ "iapetus/jiu4-b64e.0": {
+  "gpt-4o-transcribe": "救"
+ },
+ "iapetus/ju4-27df.0": {
+  "gpt-4o-transcribe": "去",
+  "gpt-transcribe": "去。",
+  "forced": {
+   "zhu4-80b8": [
+    "句",
+    "句"
+   ]
+  }
+ },
+ "iapetus/kai1fan4-46be.0": {
+  "gpt-4o-transcribe": "开饭"
+ },
+ "iapetus/kai1fang4-7506.0": {
+  "gpt-4o-transcribe": "开放"
+ },
+ "iapetus/kao3-ed96.0": {
+  "gpt-4o-transcribe": "考"
+ },
+ "iapetus/kao4-3f86.0": {
+  "gpt-4o-transcribe": "靠"
+ },
+ "iapetus/ke1-dced.0": {
+  "gpt-4o-transcribe": "苛。"
+ },
+ "iapetus/kou3-1e7b.0": {
+  "gpt-4o-transcribe": "口"
+ },
+ "iapetus/ku3-f3c1.0": {
+  "gpt-4o-transcribe": "苦"
+ },
+ "iapetus/kuai4-e6e9.0": {
+  "gpt-4o-transcribe": "快"
+ },
+ "iapetus/kuan1-6395.0": {
+  "gpt-4o-transcribe": "宽。"
+ },
+ "iapetus/lai2-4b1d.0": {
+  "gpt-4o-transcribe": "来"
+ },
+ "iapetus/lai4-572f.0": {
+  "gpt-4o-transcribe": "赖"
+ },
+ "iapetus/lan2-a44c.0": {
+  "gpt-4o-transcribe": "懒",
+  "forced": {
+   "lan3-56f5": [
+    "蓝",
+    "蓝。"
+   ],
+   "lang2-84d6": [
+    "蓝",
+    "蓝"
+   ],
+   "ran2-02b5": [
+    "蓝",
+    "蓝"
+   ]
+  }
+ },
+ "iapetus/lan3-56f5.0": {
+  "gpt-4o-transcribe": "懒"
+ },
+ "iapetus/lan4-43a5.0": {
+  "gpt-4o-transcribe": "烂。"
+ },
+ "iapetus/lang2-84d6.0": {
+  "gpt-4o-transcribe": "朗",
+  "forced": {
+   "lan2-a44c": [
+    "狼。",
+    "狼。"
+   ]
+  }
+ },
+ "iapetus/lang4-a23e.0": {
+  "gpt-4o-transcribe": "浪"
+ },
+ "iapetus/lao3shi1-494f.0": {
+  "gpt-4o-transcribe": "老师。"
+ },
+ "iapetus/lao3shi4-e5d6.0": {
+  "gpt-4o-transcribe": "老式"
+ },
+ "iapetus/li2-c76a.0": {
+  "gpt-4o-transcribe": "里",
+  "forced": {
+   "li3-cdd2": [
+    "李",
+    "李。"
+   ]
+  }
+ },
+ "iapetus/li3-cdd2.0": {
+  "gpt-4o-transcribe": "礼。"
+ },
+ "iapetus/lian2xi4-4dd6.0": {
+  "gpt-4o-transcribe": "联系"
+ },
+ "iapetus/lian4xi2-5b7f.0": {
+  "gpt-4o-transcribe": "练习"
+ },
+ "iapetus/lin2-020f.0": {
+  "gpt-4o-transcribe": "林。"
+ },
+ "iapetus/ling2-e0d7.0": {
+  "gpt-4o-transcribe": "领。",
+  "forced": {
+   "lin2-020f": [
+    "岭",
+    "零"
+   ]
+  }
+ },
+ "iapetus/liu2-0990.0": {
+  "gpt-4o-transcribe": "柳。",
+  "forced": {
+   "liu3-0dc0": [
+    "柳",
+    "柳"
+   ]
+  }
+ },
+ "iapetus/liu3-0dc0.0": {
+  "gpt-4o-transcribe": "柳"
+ },
+ "iapetus/long2-075e.0": {
+  "gpt-4o-transcribe": "龙"
+ },
+ "iapetus/lou2-598e.0": {
+  "gpt-4o-transcribe": "楼"
+ },
+ "iapetus/lou4-114e.0": {
+  "gpt-4o-transcribe": "楼",
+  "forced": {
+   "rou4-6759": [
+    "漏",
+    "漏"
+   ]
+  }
+ },
+ "iapetus/lu2-680d.0": {
+  "gpt-4o-transcribe": "鲁",
+  "forced": {
+   "lv2-49de": [
+    "炉",
+    "炉。"
+   ]
+  }
+ },
+ "iapetus/lu4-de80.0": {
+  "gpt-4o-transcribe": "木",
+  "gpt-transcribe": "路。"
+ },
+ "iapetus/luan3-e040.0": {
+  "gpt-4o-transcribe": "卵"
+ },
+ "iapetus/luo2-000e.0": {
+  "gpt-4o-transcribe": "锣。"
+ },
+ "iapetus/lv2-49de.0": {
+  "gpt-4o-transcribe": "旅",
+  "forced": {
+   "lu2-680d": [
+    "驴",
+    "驴"
+   ]
+  }
+ },
+ "iapetus/lv4-5796.0": {
+  "gpt-4o-transcribe": "绿"
+ },
+ "iapetus/ma1-e391.0": {
+  "gpt-4o-transcribe": "妈"
+ },
+ "iapetus/ma2-433e.0": {
+  "gpt-4o-transcribe": "马",
+  "forced": {
+   "ma3-7d39": [
+    "马",
+    "马"
+   ],
+   "ma1-e391": [
+    "麻",
+    "妈"
+   ],
+   "ma4-6343": [
+    "麻",
+    "骂"
+   ]
+  }
+ },
+ "iapetus/ma3-7d39.0": {
+  "gpt-4o-transcribe": "马"
+ },
+ "iapetus/ma4-6343.0": {
+  "gpt-4o-transcribe": "骂"
+ },
+ "iapetus/mai2-2c49.0": {
+  "gpt-4o-transcribe": "买",
+  "forced": {
+   "mai3-b6c5": [
+    "买。",
+    "买"
+   ]
+  }
+ },
+ "iapetus/mai3-b6c5.0": {
+  "gpt-4o-transcribe": "买。"
+ },
+ "iapetus/mai4-df45.0": {
+  "gpt-4o-transcribe": "卖"
+ },
+ "iapetus/mao1-e10b.0": {
+  "gpt-4o-transcribe": "摸",
+  "gpt-transcribe": "猫。"
+ },
+ "iapetus/mao2-f749.0": {
+  "gpt-4o-transcribe": "某",
+  "gpt-transcribe": "卯。",
+  "forced": {
+   "mao1-e10b": [
+    "毛",
+    "猫"
+   ]
+  }
+ },
+ "iapetus/mei3li4-e159.0": {
+  "gpt-4o-transcribe": "美丽"
+ },
+ "iapetus/mei4li4-abe5.0": {
+  "gpt-4o-transcribe": "魅力"
+ },
+ "iapetus/mi2-2ee7.0": {
+  "gpt-4o-transcribe": "米",
+  "forced": {
+   "mi3-ee7f": [
+    "米",
+    "米"
+   ],
+   "mi4-d493": [
+    "迷",
+    "迷"
+   ]
+  }
+ },
+ "iapetus/mi3-ee7f.0": {
+  "gpt-4o-transcribe": "米。"
+ },
+ "iapetus/mi4-d493.0": {
+  "gpt-4o-transcribe": "谜",
+  "forced": {
+   "mi3-ee7f": [
+    "密",
+    "密"
+   ],
+   "mi2-2ee7": [
+    "谜",
+    "迷"
+   ]
+  }
+ },
+ "iapetus/mu4chuan2-8efa.0": {
+  "gpt-4o-transcribe": "木船"
+ },
+ "iapetus/mu4chuang2-c75f.0": {
+  "gpt-4o-transcribe": "木床"
+ },
+ "iapetus/na2-748a.0": {
+  "gpt-4o-transcribe": "哪。",
+  "forced": {
+   "na3-cd96": [
+    "拿",
+    "哪"
+   ],
+   "na4-3270": [
+    "拿",
+    "拿"
+   ]
+  }
+ },
+ "iapetus/na3-cd96.0": {
+  "gpt-4o-transcribe": "哪儿",
+  "gpt-transcribe": "哪儿。",
+  "forced": {
+   "na2-748a": [
+    "哪儿",
+    "哪儿"
+   ]
+  }
+ },
+ "iapetus/na4-3270.0": {
+  "gpt-4o-transcribe": "那"
+ },
+ "iapetus/nian2-6f14.0": {
+  "gpt-4o-transcribe": "碾。",
+  "forced": {
+   "nian4-13d0": [
+    "念",
+    "niǎn"
+   ]
+  }
+ },
+ "iapetus/nian4-13d0.0": {
+  "gpt-4o-transcribe": "面",
+  "gpt-transcribe": "面。",
+  "forced": {
+   "nian2-6f14": [
+    "面",
+    "念"
+   ]
+  }
+ },
+ "iapetus/niu2-bf9b.0": {
+  "gpt-4o-transcribe": "牛"
+ },
+ "iapetus/niu3-4642.0": {
+  "gpt-4o-transcribe": "扭"
+ },
+ "iapetus/nu3-c530.0": {
+  "gpt-4o-transcribe": "努。"
+ },
+ "iapetus/nv3-26bc.0": {
+  "gpt-4o-transcribe": "女"
+ },
+ "iapetus/pa4-bc1c.0": {
+  "gpt-4o-transcribe": "帕。"
+ },
+ "iapetus/pai2-265d.0": {
+  "gpt-4o-transcribe": "排"
+ },
+ "iapetus/pan2-15c7.0": {
+  "gpt-4o-transcribe": "盘"
+ },
+ "iapetus/pang2-c12a.0": {
+  "gpt-4o-transcribe": "旁"
+ },
+ "iapetus/pao3-1516.0": {
+  "gpt-4o-transcribe": "草",
+  "gpt-transcribe": "跑。"
+ },
+ "iapetus/pao4-b19a.0": {
+  "gpt-4o-transcribe": "泡"
+ },
+ "iapetus/qi1-7db1.0": {
+  "gpt-4o-transcribe": "七"
+ },
+ "iapetus/qi2-c058.0": {
+  "gpt-4o-transcribe": "起",
+  "forced": {
+   "qi3-2919": [
+    "骑",
+    "起"
+   ],
+   "qi1-7db1": [
+    "骑",
+    "骑"
+   ],
+   "qi4-b08d": [
+    "骑",
+    "骑"
+   ]
+  }
+ },
+ "iapetus/qi3-2919.0": {
+  "gpt-4o-transcribe": "起"
+ },
+ "iapetus/qi4-b08d.0": {
+  "gpt-4o-transcribe": "气"
+ },
+ "iapetus/qian2-073d.0": {
+  "gpt-4o-transcribe": "钱。"
+ },
+ "iapetus/qian2-db4b.0": {
+  "gpt-4o-transcribe": "钱。"
+ },
+ "iapetus/qian3-d181.0": {
+  "gpt-4o-transcribe": "钱",
+  "forced": {
+   "qian2-db4b": [
+    "钱。",
+    "浅"
+   ]
+  }
+ },
+ "iapetus/qian4-bdc9.0": {
+  "gpt-4o-transcribe": "chin",
+  "gpt-transcribe": "欠。"
+ },
+ "iapetus/qiang2-6512.0": {
+  "gpt-4o-transcribe": "抢",
+  "forced": {
+   "qian2-db4b": [
+    "墙",
+    "墙"
+   ]
+  }
+ },
+ "iapetus/qiao1-0a47.0": {
+  "gpt-4o-transcribe": "敲"
+ },
+ "iapetus/qin1-a39a.0": {
+  "gpt-4o-transcribe": "墟。",
+  "gpt-transcribe": "chū.",
+  "forced": {
+   "jin1-b59d": [
+    "亲",
+    "亲"
+   ]
+  }
+ },
+ "iapetus/qiu1-8d8f.0": {
+  "gpt-4o-transcribe": "秋"
+ },
+ "iapetus/qiu2-f2af.0": {
+  "gpt-4o-transcribe": "球"
+ },
+ "iapetus/ran2-02b5.0": {
+  "gpt-4o-transcribe": "然"
+ },
+ "iapetus/rang4-c0fe.0": {
+  "gpt-4o-transcribe": "让"
+ },
+ "iapetus/ren2-4912.0": {
+  "gpt-4o-transcribe": "人"
+ },
+ "iapetus/ren2min2-4c4d.0": {
+  "gpt-4o-transcribe": "人民"
+ },
+ "iapetus/ren2ming2-0947.0": {
+  "gpt-4o-transcribe": "人名"
+ },
+ "iapetus/ren3-4ce4.0": {
+  "gpt-4o-transcribe": "忍"
+ },
+ "iapetus/rong2-7e83.0": {
+  "gpt-4o-transcribe": "容"
+ },
+ "iapetus/rou2-8c77.0": {
+  "gpt-4o-transcribe": "揉。"
+ },
+ "iapetus/rou4-6759.0": {
+  "gpt-4o-transcribe": "肉"
+ },
+ "iapetus/ru4-4a8d.0": {
+  "gpt-4o-transcribe": "露",
+  "gpt-transcribe": "路。",
+  "forced": {
+   "lu4-de80": [
+    "路",
+    "路"
+   ]
+  }
+ },
+ "iapetus/ruan3-6a8a.0": {
+  "gpt-4o-transcribe": "软"
+ },
+ "iapetus/ruo4-d479.0": {
+  "gpt-4o-transcribe": "若"
+ },
+ "iapetus/san1-49dd.0": {
+  "gpt-4o-transcribe": "三"
+ },
+ "iapetus/san1jiao3-b721.0": {
+  "gpt-4o-transcribe": "三角"
+ },
+ "iapetus/sao3-a84f.0": {
+  "gpt-4o-transcribe": "扫"
+ },
+ "iapetus/shan1-0e24.0": {
+  "gpt-4o-transcribe": "shan",
+  "gpt-transcribe": "山。"
+ },
+ "iapetus/shan1jiao3-63cd.0": {
+  "gpt-4o-transcribe": "山脚"
+ },
+ "iapetus/shang1-19a8.0": {
+  "gpt-4o-transcribe": "商"
+ },
+ "iapetus/shang1hai4-69ac.0": {
+  "gpt-4o-transcribe": "伤害"
+ },
+ "iapetus/shang3-e6c2.0": {
+  "gpt-4o-transcribe": "赏"
+ },
+ "iapetus/shang4hai3-99f1.0": {
+  "gpt-4o-transcribe": "上海。"
+ },
+ "iapetus/shao1-4a1c.0": {
+  "gpt-4o-transcribe": "烧。"
+ },
+ "iapetus/shao3-fa49.0": {
+  "gpt-4o-transcribe": "少"
+ },
+ "iapetus/she2-67bc.0": {
+  "gpt-4o-transcribe": "蛇"
+ },
+ "iapetus/shen1-44a6.0": {
+  "gpt-4o-transcribe": "身"
+ },
+ "iapetus/sheng1-3eb3.0": {
+  "gpt-4o-transcribe": "深",
+  "gpt-transcribe": "生。"
+ },
+ "iapetus/sheng3-45ad.0": {
+  "gpt-4o-transcribe": "省。"
+ },
+ "iapetus/sheng4-5db0.0": {
+  "gpt-4o-transcribe": "胜"
+ },
+ "iapetus/shi1-53e0.0": {
+  "gpt-4o-transcribe": "吃",
+  "gpt-transcribe": "诗。"
+ },
+ "iapetus/shi1-7c06.0": {
+  "gpt-4o-transcribe": "书",
+  "gpt-transcribe": "诗。"
+ },
+ "iapetus/shi1ren2-305c.0": {
+  "gpt-4o-transcribe": "诗人"
+ },
+ "iapetus/shi2-aa10.0": {
+  "gpt-4o-transcribe": "鞋",
+  "gpt-transcribe": "石。"
+ },
+ "iapetus/shi2ji1-6609.0": {
+  "gpt-4o-transcribe": "时机"
+ },
+ "iapetus/shi2ji4-1b85.0": {
+  "gpt-4o-transcribe": "实际"
+ },
+ "iapetus/shi2jian1-89b4.0": {
+  "gpt-4o-transcribe": "时间"
+ },
+ "iapetus/shi3-f690.0": {
+  "gpt-4o-transcribe": "是",
+  "forced": {
+   "shi2-aa10": [
+    "使",
+    "使"
+   ],
+   "xi3-cef2": [
+    "使",
+    "使"
+   ]
+  }
+ },
+ "iapetus/shi4-3016.0": {
+  "gpt-4o-transcribe": "sure",
+  "gpt-transcribe": "是。"
+ },
+ "iapetus/shi4jian4-550e.0": {
+  "gpt-4o-transcribe": "事件。"
+ },
+ "iapetus/shou1-59a6.0": {
+  "gpt-4o-transcribe": "收"
+ },
+ "iapetus/shou3-c08a.0": {
+  "gpt-4o-transcribe": "手。"
+ },
+ "iapetus/shou4-41eb.0": {
+  "gpt-4o-transcribe": "瘦"
+ },
+ "iapetus/shu1-fe04.0": {
+  "gpt-4o-transcribe": "输"
+ },
+ "iapetus/shu4-7803.0": {
+  "gpt-4o-transcribe": "树"
+ },
+ "iapetus/shuan4-aef8.0": {
+  "gpt-4o-transcribe": "涮"
+ },
+ "iapetus/shui3-8ffb.0": {
+  "gpt-4o-transcribe": "水。"
+ },
+ "iapetus/shui3jiao3-e5d6.0": {
+  "gpt-4o-transcribe": "水饺"
+ },
+ "iapetus/shui4-c149.0": {
+  "gpt-4o-transcribe": "税。"
+ },
+ "iapetus/shui4jiao4-6380.0": {
+  "gpt-4o-transcribe": "睡了一觉",
+  "gpt-transcribe": "睡里觉。",
+  "forced": {
+   "shui3jiao3-e5d6": [
+    "睡觉",
+    "睡觉"
+   ]
+  }
+ },
+ "iapetus/shuo1-be30.0": {
+  "gpt-4o-transcribe": "说"
+ },
+ "iapetus/si1-a088.0": {
+  "gpt-4o-transcribe": "词",
+  "gpt-transcribe": "思。"
+ },
+ "iapetus/si1ren2-82b4.0": {
+  "gpt-4o-transcribe": "私人"
+ },
+ "iapetus/si4-4f88.0": {
+  "gpt-4o-transcribe": "瑟",
+  "gpt-transcribe": "色。",
+  "forced": {
+   "shi4-3016": [
+    "四",
+    "四"
+   ]
+  }
+ },
+ "iapetus/sou1-35d7.0": {
+  "gpt-4o-transcribe": "搜"
+ },
+ "iapetus/suan4-2ae1.0": {
+  "gpt-4o-transcribe": "算"
+ },
+ "iapetus/sui4-86f1.0": {
+  "gpt-4o-transcribe": "岁"
+ },
+ "iapetus/suo1-ad71.0": {
+  "gpt-4o-transcribe": "缩"
+ },
+ "iapetus/ta4-08ce.0": {
+  "gpt-4o-transcribe": "他",
+  "forced": {
+   "da4-0889": [
+    "踏",
+    "踏"
+   ]
+  }
+ },
+ "iapetus/tan2qin2-e22a.0": {
+  "gpt-4o-transcribe": "弹琴"
+ },
+ "iapetus/tan2qing2-a676.0": {
+  "gpt-4o-transcribe": "谈情"
+ },
+ "iapetus/tang1-fc4e.0": {
+  "gpt-4o-transcribe": "汤"
+ },
+ "iapetus/tang2-3d8c.0": {
+  "gpt-4o-transcribe": "谈",
+  "gpt-transcribe": "糖。"
+ },
+ "iapetus/tang3-a854.0": {
+  "gpt-4o-transcribe": "惨",
+  "gpt-transcribe": "惨。",
+  "forced": {
+   "tang2-3d8c": [
+    "躺。",
+    "躺"
+   ],
+   "tang4-700e": [
+    "躺",
+    "躺。"
+   ],
+   "tang1-fc4e": [
+    "躺",
+    "躺"
+   ]
+  }
+ },
+ "iapetus/tang4-700e.0": {
+  "gpt-4o-transcribe": "烫"
+ },
+ "iapetus/tao4-0322.0": {
+  "gpt-4o-transcribe": "草",
+  "gpt-transcribe": "套。"
+ },
+ "iapetus/ti1-2359.0": {
+  "gpt-4o-transcribe": "期",
+  "gpt-transcribe": "七。",
+  "forced": {
+   "di1-b9ee": [
+    "梯",
+    "梯"
+   ]
+  }
+ },
+ "iapetus/ti2-c9d6.0": {
+  "gpt-4o-transcribe": "提。"
+ },
+ "iapetus/ti4-1f05.0": {
+  "gpt-4o-transcribe": "踢",
+  "forced": {
+   "ti2-c9d6": [
+    "替",
+    "替"
+   ],
+   "di4-2763": [
+    "替",
+    "替"
+   ]
+  }
+ },
+ "iapetus/tian1-c330.0": {
+  "gpt-4o-transcribe": "天"
+ },
+ "iapetus/tian2-ab95.0": {
+  "gpt-4o-transcribe": "甜"
+ },
+ "iapetus/tian3-9894.0": {
+  "gpt-4o-transcribe": "甜",
+  "forced": {
+   "tian1-c330": [
+    "舔",
+    "舔"
+   ]
+  }
+ },
+ "iapetus/tiao4-8449.0": {
+  "gpt-4o-transcribe": "跳"
+ },
+ "iapetus/tong1-bef2.0": {
+  "gpt-4o-transcribe": "蓬",
+  "gpt-transcribe": "通。"
+ },
+ "iapetus/tong2-0b8b.0": {
+  "gpt-4o-transcribe": "同。"
+ },
+ "iapetus/tong2zhi4-928d.0": {
+  "gpt-4o-transcribe": "同志"
+ },
+ "iapetus/tong3zhi4-a879.0": {
+  "gpt-4o-transcribe": "统治"
+ },
+ "iapetus/tou1-9b1d.0": {
+  "gpt-4o-transcribe": "口",
+  "gpt-transcribe": "抠。",
+  "forced": {
+   "tou2-f366": [
+    "偷",
+    "偷"
+   ],
+   "tuo1-49da": [
+    "偷",
+    "偷"
+   ]
+  }
+ },
+ "iapetus/tou2-f366.0": {
+  "gpt-4o-transcribe": "头"
+ },
+ "iapetus/tou4-78a0.0": {
+  "gpt-4o-transcribe": "偷",
+  "forced": {
+   "tou2-f366": [
+    "头",
+    "头"
+   ]
+  }
+ },
+ "iapetus/tu2-611a.0": {
+  "gpt-4o-transcribe": "土",
+  "forced": {
+   "du2-d001": [
+    "图",
+    "图"
+   ]
+  }
+ },
+ "iapetus/tu4zi5-3daa.0": {
+  "gpt-4o-transcribe": "兔子"
+ },
+ "iapetus/tuo1-49da.0": {
+  "gpt-4o-transcribe": "拖"
+ },
+ "iapetus/wan2-0830.0": {
+  "gpt-4o-transcribe": "完"
+ },
+ "iapetus/wan2-d0ae.0": {
+  "gpt-4o-transcribe": "娃儿",
+  "gpt-transcribe": "玩儿。",
+  "forced": {
+   "yuan2-aeb0": [
+    "玩",
+    "玩"
+   ]
+  }
+ },
+ "iapetus/wan3-7c0f.0": {
+  "gpt-4o-transcribe": "懒。",
+  "gpt-transcribe": "懒。",
+  "forced": {
+   "wan2-0830": [
+    "懒",
+    "懒"
+   ],
+   "wan4-0d3b": [
+    "晚",
+    "晚"
+   ],
+   "wang3-4ad9": [
+    "晚",
+    "晚"
+   ],
+   "yuan3-e733": [
+    "懒。",
+    "懒"
+   ]
+  }
+ },
+ "iapetus/wan4-0d3b.0": {
+  "gpt-4o-transcribe": "万"
+ },
+ "iapetus/wang2-c7b1.0": {
+  "gpt-4o-transcribe": "亡"
+ },
+ "iapetus/wang3-4ad9.0": {
+  "gpt-4o-transcribe": "完",
+  "gpt-transcribe": "网。"
+ },
+ "iapetus/wang4-1787.0": {
+  "gpt-4o-transcribe": "忘"
+ },
+ "iapetus/wen2-176f.0": {
+  "gpt-4o-transcribe": "稳",
+  "forced": {
+   "wen3-dfa7": [
+    "吻",
+    "吻"
+   ]
+  }
+ },
+ "iapetus/wen2ti3-a14c.0": {
+  "gpt-4o-transcribe": "文体"
+ },
+ "iapetus/wen3-dfa7.0": {
+  "gpt-4o-transcribe": "温",
+  "forced": {
+   "wen2-176f": [
+    "吻",
+    "吻"
+   ]
+  }
+ },
+ "iapetus/wen4ti2-2fb4.0": {
+  "gpt-4o-transcribe": "问题"
+ },
+ "iapetus/wu2-7207.0": {
+  "gpt-4o-transcribe": "普通",
+  "gpt-transcribe": "无。"
+ },
+ "iapetus/wu3-8f07.0": {
+  "gpt-4o-transcribe": "讨论",
+  "gpt-transcribe": "混。",
+  "forced": {
+   "wu4-2697": [
+    "雾",
+    "五"
+   ],
+   "yu3-8995": [
+    "五",
+    "五"
+   ]
+  }
+ },
+ "iapetus/wu4-2697.0": {
+  "gpt-4o-transcribe": "懿",
+  "gpt-transcribe": "雾。"
+ },
+ "iapetus/xi1-2f64.0": {
+  "gpt-4o-transcribe": "期",
+  "gpt-transcribe": "七。",
+  "forced": {
+   "xi4-6a00": [
+    "细",
+    "西"
+   ],
+   "xi3-cef2": [
+    "洗",
+    "洗"
+   ],
+   "shi1-53e0": [
+    "西。",
+    "诗"
+   ]
+  }
+ },
+ "iapetus/xi1-869f.0": {
+  "gpt-4o-transcribe": "希。"
+ },
+ "iapetus/xi3-cef2.0": {
+  "gpt-4o-transcribe": "起",
+  "gpt-transcribe": "喜。"
+ },
+ "iapetus/xi3-d21b.0": {
+  "gpt-4o-transcribe": "洗。"
+ },
+ "iapetus/xi4-6a00.0": {
+  "gpt-4o-transcribe": "吃。",
+  "gpt-transcribe": "细。"
+ },
+ "iapetus/xi4-8f46.0": {
+  "gpt-4o-transcribe": "戏"
+ },
+ "iapetus/xian1-82d4.0": {
+  "gpt-4o-transcribe": "迁",
+  "gpt-transcribe": "先。"
+ },
+ "iapetus/xian1-d10b.0": {
+  "gpt-4o-transcribe": "迁",
+  "gpt-transcribe": "先。"
+ },
+ "iapetus/xian2-1d22.0": {
+  "gpt-4o-transcribe": "钱。",
+  "gpt-transcribe": "闲。"
+ },
+ "iapetus/xiang1-7ba4.0": {
+  "gpt-4o-transcribe": "香。"
+ },
+ "iapetus/xiang3-a48f.0": {
+  "gpt-4o-transcribe": "响"
+ },
+ "iapetus/xiang4-344b.0": {
+  "gpt-4o-transcribe": "蟹",
+  "gpt-transcribe": "像。"
+ },
+ "iapetus/xiao1-06f9.0": {
+  "gpt-4o-transcribe": "消"
+ },
+ "iapetus/xiao3-9225.0": {
+  "gpt-4o-transcribe": "小"
+ },
+ "iapetus/xiao4-740d.0": {
+  "gpt-4o-transcribe": "笑"
+ },
+ "iapetus/xie2-0106.0": {
+  "gpt-4o-transcribe": "鞋。"
+ },
+ "iapetus/xie3-144d.0": {
+  "gpt-4o-transcribe": "血",
+  "gpt-transcribe": "血。",
+  "forced": {
+   "xie2-0106": [
+    "写。",
+    "鞋。"
+   ],
+   "xie4-b27c": [
+    "写",
+    "写。"
+   ]
+  }
+ },
+ "iapetus/xie4-b27c.0": {
+  "gpt-4o-transcribe": "鞋",
+  "forced": {
+   "xie3-144d": [
+    "谢",
+    "谢"
+   ],
+   "xie2-0106": [
+    "谢。",
+    "鞋。"
+   ]
+  }
+ },
+ "iapetus/xin1-481e.0": {
+  "gpt-4o-transcribe": "亲",
+  "gpt-transcribe": "心。"
+ },
+ "iapetus/xin4-6c71.0": {
+  "gpt-4o-transcribe": "信。"
+ },
+ "iapetus/xing1-92ae.0": {
+  "gpt-4o-transcribe": "辛",
+  "gpt-transcribe": "星。"
+ },
+ "iapetus/xing3-9e66.0": {
+  "gpt-4o-transcribe": "请",
+  "gpt-transcribe": "醒。"
+ },
+ "iapetus/xing4-003e.0": {
+  "gpt-4o-transcribe": "信",
+  "gpt-transcribe": "信。",
+  "forced": {
+   "xin4-6c71": [
+    "信",
+    "信"
+   ]
+  }
+ },
+ "iapetus/xiong1mao2-fc47.0": {
+  "gpt-4o-transcribe": "胸毛"
+ },
+ "iapetus/xiong2mao1-b1c3.0": {
+  "gpt-4o-transcribe": "熊猫"
+ },
+ "iapetus/xue2-7c7a.0": {
+  "gpt-4o-transcribe": "学"
+ },
+ "iapetus/xue3-7d74.0": {
+  "gpt-4o-transcribe": "雪"
+ },
+ "iapetus/ya1-ee25.0": {
+  "gpt-4o-transcribe": "呀",
+  "forced": {
+   "ya3-a2cf": [
+    "鸭",
+    "哑"
+   ]
+  }
+ },
+ "iapetus/ya1li2-843d.0": {
+  "gpt-4o-transcribe": "压力",
+  "forced": {
+   "ya1li4-aef4": [
+    "压力",
+    "压力。"
+   ]
+  }
+ },
+ "iapetus/ya1li4-aef4.0": {
+  "gpt-4o-transcribe": "压力"
+ },
+ "iapetus/ya2-87d8.0": {
+  "gpt-4o-transcribe": "雅",
+  "forced": {
+   "ya3-a2cf": [
+    "牙",
+    "牙"
+   ]
+  }
+ },
+ "iapetus/ya3-a2cf.0": {
+  "gpt-4o-transcribe": "雅"
+ },
+ "iapetus/yan1-fb4e.0": {
+  "gpt-4o-transcribe": "烟"
+ },
+ "iapetus/yan2-1629.0": {
+  "gpt-4o-transcribe": "言"
+ },
+ "iapetus/yan3-6191.0": {
+  "gpt-4o-transcribe": "眼"
+ },
+ "iapetus/yang2-de33.0": {
+  "gpt-4o-transcribe": "羊"
+ },
+ "iapetus/yang3-51e5.0": {
+  "gpt-4o-transcribe": "养。"
+ },
+ "iapetus/yao1-b12d.0": {
+  "gpt-4o-transcribe": "腰"
+ },
+ "iapetus/yao3-b6bd.0": {
+  "gpt-4o-transcribe": "咬"
+ },
+ "iapetus/yao4-55b7.0": {
+  "gpt-4o-transcribe": "No.",
+  "gpt-transcribe": "No.",
+  "forced": {
+   "yao1-b12d": [
+    "药",
+    "腰。"
+   ]
+  }
+ },
+ "iapetus/yin1-b7ec.0": {
+  "gpt-4o-transcribe": "阴"
+ },
+ "iapetus/ying1-4956.0": {
+  "gpt-4o-transcribe": "音",
+  "gpt-transcribe": "音。",
+  "forced": {
+   "yin1-b7ec": [
+    "音",
+    "音"
+   ]
+  }
+ },
+ "iapetus/you2-2407.0": {
+  "gpt-4o-transcribe": "有",
+  "forced": {
+   "you3-fbd5": [
+    "有。",
+    "油"
+   ],
+   "you4-4c2b": [
+    "油",
+    "油。"
+   ]
+  }
+ },
+ "iapetus/you2qian2-5ae9.0": {
+  "gpt-4o-transcribe": "油钱。"
+ },
+ "iapetus/you3-fbd5.0": {
+  "gpt-4o-transcribe": "有"
+ },
+ "iapetus/you3qian2-8b5f.0": {
+  "gpt-4o-transcribe": "有钱。"
+ },
+ "iapetus/you4-4c2b.0": {
+  "gpt-4o-transcribe": "yòu",
+  "gpt-transcribe": "右。"
+ },
+ "iapetus/yu2-9246.0": {
+  "gpt-4o-transcribe": "鱼"
+ },
+ "iapetus/yu3-8995.0": {
+  "gpt-4o-transcribe": "语"
+ },
+ "iapetus/yu3yan2-cd99.0": {
+  "gpt-4o-transcribe": "语言"
+ },
+ "iapetus/yu4-2081.0": {
+  "gpt-4o-transcribe": "预"
+ },
+ "iapetus/yu4yan2-edf7.0": {
+  "gpt-4o-transcribe": "预演。",
+  "forced": {
+   "yu3yan2-cd99": [
+    "预言",
+    "预言"
+   ]
+  }
+ },
+ "iapetus/yuan2-aeb0.0": {
+  "gpt-4o-transcribe": "远",
+  "forced": {
+   "wan2-d0ae": [
+    "圆",
+    "圆"
+   ]
+  }
+ },
+ "iapetus/yuan3-e733.0": {
+  "gpt-4o-transcribe": "远"
+ },
+ "iapetus/yuan4-ead6.0": {
+  "gpt-4o-transcribe": "冤",
+  "forced": {
+   "yuan3-e733": [
+    "院",
+    "院。"
+   ],
+   "wan4-0d3b": [
+    "院",
+    "院"
+   ]
+  }
+ },
+ "iapetus/zai4-686b.0": {
+  "gpt-4o-transcribe": "赛",
+  "gpt-transcribe": "在。"
+ },
+ "iapetus/zang1-d94b.0": {
+  "gpt-4o-transcribe": "context:",
+  "gpt-transcribe": "三。",
+  "forced": {
+   "zhang1-9273": [
+    "脏",
+    "脏"
+   ]
+  }
+ },
+ "iapetus/zao3-13a8.0": {
+  "gpt-4o-transcribe": "早。"
+ },
+ "iapetus/zao4-5af6.0": {
+  "gpt-4o-transcribe": "骚。",
+  "gpt-transcribe": "造。"
+ },
+ "iapetus/zeng1-5fa3.0": {
+  "gpt-4o-transcribe": "context",
+  "gpt-transcribe": "三。",
+  "forced": {
+   "zheng1-3e88": [
+    "增",
+    "增"
+   ]
+  }
+ },
+ "iapetus/zhang1-9273.0": {
+  "gpt-4o-transcribe": "装",
+  "gpt-transcribe": "张。"
+ },
+ "iapetus/zhao3-76aa.0": {
+  "gpt-4o-transcribe": "找。"
+ },
+ "iapetus/zhen1-e756.0": {
+  "gpt-4o-transcribe": "真"
+ },
+ "iapetus/zheng1-3e88.0": {
+  "gpt-4o-transcribe": "征"
+ },
+ "iapetus/zhi1-c524.0": {
+  "gpt-4o-transcribe": "哭",
+  "gpt-transcribe": "歌。",
+  "forced": {
+   "ji1-5109": [
+    "知",
+    "鸡。"
+   ]
+  }
+ },
+ "iapetus/zhi3-9055.0": {
+  "gpt-4o-transcribe": "纸。"
+ },
+ "iapetus/zhong1-0869.0": {
+  "gpt-4o-transcribe": "工",
+  "gpt-transcribe": "空。",
+  "forced": {
+   "zhong3-a1f3": [
+    "中",
+    "中"
+   ],
+   "chong1-e429": [
+    "冲",
+    "冲"
+   ]
+  }
+ },
+ "iapetus/zhong3-a1f3.0": {
+  "gpt-4o-transcribe": "种"
+ },
+ "iapetus/zhou1-451b.0": {
+  "gpt-4o-transcribe": "周"
+ },
+ "iapetus/zhou3-0583.0": {
+  "gpt-4o-transcribe": "酒",
+  "gpt-transcribe": "九。",
+  "forced": {
+   "zou3-0851": [
+    "肘",
+    "肘"
+   ],
+   "jiu3-27a2": [
+    "肘",
+    "肘"
+   ]
+  }
+ },
+ "iapetus/zhu1-3e2d.0": {
+  "gpt-4o-transcribe": "哭",
+  "gpt-transcribe": "哭。",
+  "forced": {
+   "chu1-69e8": [
+    "出。",
+    "出"
+   ]
+  }
+ },
+ "iapetus/zhu3ren2-636e.0": {
+  "gpt-4o-transcribe": "主人"
+ },
+ "iapetus/zhu3ren4-4876.0": {
+  "gpt-4o-transcribe": "主任"
+ },
+ "iapetus/zhu4-80b8.0": {
+  "gpt-4o-transcribe": "注"
+ },
+ "iapetus/zhuo1-c4a4.0": {
+  "gpt-4o-transcribe": "说",
+  "gpt-transcribe": "桌。"
+ },
+ "iapetus/zi4-582c.0": {
+  "gpt-4o-transcribe": "字"
+ },
+ "iapetus/zou3-0851.0": {
+  "gpt-4o-transcribe": "走"
+ },
+ "iapetus/zu1-5d00.0": {
+  "gpt-4o-transcribe": "酥",
+  "gpt-transcribe": "租。"
+ },
+ "iapetus/zuo3-df3e.0": {
+  "gpt-4o-transcribe": "所",
+  "gpt-transcribe": "左。"
+ },
+ "iapetus/zuo4-4a1e.0": {
+  "gpt-4o-transcribe": "做"
+ },
+ "kore/chou3-aa9d.1": {
+  "gpt-4o-transcribe": "臭",
+  "forced": {
+   "chou1-ca48": [
+    "丑",
+    "丑。"
+   ]
+  }
+ },
+ "kore/chuang3-924b.1": {
+  "gpt-4o-transcribe": "床",
+  "forced": {
+   "chuang2-a30d": [
+    "闯。",
+    "闯。"
+   ],
+   "chuang1-1a3d": [
+    "闯",
+    "闯。"
+   ]
+  }
+ },
+ "kore/ci4-5e5b.1": {
+  "gpt-4o-transcribe": "次"
+ },
+ "kore/da4xue3-7c72.1": {
+  "gpt-4o-transcribe": "大雪"
+ },
+ "kore/di1-b9ee.1": {
+  "gpt-4o-transcribe": "低"
+ },
+ "kore/di4-2763.1": {
+  "gpt-4o-transcribe": "弟"
+ },
+ "kore/dou4-d081.1": {
+  "gpt-4o-transcribe": "度",
+  "gpt-transcribe": "度。",
+  "forced": {
+   "duo4-600c": [
+    "豆",
+    "剁"
+   ]
+  }
+ },
+ "kore/du4-304f.1": {
+  "gpt-4o-transcribe": "度"
+ },
+ "kore/fei1-322b.1": {
+  "gpt-4o-transcribe": "say",
+  "gpt-transcribe": "C。",
+  "forced": {
+   "fei4-f07a": [
+    "飞。",
+    "费"
+   ],
+   "fei2-e650": [
+    "飞",
+    "飞"
+   ],
+   "hei1-1518": [
+    "飞",
+    "飞"
+   ]
+  }
+ },
+ "kore/fei4-f07a.1": {
+  "gpt-4o-transcribe": "废"
+ },
+ "kore/ge4-f7b2.1": {
+  "gpt-4o-transcribe": "个"
+ },
+ "kore/gou4-a69b.1": {
+  "gpt-4o-transcribe": "狗。",
+  "forced": {
+   "guo4-e19e": [
+    "够",
+    "够。"
+   ]
+  }
+ },
+ "kore/gu3-8932.1": {
+  "gpt-4o-transcribe": "鼓"
+ },
+ "kore/hui4-577c.1": {
+  "gpt-4o-transcribe": "会"
+ },
+ "kore/ji2hui4-8f93.1": {
+  "gpt-4o-transcribe": "集会"
+ },
+ "kore/ji4-ebaf.1": {
+  "gpt-4o-transcribe": "体。",
+  "gpt-transcribe": "气。",
+  "forced": {
+   "ji1-5109": [
+    "记",
+    "记"
+   ],
+   "ji3-68bf": [
+    "记",
+    "记"
+   ],
+   "ji2-eec9": [
+    "记",
+    "记"
+   ]
+  }
+ },
+ "kore/jiao4shi4-f325.1": {
+  "gpt-4o-transcribe": "教室。"
+ },
+ "kore/jing4-f75f.1": {
+  "gpt-4o-transcribe": "经",
+  "forced": {
+   "jin4-681b": [
+    "静",
+    "静"
+   ]
+  }
+ },
+ "kore/ju4-27df.1": {
+  "gpt-4o-transcribe": "句"
+ },
+ "kore/kao4-3f86.1": {
+  "gpt-4o-transcribe": "靠"
+ },
+ "kore/kou3-1e7b.1": {
+  "gpt-4o-transcribe": "口。"
+ },
+ "kore/ku3-f3c1.1": {
+  "gpt-4o-transcribe": "苦。"
+ },
+ "kore/kuai4-e6e9.1": {
+  "gpt-4o-transcribe": "快"
+ },
+ "kore/lai4-572f.1": {
+  "gpt-4o-transcribe": "赖"
+ },
+ "kore/lan2-a44c.1": {
+  "gpt-4o-transcribe": "蓝。"
+ },
+ "kore/lang4-a23e.1": {
+  "gpt-4o-transcribe": "浪"
+ },
+ "kore/lao3shi4-e5d6.1": {
+  "gpt-4o-transcribe": "老式"
+ },
+ "kore/li2-c76a.1": {
+  "gpt-4o-transcribe": "礼。",
+  "forced": {
+   "li3-cdd2": [
+    "梨",
+    "梨。"
+   ]
+  }
+ },
+ "kore/lou4-114e.1": {
+  "gpt-4o-transcribe": "漏。"
+ },
+ "kore/lu2-680d.1": {
+  "gpt-4o-transcribe": "努",
+  "gpt-transcribe": "弩。",
+  "forced": {
+   "lv2-49de": [
+    "驴",
+    "炉"
+   ]
+  }
+ },
+ "kore/lu4-de80.1": {
+  "gpt-4o-transcribe": "路"
+ },
+ "kore/lv4-5796.1": {
+  "gpt-4o-transcribe": "律"
+ },
+ "kore/mi2-2ee7.1": {
+  "gpt-4o-transcribe": "米",
+  "forced": {
+   "mi3-ee7f": [
+    "米",
+    "迷"
+   ],
+   "mi4-d493": [
+    "迷",
+    "密"
+   ]
+  }
+ },
+ "kore/na3-cd96.1": {
+  "gpt-4o-transcribe": "哪儿",
+  "gpt-transcribe": "哪儿？",
+  "forced": {
+   "na2-748a": [
+    "哪儿",
+    "哪儿"
+   ]
+  }
+ },
+ "kore/na4-3270.1": {
+  "gpt-4o-transcribe": "拿",
+  "forced": {
+   "na2-748a": [
+    "那",
+    "拿"
+   ]
+  }
+ },
+ "kore/nu3-c530.1": {
+  "gpt-4o-transcribe": "奴",
+  "forced": {
+   "nv3-26bc": [
+    "努",
+    "努"
+   ]
+  }
+ },
+ "kore/nv3-26bc.1": {
+  "gpt-4o-transcribe": "你",
+  "gpt-transcribe": "女。"
+ },
+ "kore/pang2-c12a.1": {
+  "gpt-4o-transcribe": "谈",
+  "gpt-transcribe": "螳。",
+  "forced": {
+   "pan2-15c7": [
+    "盘",
+    "盘"
+   ]
+  }
+ },
+ "kore/qi3-2919.1": {
+  "gpt-4o-transcribe": "起"
+ },
+ "kore/qi4-b08d.1": {
+  "gpt-4o-transcribe": "气"
+ },
+ "kore/qian3-d181.1": {
+  "gpt-4o-transcribe": "钱",
+  "forced": {
+   "qian2-db4b": [
+    "浅",
+    "浅。"
+   ]
+  }
+ },
+ "kore/qian4-bdc9.1": {
+  "gpt-4o-transcribe": "欠"
+ },
+ "kore/ren2ming2-0947.1": {
+  "gpt-4o-transcribe": "人民",
+  "gpt-transcribe": "人名。"
+ },
+ "kore/rou4-6759.1": {
+  "gpt-4o-transcribe": "肉"
+ },
+ "kore/ru4-4a8d.1": {
+  "gpt-4o-transcribe": "路",
+  "gpt-transcribe": "路。",
+  "forced": {
+   "lu4-de80": [
+    "路",
+    "路"
+   ]
+  }
+ },
+ "kore/san1jiao3-b721.1": {
+  "gpt-4o-transcribe": "山脚",
+  "gpt-transcribe": "山脚。",
+  "forced": {
+   "shan1jiao3-63cd": [
+    "山脚",
+    "山脚"
+   ]
+  }
+ },
+ "kore/sheng4-5db0.1": {
+  "gpt-4o-transcribe": "顺",
+  "gpt-transcribe": "shun.",
+  "forced": {
+   "sheng1-3eb3": [
+    "剩",
+    "剩"
+   ]
+  }
+ },
+ "kore/shi2-aa10.1": {
+  "gpt-4o-transcribe": "食"
+ },
+ "kore/shou4-41eb.1": {
+  "gpt-4o-transcribe": "瘦"
+ },
+ "kore/shuan4-aef8.1": {
+  "gpt-4o-transcribe": "栓",
+  "forced": {
+   "suan4-2ae1": [
+    "涮",
+    "涮"
+   ]
+  }
+ },
+ "kore/si1ren2-82b4.1": {
+  "gpt-4o-transcribe": "私人"
+ },
+ "kore/tan2qing2-a676.1": {
+  "gpt-4o-transcribe": "弹琴",
+  "gpt-transcribe": "谈情。"
+ },
+ "kore/tao4-0322.1": {
+  "gpt-4o-transcribe": "跑。",
+  "gpt-transcribe": "炮。",
+  "forced": {
+   "dao4-792b": [
+    "套",
+    "套"
+   ]
+  }
+ },
+ "kore/tong3zhi4-a879.1": {
+  "gpt-4o-transcribe": "统治"
+ },
+ "kore/tou4-78a0.1": {
+  "gpt-4o-transcribe": "透"
+ },
+ "kore/wen2ti3-a14c.1": {
+  "gpt-4o-transcribe": "文体"
+ },
+ "kore/wu4-2697.1": {
+  "gpt-4o-transcribe": "误"
+ },
+ "kore/xi4-8f46.1": {
+  "gpt-4o-transcribe": "系。"
+ },
+ "kore/xiao4-740d.1": {
+  "gpt-4o-transcribe": "校。"
+ },
+ "kore/xing1-92ae.1": {
+  "gpt-4o-transcribe": "星"
+ },
+ "kore/xiong2mao1-b1c3.1": {
+  "gpt-4o-transcribe": "熊猫。"
+ },
+ "kore/ya1li2-843d.1": {
+  "gpt-4o-transcribe": "压力",
+  "forced": {
+   "ya1li4-aef4": [
+    "压力",
+    "压力。"
+   ]
+  }
+ },
+ "kore/ya2-87d8.1": {
+  "gpt-4o-transcribe": "牙"
+ },
+ "kore/yan3-6191.1": {
+  "gpt-4o-transcribe": "眼"
+ },
+ "kore/you4-4c2b.1": {
+  "gpt-4o-transcribe": "有",
+  "forced": {
+   "you3-fbd5": [
+    "又",
+    "又"
+   ],
+   "you2-2407": [
+    "又",
+    "又"
+   ]
+  }
+ },
+ "kore/yu3-8995.1": {
+  "gpt-4o-transcribe": "语。"
+ },
+ "kore/zhen1-e756.1": {
+  "gpt-4o-transcribe": "针。"
+ },
+ "kore/zhi3-9055.1": {
+  "gpt-4o-transcribe": "纸。"
+ },
+ "kore/zhou3-0583.1": {
+  "gpt-4o-transcribe": "酒",
+  "gpt-transcribe": "九。",
+  "forced": {
+   "zou3-0851": [
+    "肘",
+    "肘"
+   ],
+   "jiu3-27a2": [
+    "九",
+    "九。"
+   ]
+  }
+ },
+ "kore/zhu1-3e2d.1": {
+  "gpt-4o-transcribe": "兔",
+  "gpt-transcribe": "two.",
+  "forced": {
+   "chu1-69e8": [
+    "猪",
+    "猪"
+   ]
+  }
+ },
+ "kore/zhu4-80b8.1": {
+  "gpt-4o-transcribe": "住。"
+ },
+ "kore/zi4-582c.1": {
+  "gpt-4o-transcribe": "自"
+ },
+ "kore/zu1-5d00.1": {
+  "gpt-4o-transcribe": "猪",
+  "gpt-transcribe": "租。"
+ },
+ "erinome/chi2-0c28.1": {
+  "gpt-4o-transcribe": "吃。",
+  "forced": {
+   "ci2-df99": [
+    "迟",
+    "词。"
+   ]
+  }
+ },
+ "erinome/chuang3-924b.1": {
+  "gpt-4o-transcribe": "床。",
+  "forced": {
+   "chuang2-a30d": [
+    "床",
+    "床"
+   ],
+   "chuang1-1a3d": [
+    "闯",
+    "闯"
+   ]
+  }
+ },
+ "erinome/da4-0889.1": {
+  "gpt-4o-transcribe": "大"
+ },
+ "erinome/dao4-792b.1": {
+  "gpt-4o-transcribe": "报",
+  "gpt-transcribe": "爆。",
+  "forced": {
+   "dao1-c8f6": [
+    "到",
+    "到"
+   ],
+   "tao4-0322": [
+    "到",
+    "到"
+   ]
+  }
+ },
+ "erinome/diao4-dd73.1": {
+  "gpt-4o-transcribe": "调",
+  "gpt-transcribe": "调。",
+  "forced": {
+   "tiao4-8449": [
+    "掉",
+    "掉"
+   ]
+  }
+ },
+ "erinome/fei4-f07a.1": {
+  "gpt-4o-transcribe": "非",
+  "forced": {
+   "fei1-322b": [
+    "费",
+    "费。"
+   ]
+  }
+ },
+ "erinome/ge4-f7b2.1": {
+  "gpt-4o-transcribe": "个"
+ },
+ "erinome/gou4-a69b.1": {
+  "gpt-4o-transcribe": "狗",
+  "forced": {
+   "guo4-e19e": [
+    "够。",
+    "够"
+   ]
+  }
+ },
+ "erinome/hua4-9160.1": {
+  "gpt-4o-transcribe": "话"
+ },
+ "erinome/hui4-577c.1": {
+  "gpt-4o-transcribe": "会"
+ },
+ "erinome/ji4-ebaf.1": {
+  "gpt-4o-transcribe": "词",
+  "gpt-transcribe": "记。"
+ },
+ "erinome/jing1yu2-2208.1": {
+  "gpt-4o-transcribe": "鲸鱼"
+ },
+ "erinome/lu2-680d.1": {
+  "gpt-4o-transcribe": "炉"
+ },
+ "erinome/lu4-de80.1": {
+  "gpt-4o-transcribe": "路"
+ },
+ "erinome/lv4-5796.1": {
+  "gpt-4o-transcribe": "力。",
+  "gpt-transcribe": "力。",
+  "forced": {
+   "lu4-de80": [
+    "绿",
+    "绿"
+   ]
+  }
+ },
+ "erinome/ma2-433e.1": {
+  "gpt-4o-transcribe": "马",
+  "forced": {
+   "ma3-7d39": [
+    "马",
+    "馬"
+   ],
+   "ma1-e391": [
+    "麻",
+    "妈"
+   ],
+   "ma4-6343": [
+    "骂",
+    "骂"
+   ]
+  }
+ },
+ "erinome/mai2-2c49.1": {
+  "gpt-4o-transcribe": "买",
+  "forced": {
+   "mai3-b6c5": [
+    "买",
+    "买"
+   ]
+  }
+ },
+ "erinome/mi2-2ee7.1": {
+  "gpt-4o-transcribe": "米",
+  "forced": {
+   "mi3-ee7f": [
+    "米",
+    "米"
+   ],
+   "mi4-d493": [
+    "迷",
+    "迷"
+   ]
+  }
+ },
+ "erinome/na3-cd96.1": {
+  "gpt-4o-transcribe": "哪儿",
+  "gpt-transcribe": "哪儿？",
+  "forced": {
+   "na2-748a": [
+    "哪儿",
+    "哪儿"
+   ]
+  }
+ },
+ "erinome/nu3-c530.1": {
+  "gpt-4o-transcribe": "努。"
+ },
+ "erinome/nv3-26bc.1": {
+  "gpt-4o-transcribe": "女"
+ },
+ "erinome/pang2-c12a.1": {
+  "gpt-4o-transcribe": "盘。",
+  "gpt-transcribe": "旁。"
+ },
+ "erinome/qiang2-6512.1": {
+  "gpt-4o-transcribe": "强"
+ },
+ "erinome/ren2ming2-0947.1": {
+  "gpt-4o-transcribe": "人名。"
+ },
+ "erinome/shi1-53e0.1": {
+  "gpt-4o-transcribe": "七",
+  "gpt-transcribe": "虚。",
+  "forced": {
+   "si1-a088": [
+    "诗",
+    "诗"
+   ],
+   "xi1-2f64": [
+    "诗",
+    "诗"
+   ]
+  }
+ },
+ "erinome/shou4-41eb.1": {
+  "gpt-4o-transcribe": "绸",
+  "gpt-transcribe": "瘦。"
+ },
+ "erinome/shuan4-aef8.1": {
+  "gpt-4o-transcribe": "涮"
+ },
+ "erinome/tao4-0322.1": {
+  "gpt-4o-transcribe": "套"
+ },
+ "erinome/tong2zhi4-928d.1": {
+  "gpt-4o-transcribe": "同志"
+ },
+ "erinome/tou4-78a0.1": {
+  "gpt-4o-transcribe": "偷",
+  "forced": {
+   "tou2-f366": [
+    "透",
+    "透"
+   ]
+  }
+ },
+ "erinome/tu4zi5-3daa.1": {
+  "gpt-4o-transcribe": "兔子"
+ },
+ "erinome/xi4-8f46.1": {
+  "gpt-4o-transcribe": "细"
+ },
+ "erinome/xiong2mao1-b1c3.1": {
+  "gpt-4o-transcribe": "熊猫"
+ },
+ "erinome/ying1-4956.1": {
+  "gpt-4o-transcribe": "庸",
+  "gpt-transcribe": "U。",
+  "forced": {
+   "yin1-b7ec": [
+    "鹰",
+    "鹰"
+   ]
+  }
+ },
+ "erinome/yu2-9246.1": {
+  "gpt-4o-transcribe": "语",
+  "forced": {
+   "yu3-8995": [
+    "鱼",
+    "鱼"
+   ],
+   "yu4-2081": [
+    "鱼",
+    "鱼。"
+   ],
+   "wu2-7207": [
+    "鱼",
+    "鱼"
+   ]
+  }
+ },
+ "erinome/zhi3-9055.1": {
+  "gpt-4o-transcribe": "绝",
+  "gpt-transcribe": "纸。"
+ },
+ "erinome/zhou3-0583.1": {
+  "gpt-4o-transcribe": "手",
+  "gpt-transcribe": "肘。"
+ },
+ "erinome/zu1-5d00.1": {
+  "gpt-4o-transcribe": "租"
+ },
+ "charon/chi2-0c28.1": {
+  "gpt-4o-transcribe": "时",
+  "gpt-transcribe": "十。",
+  "forced": {
+   "ci2-df99": [
+    "迟",
+    "迟"
+   ]
+  }
+ },
+ "charon/da4-0889.1": {
+  "gpt-4o-transcribe": "大"
+ },
+ "charon/da4xue3-7c72.1": {
+  "gpt-4o-transcribe": "大雪"
+ },
+ "charon/diao4-dd73.1": {
+  "gpt-4o-transcribe": "必要。",
+  "gpt-transcribe": "调。",
+  "forced": {
+   "tiao4-8449": [
+    "掉",
+    "跳"
+   ]
+  }
+ },
+ "charon/dong1-520b.1": {
+  "gpt-4o-transcribe": "公",
+  "gpt-transcribe": "东。"
+ },
+ "charon/dou4-d081.1": {
+  "gpt-4o-transcribe": "豆"
+ },
+ "charon/fei4-f07a.1": {
+  "gpt-4o-transcribe": "free",
+  "gpt-transcribe": "费。"
+ },
+ "charon/gao1-b096.1": {
+  "gpt-4o-transcribe": "小",
+  "gpt-transcribe": "哦。",
+  "forced": {
+   "gao3-c075": [
+    "高",
+    "高"
+   ]
+  }
+ },
+ "charon/ge4-f7b2.1": {
+  "gpt-4o-transcribe": "个"
+ },
+ "charon/gou4-a69b.1": {
+  "gpt-4o-transcribe": "搞",
+  "gpt-transcribe": "go.",
+  "forced": {
+   "guo4-e19e": [
+    "够",
+    "够"
+   ]
+  }
+ },
+ "charon/guan1-a333.1": {
+  "gpt-4o-transcribe": "以下是一个普通话词语",
+  "gpt-transcribe": "弯。",
+  "forced": {
+   "kuan1-6395": [
+    "关",
+    "宽"
+   ],
+   "guang1-5ae5": [
+    "关",
+    "光"
+   ]
+  }
+ },
+ "charon/ha1-3d4e.1": {
+  "gpt-4o-transcribe": "哈"
+ },
+ "charon/hua4-9160.1": {
+  "gpt-4o-transcribe": "话"
+ },
+ "charon/hui4-577c.1": {
+  "gpt-4o-transcribe": "汇"
+ },
+ "charon/ji4-ebaf.1": {
+  "gpt-4o-transcribe": "记"
+ },
+ "charon/jing1yu2-2208.1": {
+  "gpt-4o-transcribe": "鲸鱼"
+ },
+ "charon/jing4-f75f.1": {
+  "gpt-4o-transcribe": "气氛。",
+  "gpt-transcribe": "庆。",
+  "forced": {
+   "jin4-681b": [
+    "进",
+    "进"
+   ]
+  }
+ },
+ "charon/lao3shi4-e5d6.1": {
+  "gpt-4o-transcribe": "老式"
+ },
+ "charon/ling2-e0d7.1": {
+  "gpt-4o-transcribe": "林",
+  "gpt-transcribe": "林。",
+  "forced": {
+   "lin2-020f": [
+    "林",
+    "林"
+   ]
+  }
+ },
+ "charon/lu4-de80.1": {
+  "gpt-4o-transcribe": "露"
+ },
+ "charon/lv2-49de.1": {
+  "gpt-4o-transcribe": "的",
+  "gpt-transcribe": "驴。"
+ },
+ "charon/lv4-5796.1": {
+  "gpt-4o-transcribe": "绿"
+ },
+ "charon/mai2-2c49.1": {
+  "gpt-4o-transcribe": "埋"
+ },
+ "charon/mi2-2ee7.1": {
+  "gpt-4o-transcribe": "米",
+  "forced": {
+   "mi3-ee7f": [
+    "米。",
+    "迷"
+   ],
+   "mi4-d493": [
+    "迷",
+    "迷"
+   ]
+  }
+ },
+ "charon/mi4-d493.1": {
+  "gpt-4o-transcribe": "咪",
+  "forced": {
+   "mi3-ee7f": [
+    "密",
+    "米。"
+   ],
+   "mi2-2ee7": [
+    "谜",
+    "迷"
+   ]
+  }
+ },
+ "charon/na3-cd96.1": {
+  "gpt-4o-transcribe": "哪儿",
+  "gpt-transcribe": "哪儿。",
+  "forced": {
+   "na2-748a": [
+    "哪儿",
+    "哪儿"
+   ]
+  }
+ },
+ "charon/nv3-26bc.1": {
+  "gpt-4o-transcribe": "女"
+ },
+ "charon/pao4-b19a.1": {
+  "gpt-4o-transcribe": "炮"
+ },
+ "charon/qi1-7db1.1": {
+  "gpt-4o-transcribe": "稀。",
+  "gpt-transcribe": "七。"
+ },
+ "charon/qi2-c058.1": {
+  "gpt-4o-transcribe": "棋"
+ },
+ "charon/qi3-2919.1": {
+  "gpt-4o-transcribe": "起"
+ },
+ "charon/qian3-d181.1": {
+  "gpt-4o-transcribe": "钱",
+  "forced": {
+   "qian2-db4b": [
+    "钱",
+    "钱"
+   ]
+  }
+ },
+ "charon/ren2ming2-0947.1": {
+  "gpt-4o-transcribe": "人名"
+ },
+ "charon/rou2-8c77.1": {
+  "gpt-4o-transcribe": "楼。",
+  "gpt-transcribe": "楼。",
+  "forced": {
+   "lou2-598e": [
+    "楼",
+    "楼"
+   ]
+  }
+ },
+ "charon/san1jiao3-b721.1": {
+  "gpt-4o-transcribe": "山脚",
+  "gpt-transcribe": "山角。",
+  "forced": {
+   "shan1jiao3-63cd": [
+    "山脚",
+    "山脚"
+   ]
+  }
+ },
+ "charon/shou3-c08a.1": {
+  "gpt-4o-transcribe": "手"
+ },
+ "charon/shou4-41eb.1": {
+  "gpt-4o-transcribe": "瘦"
+ },
+ "charon/shuan4-aef8.1": {
+  "gpt-4o-transcribe": "栓",
+  "forced": {
+   "suan4-2ae1": [
+    "涮",
+    "涮"
+   ]
+  }
+ },
+ "charon/sui4-86f1.1": {
+  "gpt-4o-transcribe": "岁"
+ },
+ "charon/tan2qing2-a676.1": {
+  "gpt-4o-transcribe": "弹琴",
+  "gpt-transcribe": "弹琴。",
+  "forced": {
+   "tan2qin2-e22a": [
+    "弹琴",
+    "弹琴"
+   ]
+  }
+ },
+ "charon/tang2-3d8c.1": {
+  "gpt-4o-transcribe": "谈。",
+  "gpt-transcribe": "糖。"
+ },
+ "charon/tang4-700e.1": {
+  "gpt-4o-transcribe": "烫"
+ },
+ "charon/tao4-0322.1": {
+  "gpt-4o-transcribe": "考",
+  "gpt-transcribe": "靠。",
+  "forced": {
+   "dao4-792b": [
+    "套",
+    "套"
+   ]
+  }
+ },
+ "charon/tong3zhi4-a879.1": {
+  "gpt-4o-transcribe": "统治"
+ },
+ "charon/tou2-f366.1": {
+  "gpt-4o-transcribe": "口",
+  "gpt-transcribe": "頭。"
+ },
+ "charon/wan3-7c0f.1": {
+  "gpt-4o-transcribe": "碗。"
+ },
+ "charon/wang2-c7b1.1": {
+  "gpt-4o-transcribe": "完",
+  "gpt-transcribe": "玩。",
+  "forced": {
+   "wang3-4ad9": [
+    "王",
+    "网"
+   ],
+   "wang4-1787": [
+    "忘",
+    "王"
+   ],
+   "wan2-0830": [
+    "完。",
+    "完"
+   ]
+  }
+ },
+ "charon/xi4-8f46.1": {
+  "gpt-4o-transcribe": "词",
+  "gpt-transcribe": "戏。"
+ },
+ "charon/xie3-144d.1": {
+  "gpt-4o-transcribe": "血。",
+  "gpt-transcribe": "血。",
+  "forced": {
+   "xie2-0106": [
+    "写",
+    "鞋"
+   ],
+   "xie4-b27c": [
+    "写",
+    "写。"
+   ]
+  }
+ },
+ "charon/xiong2mao1-b1c3.1": {
+  "gpt-4o-transcribe": "熊猫"
+ },
+ "charon/yan3-6191.1": {
+  "gpt-4o-transcribe": "眼"
+ },
+ "charon/yang3-51e5.1": {
+  "gpt-4o-transcribe": "养"
+ },
+ "charon/yao4-55b7.1": {
+  "gpt-4o-transcribe": "要"
+ },
+ "charon/ying1-4956.1": {
+  "gpt-4o-transcribe": "音",
+  "gpt-transcribe": "英。"
+ },
+ "charon/yu2-9246.1": {
+  "gpt-4o-transcribe": "鱼"
+ },
+ "charon/yu3-8995.1": {
+  "gpt-4o-transcribe": "语。"
+ },
+ "charon/yu4-2081.1": {
+  "gpt-4o-transcribe": "语",
+  "forced": {
+   "yu3-8995": [
+    "玉",
+    "雨"
+   ],
+   "yu2-9246": [
+    "玉",
+    "鱼。"
+   ],
+   "wu4-2697": [
+    "玉。",
+    "玉。"
+   ]
+  }
+ },
+ "charon/zai4-686b.1": {
+  "gpt-4o-transcribe": "赛",
+  "gpt-transcribe": "菜。",
+  "forced": {
+   "cai4-7b4b": [
+    "在",
+    "在"
+   ]
+  }
+ },
+ "charon/zhu1-3e2d.1": {
+  "gpt-4o-transcribe": "哭",
+  "gpt-transcribe": "哭。",
+  "forced": {
+   "chu1-69e8": [
+    "出",
+    "出"
+   ]
+  }
+ },
+ "iapetus/cou4-4d61.1": {
+  "gpt-4o-transcribe": "凑"
+ },
+ "iapetus/deng3-3d3e.1": {
+  "gpt-4o-transcribe": "dang",
+  "gpt-transcribe": "等。"
+ },
+ "iapetus/di1-b9ee.1": {
+  "gpt-4o-transcribe": "的",
+  "gpt-transcribe": "D。",
+  "forced": {
+   "ti1-2359": [
+    "低",
+    "低"
+   ]
+  }
+ },
+ "iapetus/di4-2763.1": {
+  "gpt-4o-transcribe": "词",
+  "gpt-transcribe": "地。"
+ },
+ "iapetus/dong1-520b.1": {
+  "gpt-4o-transcribe": "工",
+  "gpt-transcribe": "工。",
+  "forced": {
+   "dong4-b30d": [
+    "东",
+    "东。"
+   ],
+   "dong3-632b": [
+    "东。",
+    "懂"
+   ]
+  }
+ },
+ "iapetus/fan3wen4-2056.1": {
+  "gpt-4o-transcribe": "访问",
+  "gpt-transcribe": "反問。"
+ },
+ "iapetus/fei1-322b.1": {
+  "gpt-4o-transcribe": "非"
+ },
+ "iapetus/fei4-f07a.1": {
+  "gpt-4o-transcribe": "费"
+ },
+ "iapetus/gao1-b096.1": {
+  "gpt-4o-transcribe": "勾",
+  "gpt-transcribe": "高。"
+ },
+ "iapetus/ge4-f7b2.1": {
+  "gpt-4o-transcribe": "哦",
+  "gpt-transcribe": "呃。",
+  "forced": {
+   "ge1-3a38": [
+    "个",
+    "个"
+   ]
+  }
+ },
+ "iapetus/gou4-a69b.1": {
+  "gpt-4o-transcribe": "狗",
+  "forced": {
+   "guo4-e19e": [
+    "够",
+    "够。"
+   ]
+  }
+ },
+ "iapetus/gu3-8932.1": {
+  "gpt-4o-transcribe": "鼓。"
+ },
+ "iapetus/guan1-a333.1": {
+  "gpt-4o-transcribe": "官"
+ },
+ "iapetus/hua4-9160.1": {
+  "gpt-4o-transcribe": "话"
+ },
+ "iapetus/hui4-577c.1": {
+  "gpt-4o-transcribe": "会"
+ },
+ "iapetus/ji2-eec9.1": {
+  "gpt-4o-transcribe": "集"
+ },
+ "iapetus/jian4-d65f.1": {
+  "gpt-4o-transcribe": "贱"
+ },
+ "iapetus/jin1-b59d.1": {
+  "gpt-4o-transcribe": "间",
+  "gpt-transcribe": "金。"
+ },
+ "iapetus/jing4-f75f.1": {
+  "gpt-4o-transcribe": "qing",
+  "gpt-transcribe": "庆。",
+  "forced": {
+   "jin4-681b": [
+    "进",
+    "进"
+   ]
+  }
+ },
+ "iapetus/kao4-3f86.1": {
+  "gpt-4o-transcribe": "考",
+  "forced": {
+   "kao3-ed96": [
+    "靠",
+    "靠"
+   ]
+  }
+ },
+ "iapetus/li2-c76a.1": {
+  "gpt-4o-transcribe": "礼",
+  "forced": {
+   "li3-cdd2": [
+    "梨",
+    "李"
+   ]
+  }
+ },
+ "iapetus/liu2-0990.1": {
+  "gpt-4o-transcribe": "流"
+ },
+ "iapetus/lu4-de80.1": {
+  "gpt-4o-transcribe": "路"
+ },
+ "iapetus/lv4-5796.1": {
+  "gpt-4o-transcribe": "利",
+  "gpt-transcribe": "力。",
+  "forced": {
+   "lu4-de80": [
+    "绿",
+    "「里」。"
+   ]
+  }
+ },
+ "iapetus/ma2-433e.1": {
+  "gpt-4o-transcribe": "马",
+  "forced": {
+   "ma3-7d39": [
+    "马",
+    "马"
+   ],
+   "ma1-e391": [
+    "麻",
+    "妈"
+   ],
+   "ma4-6343": [
+    "麻",
+    "骂"
+   ]
+  }
+ },
+ "iapetus/mai2-2c49.1": {
+  "gpt-4o-transcribe": "买",
+  "forced": {
+   "mai3-b6c5": [
+    "买",
+    "买"
+   ]
+  }
+ },
+ "iapetus/mi2-2ee7.1": {
+  "gpt-4o-transcribe": "米",
+  "forced": {
+   "mi3-ee7f": [
+    "米",
+    "米"
+   ],
+   "mi4-d493": [
+    "谜",
+    "迷"
+   ]
+  }
+ },
+ "iapetus/mi4-d493.1": {
+  "gpt-4o-transcribe": "蜜"
+ },
+ "iapetus/na2-748a.1": {
+  "gpt-4o-transcribe": "拿"
+ },
+ "iapetus/na3-cd96.1": {
+  "gpt-4o-transcribe": "哪儿",
+  "gpt-transcribe": "哪儿。",
+  "forced": {
+   "na2-748a": [
+    "哪儿",
+    "哪儿"
+   ]
+  }
+ },
+ "iapetus/nian4-13d0.1": {
+  "gpt-4o-transcribe": "问",
+  "gpt-transcribe": "when.",
+  "forced": {
+   "nian2-6f14": [
+    "念。",
+    "年"
+   ]
+  }
+ },
+ "iapetus/nu3-c530.1": {
+  "gpt-4o-transcribe": "挪",
+  "gpt-transcribe": "弩。"
+ },
+ "iapetus/nv3-26bc.1": {
+  "gpt-4o-transcribe": "女。"
+ },
+ "iapetus/qi2-c058.1": {
+  "gpt-4o-transcribe": "棋"
+ },
+ "iapetus/qian3-d181.1": {
+  "gpt-4o-transcribe": "钱。",
+  "forced": {
+   "qian2-db4b": [
+    "浅",
+    "浅。"
+   ]
+  }
+ },
+ "iapetus/ru4-4a8d.1": {
+  "gpt-4o-transcribe": "入"
+ },
+ "iapetus/shao3-fa49.1": {
+  "gpt-4o-transcribe": "手",
+  "gpt-transcribe": "少。"
+ },
+ "iapetus/sheng1-3eb3.1": {
+  "gpt-4o-transcribe": "什么",
+  "gpt-transcribe": "生。"
+ },
+ "iapetus/shi3-f690.1": {
+  "gpt-4o-transcribe": "史"
+ },
+ "iapetus/shou4-41eb.1": {
+  "gpt-4o-transcribe": "兽。"
+ },
+ "iapetus/shuan4-aef8.1": {
+  "gpt-4o-transcribe": "拴",
+  "forced": {
+   "suan4-2ae1": [
+    "涮",
+    "涮"
+   ]
+  }
+ },
+ "iapetus/si4-4f88.1": {
+  "gpt-4o-transcribe": "四"
+ },
+ "iapetus/tao4-0322.1": {
+  "gpt-4o-transcribe": "靠",
+  "gpt-transcribe": "套。"
+ },
+ "iapetus/tiao4-8449.1": {
+  "gpt-4o-transcribe": "票",
+  "gpt-transcribe": "跳。"
+ },
+ "iapetus/tong3zhi4-a879.1": {
+  "gpt-4o-transcribe": "统治。"
+ },
+ "iapetus/wan3-7c0f.1": {
+  "gpt-4o-transcribe": "碗"
+ },
+ "iapetus/wang3-4ad9.1": {
+  "gpt-4o-transcribe": "网"
+ },
+ "iapetus/wen2-176f.1": {
+  "gpt-4o-transcribe": "稳",
+  "forced": {
+   "wen3-dfa7": [
+    "吻",
+    "吻"
+   ]
+  }
+ },
+ "iapetus/wu3-8f07.1": {
+  "gpt-4o-transcribe": "尾",
+  "gpt-transcribe": "尾。",
+  "forced": {
+   "wu4-2697": [
+    "五",
+    "雾"
+   ],
+   "yu3-8995": [
+    "五",
+    "五"
+   ]
+  }
+ },
+ "iapetus/xi1-2f64.1": {
+  "gpt-4o-transcribe": "七",
+  "gpt-transcribe": "西。"
+ },
+ "iapetus/xi4-8f46.1": {
+  "gpt-4o-transcribe": "系"
+ },
+ "iapetus/xie3-144d.1": {
+  "gpt-4o-transcribe": "血",
+  "gpt-transcribe": "血。",
+  "forced": {
+   "xie2-0106": [
+    "写",
+    "写"
+   ],
+   "xie4-b27c": [
+    "写",
+    "写"
+   ]
+  }
+ },
+ "iapetus/xie4-b27c.1": {
+  "gpt-4o-transcribe": "谢"
+ },
+ "iapetus/xing1-92ae.1": {
+  "gpt-4o-transcribe": "星"
+ },
+ "iapetus/xing4-003e.1": {
+  "gpt-4o-transcribe": "训。",
+  "gpt-transcribe": "信。",
+  "forced": {
+   "xin4-6c71": [
+    "信",
+    "信"
+   ]
+  }
+ },
+ "iapetus/xiong2mao1-b1c3.1": {
+  "gpt-4o-transcribe": "熊猫"
+ },
+ "iapetus/ya1li2-843d.1": {
+  "gpt-4o-transcribe": "压力。",
+  "forced": {
+   "ya1li4-aef4": [
+    "鸭梨",
+    "鸭梨"
+   ]
+  }
+ },
+ "iapetus/yao4-55b7.1": {
+  "gpt-4o-transcribe": "要"
+ },
+ "iapetus/ying1-4956.1": {
+  "gpt-4o-transcribe": "烟",
+  "gpt-transcribe": "音。",
+  "forced": {
+   "yin1-b7ec": [
+    "鹰",
+    "音。"
+   ]
+  }
+ },
+ "iapetus/you2-2407.1": {
+  "gpt-4o-transcribe": "油"
+ },
+ "iapetus/zhi1-c524.1": {
+  "gpt-4o-transcribe": "剧",
+  "gpt-transcribe": "居。",
+  "forced": {
+   "ji1-5109": [
+    "知。",
+    "知"
+   ]
+  }
+ },
+ "iapetus/zhong1-0869.1": {
+  "gpt-4o-transcribe": "中"
+ },
+ "iapetus/zhu1-3e2d.1": {
+  "gpt-4o-transcribe": "猪"
+ },
+ "kore/chou3-aa9d.2": {
+  "gpt-4o-transcribe": "草",
+  "gpt-transcribe": "草。",
+  "forced": {
+   "chou1-ca48": [
+    "丑",
+    "丑"
+   ]
+  }
+ },
+ "kore/di4-2763.2": {
+  "gpt-4o-transcribe": "地"
+ },
+ "kore/dou4-d081.2": {
+  "gpt-4o-transcribe": "斗"
+ },
+ "kore/du4-304f.2": {
+  "gpt-4o-transcribe": "度"
+ },
+ "kore/fei1-322b.2": {
+  "gpt-4o-transcribe": "飞。"
+ },
+ "kore/hui4-577c.2": {
+  "gpt-4o-transcribe": "会"
+ },
+ "kore/ji4-ebaf.2": {
+  "gpt-4o-transcribe": "记"
+ },
+ "kore/lou4-114e.2": {
+  "gpt-4o-transcribe": "漏。"
+ },
+ "kore/lu2-680d.2": {
+  "gpt-4o-transcribe": "罗",
+  "gpt-transcribe": "炉。"
+ },
+ "kore/lu4-de80.2": {
+  "gpt-4o-transcribe": "录"
+ },
+ "kore/lv4-5796.2": {
+  "gpt-4o-transcribe": "力",
+  "gpt-transcribe": "力。",
+  "forced": {
+   "lu4-de80": [
+    "绿",
+    "绿"
+   ]
+  }
+ },
+ "kore/mi2-2ee7.2": {
+  "gpt-4o-transcribe": "迷"
+ },
+ "kore/na3-cd96.2": {
+  "gpt-4o-transcribe": "哪儿",
+  "gpt-transcribe": "哪儿？",
+  "forced": {
+   "na2-748a": [
+    "哪儿",
+    "拿儿"
+   ]
+  }
+ },
+ "kore/na4-3270.2": {
+  "gpt-4o-transcribe": "那"
+ },
+ "kore/nv3-26bc.2": {
+  "gpt-4o-transcribe": "女"
+ },
+ "kore/pang2-c12a.2": {
+  "gpt-4o-transcribe": "盘",
+  "gpt-transcribe": "盘。",
+  "forced": {
+   "pan2-15c7": [
+    "盘",
+    "盘"
+   ]
+  }
+ },
+ "kore/ren2ming2-0947.2": {
+  "gpt-4o-transcribe": "延年",
+  "gpt-transcribe": "人民。",
+  "forced": {
+   "ren2min2-4c4d": [
+    "人名",
+    "人名。"
+   ]
+  }
+ },
+ "kore/rou4-6759.2": {
+  "gpt-4o-transcribe": "有",
+  "gpt-transcribe": "肉。"
+ },
+ "kore/ru4-4a8d.2": {
+  "gpt-4o-transcribe": "入"
+ },
+ "kore/san1jiao3-b721.2": {
+  "gpt-4o-transcribe": "三角"
+ },
+ "kore/shou4-41eb.2": {
+  "gpt-4o-transcribe": "绰。",
+  "gpt-transcribe": "瘦。"
+ },
+ "kore/tan2qing2-a676.2": {
+  "gpt-4o-transcribe": "弹琴",
+  "gpt-transcribe": "谈情。"
+ },
+ "kore/tong2zhi4-928d.1": {
+  "gpt-4o-transcribe": "同志。"
+ },
+ "kore/xiao4-740d.2": {
+  "gpt-4o-transcribe": "小",
+  "forced": {
+   "xiao3-9225": [
+    "笑",
+    "笑"
+   ]
+  }
+ },
+ "kore/ya1li2-843d.2": {
+  "gpt-4o-transcribe": "压泥",
+  "gpt-transcribe": "鸭泥。",
+  "forced": {
+   "ya1li4-aef4": [
+    "鸭梨",
+    "鸭梨"
+   ]
+  }
+ },
+ "kore/zhi3-9055.2": {
+  "gpt-4o-transcribe": "壶。",
+  "gpt-transcribe": "起儿。",
+  "forced": {
+   "chi3-683c": [
+    "纸",
+    "尺"
+   ],
+   "ji3-68bf": [
+    "几。",
+    "几儿"
+   ]
+  }
+ },
+ "kore/zhou3-0583.2": {
+  "gpt-4o-transcribe": "走",
+  "gpt-transcribe": "九。",
+  "forced": {
+   "zou3-0851": [
+    "肘",
+    "走"
+   ],
+   "jiu3-27a2": [
+    "肘",
+    "肘"
+   ]
+  }
+ },
+ "kore/zi4-582c.2": {
+  "gpt-4o-transcribe": "字"
+ },
+ "erinome/chuang3-924b.2": {
+  "gpt-4o-transcribe": "闯"
+ },
+ "erinome/hui4-577c.2": {
+  "gpt-4o-transcribe": "会"
+ },
+ "erinome/lu2-680d.2": {
+  "gpt-4o-transcribe": "卢"
+ },
+ "erinome/lu4-de80.2": {
+  "gpt-4o-transcribe": "罗",
+  "gpt-transcribe": "路。"
+ },
+ "erinome/ma2-433e.2": {
+  "gpt-4o-transcribe": "麻。"
+ },
+ "erinome/mai2-2c49.2": {
+  "gpt-4o-transcribe": "买。",
+  "forced": {
+   "mai3-b6c5": [
+    "买",
+    "买"
+   ]
+  }
+ },
+ "erinome/mi2-2ee7.2": {
+  "gpt-4o-transcribe": "米",
+  "forced": {
+   "mi3-ee7f": [
+    "米。",
+    "米。"
+   ],
+   "mi4-d493": [
+    "迷",
+    "迷"
+   ]
+  }
+ },
+ "erinome/na3-cd96.2": {
+  "gpt-4o-transcribe": "哪儿",
+  "gpt-transcribe": "哪儿？",
+  "forced": {
+   "na2-748a": [
+    "哪儿",
+    "哪儿"
+   ]
+  }
+ },
+ "erinome/nu3-c530.2": {
+  "gpt-4o-transcribe": "弩"
+ },
+ "erinome/nv3-26bc.2": {
+  "gpt-4o-transcribe": "女"
+ },
+ "erinome/pang2-c12a.2": {
+  "gpt-4o-transcribe": "膛",
+  "gpt-transcribe": "旁。"
+ },
+ "erinome/shuan4-aef8.2": {
+  "gpt-4o-transcribe": "拴",
+  "forced": {
+   "suan4-2ae1": [
+    "涮",
+    "涮"
+   ]
+  }
+ },
+ "erinome/tao4-0322.2": {
+  "gpt-4o-transcribe": "套"
+ },
+ "charon/da4xue3-7c72.2": {
+  "gpt-4o-transcribe": "大雪"
+ },
+ "charon/diao4-dd73.2": {
+  "gpt-4o-transcribe": "一表",
+  "gpt-transcribe": "药。",
+  "forced": {
+   "tiao4-8449": [
+    "跳",
+    "跳"
+   ]
+  }
+ },
+ "charon/guan1-a333.2": {
+  "gpt-4o-transcribe": "普通话。",
+  "gpt-transcribe": "one.",
+  "forced": {
+   "kuan1-6395": [
+    "关",
+    "宽"
+   ],
+   "guang1-5ae5": [
+    "关",
+    "关"
+   ]
+  }
+ },
+ "charon/ha1-3d4e.2": {
+  "gpt-4o-transcribe": "哈"
+ },
+ "charon/hui4-577c.2": {
+  "gpt-4o-transcribe": "会"
+ },
+ "charon/jing4-f75f.2": {
+  "gpt-4o-transcribe": "亲",
+  "gpt-transcribe": "庆。",
+  "forced": {
+   "jin4-681b": [
+    "进",
+    "进"
+   ]
+  }
+ },
+ "charon/ling2-e0d7.2": {
+  "gpt-4o-transcribe": "枟",
+  "gpt-transcribe": "云。",
+  "forced": {
+   "lin2-020f": [
+    "林。",
+    "林"
+   ]
+  }
+ },
+ "charon/lu4-de80.2": {
+  "gpt-4o-transcribe": "路"
+ },
+ "charon/lv2-49de.2": {
+  "gpt-4o-transcribe": "里",
+  "gpt-transcribe": "李。",
+  "forced": {
+   "lu2-680d": [
+    "「驴」",
+    "驴"
+   ]
+  }
+ },
+ "charon/lv4-5796.2": {
+  "gpt-4o-transcribe": "力",
+  "gpt-transcribe": "绿。"
+ },
+ "charon/mi2-2ee7.2": {
+  "gpt-4o-transcribe": "米",
+  "forced": {
+   "mi3-ee7f": [
+    "迷",
+    "米"
+   ],
+   "mi4-d493": [
+    "迷",
+    "迷"
+   ]
+  }
+ },
+ "charon/na3-cd96.2": {
+  "gpt-4o-transcribe": "哪儿",
+  "gpt-transcribe": "哪儿？",
+  "forced": {
+   "na2-748a": [
+    "哪儿",
+    "拿儿"
+   ]
+  }
+ },
+ "charon/nv3-26bc.2": {
+  "gpt-4o-transcribe": "女"
+ },
+ "charon/rou2-8c77.2": {
+  "gpt-4o-transcribe": "柔"
+ },
+ "charon/san1jiao3-b721.2": {
+  "gpt-4o-transcribe": "山腳",
+  "gpt-transcribe": "山脚。",
+  "forced": {
+   "shan1jiao3-63cd": [
+    "山脚",
+    "山脚"
+   ]
+  }
+ },
+ "charon/tan2qing2-a676.2": {
+  "gpt-4o-transcribe": "弹琴",
+  "gpt-transcribe": "弹琴。",
+  "forced": {
+   "tan2qin2-e22a": [
+    "弹琴",
+    "弹琴"
+   ]
+  }
+ },
+ "charon/wang2-c7b1.2": {
+  "gpt-4o-transcribe": "王"
+ },
+ "charon/xie3-144d.2": {
+  "gpt-4o-transcribe": "鞋。",
+  "forced": {
+   "xie2-0106": [
+    "写。",
+    "写"
+   ],
+   "xie4-b27c": [
+    "写",
+    "写。"
+   ]
+  }
+ },
+ "charon/ying1-4956.2": {
+  "gpt-4o-transcribe": "音",
+  "gpt-transcribe": "音。",
+  "forced": {
+   "yin1-b7ec": [
+    "音。",
+    "音"
+   ]
+  }
+ },
+ "charon/yu4-2081.2": {
+  "gpt-4o-transcribe": "语",
+  "forced": {
+   "yu3-8995": [
+    "雨。",
+    "玉"
+   ],
+   "yu2-9246": [
+    "玉",
+    "玉"
+   ],
+   "wu4-2697": [
+    "雾",
+    "玉"
+   ]
+  }
+ },
+ "charon/zhu1-3e2d.2": {
+  "gpt-4o-transcribe": "出",
+  "gpt-transcribe": "猪。"
+ },
+ "iapetus/dong1-520b.2": {
+  "gpt-4o-transcribe": "嗯",
+  "gpt-transcribe": "村。",
+  "forced": {
+   "dong4-b30d": [
+    "东",
+    "东。"
+   ],
+   "dong3-632b": [
+    "东。",
+    "懂"
+   ]
+  }
+ },
+ "iapetus/fan3wen4-2056.2": {
+  "gpt-4o-transcribe": "反论",
+  "gpt-transcribe": "反問。"
+ },
+ "iapetus/hui4-577c.2": {
+  "gpt-4o-transcribe": "灰",
+  "forced": {
+   "hui2-5b72": [
+    "会",
+    "会"
+   ]
+  }
+ },
+ "iapetus/jing4-f75f.2": {
+  "gpt-4o-transcribe": "性",
+  "gpt-transcribe": "静。"
+ },
+ "iapetus/kao4-3f86.2": {
+  "gpt-4o-transcribe": "靠"
+ },
+ "iapetus/li2-c76a.2": {
+  "gpt-4o-transcribe": "礼",
+  "forced": {
+   "li3-cdd2": [
+    "李",
+    "梨"
+   ]
+  }
+ },
+ "iapetus/lu4-de80.2": {
+  "gpt-4o-transcribe": "路"
+ },
+ "iapetus/lv4-5796.2": {
+  "gpt-4o-transcribe": "绿"
+ },
+ "iapetus/ma2-433e.2": {
+  "gpt-4o-transcribe": "妈",
+  "forced": {
+   "ma3-7d39": [
+    "麻",
+    "马"
+   ],
+   "ma1-e391": [
+    "妈。",
+    "妈"
+   ],
+   "ma4-6343": [
+    "骂",
+    "骂"
+   ]
+  }
+ },
+ "iapetus/mai2-2c49.2": {
+  "gpt-4o-transcribe": "买",
+  "forced": {
+   "mai3-b6c5": [
+    "买",
+    "买。"
+   ]
+  }
+ },
+ "iapetus/mi2-2ee7.2": {
+  "gpt-4o-transcribe": "米",
+  "forced": {
+   "mi3-ee7f": [
+    "米",
+    "米。"
+   ],
+   "mi4-d493": [
+    "密。",
+    "迷"
+   ]
+  }
+ },
+ "iapetus/na3-cd96.2": {
+  "gpt-4o-transcribe": "哪。"
+ },
+ "iapetus/nian4-13d0.2": {
+  "gpt-4o-transcribe": "念"
+ },
+ "iapetus/nu3-c530.2": {
+  "gpt-4o-transcribe": "挪。",
+  "gpt-transcribe": "努。"
+ },
+ "iapetus/nv3-26bc.2": {
+  "gpt-4o-transcribe": "女。"
+ },
+ "iapetus/wen2-176f.2": {
+  "gpt-4o-transcribe": "文。"
+ },
+ "iapetus/wu3-8f07.2": {
+  "gpt-4o-transcribe": "五"
+ },
+ "iapetus/xie3-144d.2": {
+  "gpt-4o-transcribe": "写。"
+ },
+ "iapetus/xie4-b27c.2": {
+  "gpt-4o-transcribe": "谢。"
+ },
+ "iapetus/xing4-003e.2": {
+  "gpt-4o-transcribe": "姓"
+ },
+ "iapetus/ying1-4956.2": {
+  "gpt-4o-transcribe": "音",
+  "gpt-transcribe": "英。"
+ },
+ "kore/da4xue3-7c72.2": {
+  "gpt-4o-transcribe": "大写",
+  "gpt-transcribe": "大雪。"
+ },
+ "kore/duo4-600c.1": {
+  "gpt-4o-transcribe": "多",
+  "forced": {
+   "dou4-d081": [
+    "剁。",
+    "剁"
+   ]
+  }
+ },
+ "kore/lai4-572f.2": {
+  "gpt-4o-transcribe": "赖"
+ },
+ "kore/lan4-43a5.1": {
+  "gpt-4o-transcribe": "烂"
+ },
+ "kore/lang4-a23e.2": {
+  "gpt-4o-transcribe": "浪"
+ },
+ "kore/mi4-d493.1": {
+  "gpt-4o-transcribe": "密"
+ },
+ "kore/nian4-13d0.1": {
+  "gpt-4o-transcribe": "念"
+ },
+ "kore/nu3-c530.2": {
+  "gpt-4o-transcribe": "挪",
+  "gpt-transcribe": "弩。"
+ },
+ "kore/qian4-bdc9.2": {
+  "gpt-4o-transcribe": "籤",
+  "forced": {
+   "qian2-073d": [
+    "欠",
+    "欠。"
+   ],
+   "jian4-d65f": [
+    "欠",
+    "欠"
+   ]
+  }
+ },
+ "kore/you3-fbd5.1": {
+  "gpt-4o-transcribe": "有"
+ },
+ "kore/zuo4-4a1e.1": {
+  "gpt-4o-transcribe": "坐"
+ },
+ "erinome/diao4-dd73.2": {
+  "gpt-4o-transcribe": "调",
+  "gpt-transcribe": "調。"
+ },
+ "erinome/ji2hui4-8f93.1": {
+  "gpt-4o-transcribe": "集会"
+ },
+ "erinome/kai1fang4-7506.1": {
+  "gpt-4o-transcribe": "开放"
+ },
+ "erinome/shang1hai4-69ac.1": {
+  "gpt-4o-transcribe": "伤害"
+ },
+ "charon/bao4-7bde.1": {
+  "gpt-4o-transcribe": "拨",
+  "gpt-transcribe": "鲍。"
+ },
+ "charon/dao3-4543.1": {
+  "gpt-4o-transcribe": "倒"
+ },
+ "charon/dou4-d081.2": {
+  "gpt-4o-transcribe": "哦。",
+  "gpt-transcribe": "O.",
+  "forced": {
+   "duo4-600c": [
+    "剁",
+    "剁"
+   ]
+  }
+ },
+ "charon/kuan1-6395.1": {
+  "gpt-4o-transcribe": "宽"
+ },
+ "charon/ta4-08ce.1": {
+  "gpt-4o-transcribe": "他",
+  "forced": {
+   "da4-0889": [
+    "踏",
+    "踏。"
+   ]
+  }
+ },
+ "charon/wan4-0d3b.1": {
+  "gpt-4o-transcribe": "玩",
+  "forced": {
+   "wan3-7c0f": [
+    "晚。",
+    "晚。"
+   ],
+   "yuan4-ead6": [
+    "万",
+    "万"
+   ]
+  }
+ },
+ "charon/xi4-6a00.1": {
+  "gpt-4o-transcribe": "稀",
+  "forced": {
+   "xi1-2f64": [
+    "细",
+    "细"
+   ]
+  }
+ },
+ "iapetus/hu3-e3b6.1": {
+  "gpt-4o-transcribe": "虎"
+ },
+ "iapetus/shu4-7803.1": {
+  "gpt-4o-transcribe": "树"
+ },
+ "iapetus/shui3-8ffb.1": {
+  "gpt-4o-transcribe": "水"
+ },
+ "kore/mi4-d493.2": {
+  "gpt-4o-transcribe": "咪",
+  "forced": {
+   "mi3-ee7f": [
+    "密",
+    "米"
+   ],
+   "mi2-2ee7": [
+    "迷",
+    "迷"
+   ]
+  }
+ },
+ "kore/nian4-13d0.2": {
+  "gpt-4o-transcribe": "念"
+ },
+ "charon/ta4-08ce.2": {
+  "gpt-4o-transcribe": "他",
+  "forced": {
+   "da4-0889": [
+    "踏",
+    "踏"
+   ]
+  }
+ },
+ "charon/xi4-6a00.2": {
+  "gpt-4o-transcribe": "戏"
+ },
+ "kore/wan2-d0ae.1": {
+  "gpt-4o-transcribe": "玩"
+ },
+ "kore/wan3-7c0f.1": {
+  "gpt-4o-transcribe": "完",
+  "forced": {
+   "wan2-0830": [
+    "完",
+    "完。"
+   ],
+   "wan4-0d3b": [
+    "晚",
+    "晚"
+   ],
+   "wang3-4ad9": [
+    "晚",
+    "晚"
+   ],
+   "yuan3-e733": [
+    "晚。",
+    "晚"
+   ]
+  }
+ },
+ "kore/wan4-0d3b.1": {
+  "gpt-4o-transcribe": "万"
+ },
+ "erinome/lv4-5796.2": {
+  "gpt-4o-transcribe": "李",
+  "gpt-transcribe": "力。",
+  "forced": {
+   "lu4-de80": [
+    "绿。",
+    "绿"
+   ]
+  }
+ },
+ "erinome/wan2-d0ae.1": {
+  "gpt-4o-transcribe": "碗",
+  "forced": {
+   "yuan2-aeb0": [
+    "玩",
+    "玩"
+   ]
+  }
+ },
+ "erinome/wan3-7c0f.1": {
+  "gpt-4o-transcribe": "碗"
+ },
+ "erinome/wan4-0d3b.1": {
+  "gpt-4o-transcribe": "晚",
+  "forced": {
+   "wan3-7c0f": [
+    "万",
+    "万"
+   ],
+   "yuan4-ead6": [
+    "万",
+    "万"
+   ]
+  }
+ },
+ "charon/wan2-d0ae.1": {
+  "gpt-4o-transcribe": "玩"
+ },
+ "charon/wan3-7c0f.2": {
+  "gpt-4o-transcribe": "碗"
+ },
+ "charon/wan4-0d3b.2": {
+  "gpt-4o-transcribe": "万"
+ },
+ "iapetus/wan2-d0ae.1": {
+  "gpt-4o-transcribe": "碗",
+  "forced": {
+   "yuan2-aeb0": [
+    "玩",
+    "玩"
+   ]
+  }
+ },
+ "iapetus/wan3-7c0f.2": {
+  "gpt-4o-transcribe": "碗。"
+ },
+ "iapetus/wan4-0d3b.1": {
+  "gpt-4o-transcribe": "one",
+  "gpt-transcribe": "one.",
+  "forced": {
+   "wan3-7c0f": [
+    "万",
+    "万"
+   ],
+   "yuan4-ead6": [
+    "万",
+    "万"
+   ]
+  }
+ },
+ "kore/wan2-d0ae.2": {
+  "gpt-4o-transcribe": "玩"
+ },
+ "kore/wan3-7c0f.2": {
+  "gpt-4o-transcribe": "玩",
+  "forced": {
+   "wan2-0830": [
+    "晚",
+    "晚"
+   ],
+   "wan4-0d3b": [
+    "晚",
+    "晚"
+   ],
+   "wang3-4ad9": [
+    "晚",
+    "晚。"
+   ],
+   "yuan3-e733": [
+    "晚。",
+    "晚"
+   ]
+  }
+ },
+ "kore/wan4-0d3b.2": {
+  "gpt-4o-transcribe": "玩",
+  "forced": {
+   "wan3-7c0f": [
+    "万",
+    "晚"
+   ],
+   "yuan4-ead6": [
+    "万",
+    "万"
+   ]
+  }
+ },
+ "erinome/wan2-d0ae.2": {
+  "gpt-4o-transcribe": "玩"
+ },
+ "erinome/wan3-7c0f.2": {
+  "gpt-4o-transcribe": "晚"
+ },
+ "erinome/wan4-0d3b.2": {
+  "gpt-4o-transcribe": "1",
+  "gpt-transcribe": "One.",
+  "forced": {
+   "wan3-7c0f": [
+    "万",
+    "万"
+   ],
+   "yuan4-ead6": [
+    "万",
+    "万"
+   ]
+  }
+ },
+ "charon/wan2-d0ae.2": {
+  "gpt-4o-transcribe": "玩"
+ },
+ "iapetus/wan2-d0ae.2": {
+  "gpt-4o-transcribe": "玩"
+ },
+ "iapetus/wan4-0d3b.2": {
+  "gpt-4o-transcribe": "完",
+  "forced": {
+   "wan3-7c0f": [
+    "万",
+    "万"
+   ],
+   "yuan4-ead6": [
+    "万",
+    "万"
+   ]
+  }
+ },
+ "kore/wu2-7207.1": {
+  "gpt-4o-transcribe": "乌",
+  "forced": {
+   "yu2-9246": [
+    "无",
+    "无"
+   ]
+  }
+ }
+}

@@ -1,0 +1,21 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next/
+/out/
+next-env.d.ts
+*.tsbuildinfo
+
+# env files (keys live in .env.local only)
+.env*
+!.env.example
+
+# generation scratch: raw WAVs before encoding, probe output
+/scripts/work/
+
+# misc
+.DS_Store
+*.pem
+npm-debug.log*
+/public/review/

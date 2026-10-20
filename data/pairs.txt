@@ -1,0 +1,328 @@
+# Minimal pairs: two everyday words that differ in one thing only.
+#   漢字 pinyin（音節ごとに空白、声調記号つき、軽声は記号なし） 日本語の意味 | もう一方
+# The same word may appear in several families; after its first appearance its meaning can be left out.
+# "## <family id>" starts a family; scripts/check-data.mjs checks that every pair really is that kind of pair
+# (tones are compared as said, after sandhi) and that the pinyin agrees with the dictionary.
+# Avoid characters with two common readings when they stand alone (长 行 得 乐 都 好 重 干 差 处 将 血 薄 …).
+
+## t14
+汤 tāng スープ | 烫 tàng 熱い
+八 bā 八 | 爸 bà お父さん
+妈 mā お母さん | 骂 mà 叱る
+书 shū 本 | 树 shù 木
+鸡 jī 鶏 | 记 jì 覚える
+七 qī 七 | 气 qì 空気
+包 bāo かばん | 抱 bào 抱く
+西 xī 西 | 细 xì 細い
+花 huā 花 | 话 huà 話
+飞 fēi 飛ぶ | 费 fèi 費用
+歌 gē 歌 | 个 gè 〜個
+腰 yāo 腰 | 药 yào 薬
+灯 dēng 明かり | 凳 dèng 腰かけ
+刀 dāo ナイフ | 到 dào 着く
+心 xīn 心 | 信 xìn 手紙
+生 shēng 生の | 剩 shèng 余る
+东 dōng 東 | 动 dòng 動く
+家 jiā 家 | 嫁 jià 嫁ぐ
+杯子 bēi zi コップ | 被子 bèi zi 掛け布団
+包子 bāo zi 肉まん | 豹子 bào zi ヒョウ
+教师 jiào shī 教師 | 教室 jiào shì 教室
+老师 lǎo shī 先生 | 老是 lǎo shì いつも
+实际 shí jì 実際 | 时机 shí jī タイミング
+
+## t23
+糖 táng 砂糖 | 躺 tǎng 横になる
+埋 mái 埋める | 买 mǎi 買う
+麻 má しびれる | 马 mǎ 馬
+鱼 yú 魚 | 雨 yǔ 雨
+油 yóu 油 | 有 yǒu ある
+迷 mí 迷う | 米 mǐ 米
+急 jí 急ぐ | 几 jǐ いくつ
+十 shí 十 | 使 shǐ 使う
+牛 niú 牛 | 扭 niǔ ひねる
+钱 qián お金 | 浅 qiǎn 浅い
+盐 yán 塩 | 眼 yǎn 目
+学 xué 学ぶ | 雪 xuě 雪
+鞋 xié 靴 | 写 xiě 書く
+读 dú 読む | 堵 dǔ ふさがる
+王 wáng 王 | 网 wǎng ネット
+白 bái 白い | 百 bǎi 百
+拔 bá 抜く | 把 bǎ 〜を
+骑 qí 乗る | 起 qǐ 起きる
+拿 ná 持つ | 哪 nǎ どれ
+牙 yá 歯 | 哑 yǎ 声が出ない
+床 chuáng ベッド | 闯 chuǎng 飛び込む
+蓝 lán 青い | 懒 lǎn 怠ける
+留 liú 残る | 柳 liǔ 柳
+人 rén 人 | 忍 rěn 我慢する
+闻 wén においをかぐ | 吻 wěn キスする
+完 wán 終わる | 晚 wǎn 遅い
+梨 lí 梨 | 李 lǐ スモモ
+大学 dà xué 大学 | 大雪 dà xuě 大雪
+同志 tóng zhì 同志 | 统治 tǒng zhì 統治
+有钱 yǒu qián お金持ち | 油钱 yóu qián ガソリン代
+
+## t12
+汤 tāng | 糖 táng
+妈 mā | 麻 má
+八 bā | 拔 bá
+鸡 jī | 急 jí
+喝 hē 飲む | 河 hé 川
+天 tiān 空 | 甜 tián 甘い
+猫 māo 猫 | 毛 máo 毛
+烟 yān たばこ | 盐 yán
+花 huā | 滑 huá 滑る
+秋 qiū 秋 | 球 qiú ボール
+窗 chuāng 窓 | 床 chuáng
+方 fāng 四角い | 房 fáng 部屋
+偷 tōu 盗む | 头 tóu 頭
+多 duō 多い | 夺 duó 奪う
+七 qī | 骑 qí
+鲜 xiān 新鮮な | 闲 xián 暇な
+飞 fēi | 肥 féi 太った
+通 tōng 通じる | 同 tóng 同じ
+抽 chōu 吸う | 愁 chóu 悩む
+机会 jī huì 機会 | 集会 jí huì 集会
+
+## t34
+买 mǎi | 卖 mài 売る
+马 mǎ | 骂 mà
+躺 tǎng | 烫 tàng
+米 mǐ | 密 mì 密な
+几 jǐ | 记 jì
+有 yǒu | 又 yòu また
+雨 yǔ | 玉 yù 玉
+起 qǐ | 气 qì
+写 xiě | 谢 xiè 感謝する
+晚 wǎn | 万 wàn 万
+跑 pǎo 走る | 泡 pào 浸す
+想 xiǎng 思う | 像 xiàng 似ている
+等 děng 待つ | 凳 dèng
+水 shuǐ 水 | 睡 shuì 寝る
+九 jiǔ 九 | 旧 jiù 古い
+早 zǎo 早い | 造 zào 造る
+远 yuǎn 遠い | 院 yuàn 中庭
+饱 bǎo おなかいっぱい | 抱 bào
+小 xiǎo 小さい | 笑 xiào 笑う
+考 kǎo 試験を受ける | 靠 kào もたれる
+五 wǔ 五 | 雾 wù 霧
+讲 jiǎng 話す | 酱 jiàng みそ
+打 dǎ 打つ | 大 dà 大きい
+手 shǒu 手 | 受 shòu 受ける
+喜 xǐ 喜ぶ | 戏 xì 芝居
+比 bǐ 比べる | 闭 bì 閉じる
+美丽 měi lì 美しい | 魅力 mèi lì 魅力
+语言 yǔ yán 言語 | 预言 yù yán 予言
+
+## t24
+麻 má | 骂 mà
+糖 táng | 烫 tàng
+鞋 xié | 谢 xiè
+拔 bá | 爸 bà
+急 jí | 记 jì
+鱼 yú | 玉 yù
+油 yóu | 又 yòu
+骑 qí | 气 qì
+迷 mí | 密 mì
+题 tí 問題 | 替 tì 代わる
+读 dú | 度 dù 度
+来 lái 来る | 赖 lài 頼る
+头 tóu | 透 tòu 透ける
+前 qián 前 | 欠 qiàn 借りがある
+王 wáng | 忘 wàng 忘れる
+拿 ná | 那 nà あれ
+年 nián 年 | 念 niàn 声に出して読む
+白 bái | 拜 bài 拝む
+房 fáng | 放 fàng 置く
+回 huí 帰る | 会 huì できる
+城市 chéng shì 都市 | 诚实 chéng shí 誠実
+主人 zhǔ rén 主人 | 主任 zhǔ rèn 主任
+鸭梨 yā lí 梨 | 压力 yā lì プレッシャー
+
+## t13
+汤 tāng | 躺 tǎng
+妈 mā | 马 mǎ
+八 bā | 把 bǎ
+鸡 jī | 几 jǐ
+七 qī | 起 qǐ
+烟 yān | 眼 yǎn
+西 xī | 洗 xǐ 洗う
+包 bāo | 饱 bǎo
+抽 chōu | 丑 chǒu 醜い
+灯 dēng | 等 děng
+刀 dāo | 岛 dǎo 島
+高 gāo 高い | 搞 gǎo やる
+天 tiān | 舔 tiǎn なめる
+星 xīng 星 | 醒 xǐng 目が覚める
+生 shēng | 省 shěng 節約する
+窗 chuāng | 闯 chuǎng
+东 dōng | 懂 dǒng 分かる
+腰 yāo | 咬 yǎo かむ
+鸭 yā アヒル | 哑 yǎ
+多 duō | 躲 duǒ 隠れる
+搬 bān 運ぶ | 板 bǎn 板
+中 zhōng 中 | 肿 zhǒng 腫れる
+
+## tw
+睡觉 shuì jiào 寝る | 水饺 shuǐ jiǎo 水餃子
+练习 liàn xí 練習 | 联系 lián xì 連絡
+上海 shàng hǎi 上海 | 伤害 shāng hài 傷つける
+时间 shí jiān 時間 | 事件 shì jiàn 事件
+问题 wèn tí 問題 | 文体 wén tǐ 文体
+熊猫 xióng māo パンダ | 胸毛 xiōng máo 胸毛
+北京 běi jīng 北京 | 背景 bèi jǐng 背景
+
+## asp
+爸 bà | 怕 pà 怖がる
+饱 bǎo | 跑 pǎo
+白 bái | 牌 pái 札
+大 dà | 踏 tà 踏む
+肚子 dù zi おなか | 兔子 tù zi ウサギ
+低 dī 低い | 梯 tī はしご
+掉 diào 落ちる | 跳 tiào 跳ぶ
+到 dào | 套 tào カバー
+弟 dì 弟 | 替 tì
+多 duō | 拖 tuō 引きずる
+读 dú | 图 tú 図
+哥 gē 兄 | 科 kē 科
+狗 gǒu 犬 | 口 kǒu 口
+怪 guài 変な | 快 kuài 速い
+古 gǔ 古い | 苦 kǔ 苦い
+关 guān 閉める | 宽 kuān 広い
+鸡 jī | 七 qī
+见 jiàn 会う | 欠 qiàn
+金 jīn 金 | 亲 qīn 親しい
+早 zǎo | 草 cǎo 草
+在 zài いる | 菜 cài 料理
+字 zì 字 | 次 cì 〜回
+坐 zuò 座る | 错 cuò 間違い
+找 zhǎo 探す | 炒 chǎo 炒める
+猪 zhū 豚 | 出 chū 出る
+中 zhōng | 冲 chōng 突き進む
+纸 zhǐ 紙 | 尺 chǐ 物差し
+交 jiāo 渡す | 敲 qiāo たたく
+粗 cū 太い | 租 zū 借りる
+
+## retro
+四 sì 四 | 是 shì 〜である
+三 sān 三 | 山 shān 山
+早 zǎo | 找 zhǎo
+粗 cū | 出 chū
+丝 sī 糸 | 诗 shī 詩
+擦 cā 拭く | 插 chā 挿す
+层 céng 〜階 | 成 chéng 〜になる
+增 zēng 増える | 争 zhēng 争う
+扫 sǎo 掃く | 少 shǎo 少ない
+草 cǎo | 吵 chǎo うるさい
+走 zǒu 歩く | 肘 zhǒu ひじ
+算 suàn 数える | 涮 shuàn しゃぶしゃぶにする
+岁 suì 〜歳 | 睡 shuì
+脏 zāng 汚い | 张 zhāng 〜枚
+村 cūn 村 | 春 chūn 春
+从 cóng 〜から | 虫 chóng 虫
+才 cái やっと | 柴 chái たきぎ
+词 cí 単語 | 迟 chí 遅れる
+私人 sī rén 個人の | 诗人 shī rén 詩人
+三角 sān jiǎo 三角 | 山脚 shān jiǎo 山のふもと
+
+## pal
+鸡 jī | 知 zhī 知る
+西 xī | 诗 shī
+七 qī | 吃 chī 食べる
+小 xiǎo | 少 shǎo
+洗 xǐ | 使 shǐ
+钱 qián | 缠 chán まとわりつく
+先 xiān 先に | 山 shān
+想 xiǎng | 赏 shǎng 眺めて楽しむ
+心 xīn | 身 shēn 体
+星 xīng | 生 shēng
+金 jīn | 真 zhēn 本当に
+句 jù 文 | 住 zhù 住む
+鞋 xié | 蛇 shé 蛇
+九 jiǔ | 肘 zhǒu
+秋 qiū | 抽 chōu
+球 qiú | 愁 chóu
+消 xiāo 消える | 烧 shāo 焼く
+吸 xī 吸い込む | 湿 shī 湿った
+戏 xì | 是 shì
+几 jǐ | 纸 zhǐ
+
+## nng
+山 shān | 伤 shāng 傷
+饭 fàn ごはん | 放 fàng
+班 bān クラス | 帮 bāng 手伝う
+盘 pán 大皿 | 旁 páng そば
+晚 wǎn | 网 wǎng
+船 chuán 船 | 床 chuáng
+关 guān | 光 guāng 光
+心 xīn | 星 xīng
+信 xìn | 姓 xìng 名字
+音 yīn 音 | 鹰 yīng 鷹
+进 jìn 入る | 静 jìng 静かな
+林 lín 林 | 零 líng ゼロ
+真 zhēn | 争 zhēng
+身 shēn | 生 shēng
+分 fēn 分 | 风 fēng 風
+见 jiàn | 酱 jiàng
+钱 qián | 墙 qiáng 壁
+先 xiān | 香 xiāng いい香り
+完 wán | 王 wáng
+盐 yán | 羊 yáng 羊
+眼 yǎn | 养 yǎng 飼う
+烂 làn 腐った | 浪 làng 波
+蓝 lán | 狼 láng オオカミ
+半 bàn 半分 | 棒 bàng すごい
+开饭 kāi fàn ごはんにする | 开放 kāi fàng 開放する
+反问 fǎn wèn 問い返す | 访问 fǎng wèn 訪問する
+陈旧 chén jiù 古びた | 成就 chéng jiù 成果
+木船 mù chuán 木の船 | 木床 mù chuáng 木のベッド
+弹琴 tán qín ピアノを弾く | 谈情 tán qíng 恋を語る
+金鱼 jīn yú 金魚 | 鲸鱼 jīng yú クジラ
+人民 rén mín 人民 | 人名 rén míng 人名
+
+## uv
+女 nǚ 女の | 努 nǔ 努める
+绿 lǜ 緑の | 路 lù 道
+驴 lǘ ロバ | 炉 lú 炉
+鱼 yú | 无 wú ない
+雨 yǔ | 五 wǔ
+玉 yù | 雾 wù
+远 yuǎn | 晚 wǎn
+院 yuàn | 万 wàn
+圆 yuán 丸い | 玩 wán 遊ぶ
+
+## rl
+肉 ròu 肉 | 漏 lòu 漏れる
+让 ràng 譲る | 浪 làng
+入 rù 入る | 路 lù
+软 ruǎn 柔らかい | 卵 luǎn 卵
+燃 rán 燃える | 蓝 lán
+容 róng 入れる | 龙 lóng 竜
+揉 róu もむ | 楼 lóu 建物
+
+## fh
+飞 fēi | 黑 hēi 黒い
+福 fú 福 | 湖 hú 湖
+饭 fàn | 汗 hàn 汗
+风 fēng | 哼 hēng 鼻歌を歌う
+粉 fěn 粉 | 狠 hěn ひどい
+发 fā 送る | 哈 hā はは（笑い声）
+夫 fū 夫 | 呼 hū 息を吐く
+斧 fǔ 斧 | 虎 hǔ 虎
+份 fèn 〜人前 | 恨 hèn 恨む
+
+## ouuo
+走 zǒu | 左 zuǒ 左
+豆 dòu 豆 | 剁 duò 刻む
+偷 tōu | 拖 tuō
+楼 lóu | 锣 luó どら
+收 shōu 受け取る | 说 shuō 話す
+够 gòu 足りる | 过 guò 過ぎる
+肉 ròu | 弱 ruò 弱い
+后 hòu 後ろ | 货 huò 品物
+搜 sōu 探す | 缩 suō 縮む
+凑 còu 寄せ集める | 错 cuò
+周 zhōu 週 | 桌 zhuō 机
+抽 chōu | 戳 chuō 突く
+狗 gǒu | 果 guǒ 果物
+猴 hóu 猿 | 活 huó 生きる
