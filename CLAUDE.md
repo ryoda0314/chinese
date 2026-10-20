@@ -65,7 +65,9 @@ no streaks, no badges, no forced review, no tone theory up front. The sister app
 
 ## The app
 
-- `/` intro (static). `/app` the rain (`src/app/app/_rain/`): `Rain.tsx` runs it; `Compare` (pairs fall, each word said
+- `/` intro (static). `/app` the rain (`src/app/app/_rain/`): `Rain.tsx` runs it, with `Steps` on top (the steps on a
+  track with an icon each: done ones checked in the accent, this one lit, those ahead faint; 文の中で only when there are
+  sentences); `Compare` (pairs fall, each word said
   in turn, a voice per pair; pressing a word settles them and says it in the next voice), `Tell` (12 questions, the answer
   at once with both lines in that voice; right answers move on after 1.6 s, wrong ones wait), `Reveal` (the difference's
   name and how it is made, only now; owed pairs in the again violet), `Sentences` (ことのあめ sentences with the word lit,

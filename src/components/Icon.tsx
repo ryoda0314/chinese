@@ -1,4 +1,4 @@
-type IconName = "speaker" | "mic" | "back" | "arrow" | "shower" | "user" | "check" | "replay";
+type IconName = "speaker" | "mic" | "back" | "arrow" | "shower" | "user" | "check" | "replay" | "pair" | "ear" | "lines";
 
 const PATHS: Record<IconName, React.ReactNode> = {
   speaker: (
@@ -16,6 +16,22 @@ const PATHS: Record<IconName, React.ReactNode> = {
     </>
   ),
   back: <path d="M15 18l-6-6 6-6" />,
+  // 聞き比べる: two words side by side.
+  pair: (
+    <>
+      <rect x="3" y="6" width="8" height="12" rx="2" />
+      <rect x="13" y="6" width="8" height="12" rx="2" />
+    </>
+  ),
+  // 聞き分ける: an ear.
+  ear: (
+    <>
+      <path d="M7 9.5a5 5 0 0 1 10 0c0 3.2-3 4-3 6.8a3 3 0 0 1-5.6 1.4" />
+      <path d="M10 10a2 2 0 0 1 4 0c0 1.6-1.6 2-1.6 3.4" />
+    </>
+  ),
+  // 文の中で: lines of text.
+  lines: <path d="M4 7h16M4 12h16M4 17h10" />,
   arrow: (
     <>
       <path d="M5 12h14" />

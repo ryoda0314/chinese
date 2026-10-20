@@ -18,6 +18,7 @@ import {
 import { saveState } from "@/lib/store";
 import { syncRecord } from "@/lib/sync";
 import { Compare } from "./Compare";
+import { Steps } from "./Steps";
 import { Reveal } from "./Reveal";
 import { Say } from "./Say";
 import { Sentences, sentencesFor } from "./Sentences";
@@ -27,7 +28,7 @@ import styles from "./rain.module.css";
 type Step = "compare" | "tell" | "reveal" | "sentences" | "say";
 type Loaded = { id: number; index: Index; family: FamilyData; pairs: PairData[]; trials: Trial[] };
 
-const STEPS: { step: Step | "reveal"; label: string }[] = [
+const STEPS: { step: Exclude<Step, "reveal">; label: string }[] = [
   { step: "compare", label: ja.steps.compare },
   { step: "tell", label: ja.steps.tell },
   { step: "sentences", label: ja.steps.sentences },
@@ -116,13 +117,7 @@ export function Rain() {
 
   return (
     <div className={styles.page}>
-      <ol className={styles.steps} aria-label="この雨の流れ">
-        {STEPS.filter((s) => s.step !== "sentences" || sentences.length).map((s) => (
-          <li key={s.step} aria-current={s.step === current ? "step" : undefined}>
-            {s.label}
-          </li>
-        ))}
-      </ol>
+      <Steps steps={STEPS.filter((s) => s.step !== "sentences" || sentences.length)} current={current} />
 
       {step === "compare" ? (
         <Compare key={rainId} family={family} pairs={pairs} onDone={() => setStep("tell")} />

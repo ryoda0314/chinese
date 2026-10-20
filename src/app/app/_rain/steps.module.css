@@ -1,0 +1,71 @@
+/* The steps of a rain on a track: done steps checked in the accent, this one lit, those ahead faint. Hairlines and one
+   accent, as everywhere; no shadows (the lit node's halo is an outline). */
+.steps {
+  display: grid;
+  margin: 0;
+  padding: 4px 0 16px;
+  list-style: none;
+  border-bottom: 1px solid var(--line);
+}
+
+.step { position: relative; display: flex; flex-direction: column; align-items: center; gap: 8px; min-width: 0; }
+
+/* The track: from the middle of the step before to the middle of this one, behind the nodes. */
+.step + .step::before {
+  content: "";
+  position: absolute;
+  top: 19px;
+  right: 50%;
+  width: 100%;
+  height: 2px;
+  background: var(--line-2);
+}
+.step[data-state="done"] + .step::before,
+.step[data-state="now"]::before { background: var(--accent); }
+.step[data-state="next"]::before { background: var(--line-2); }
+
+.node {
+  position: relative;
+  z-index: 1;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--line-2);
+  background: var(--paper);
+  color: var(--faint);
+  transition: background 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+.step[data-state="done"] .node { border-color: var(--accent); background: var(--accent); color: #fff; }
+.step[data-state="now"] .node {
+  border-color: var(--accent);
+  background: var(--tint);
+  color: var(--accent);
+  outline: 4px solid var(--tint);
+  outline-offset: 2px;
+}
+
+.label {
+  display: flex;
+  align-items: baseline;
+  gap: 4px;
+  max-width: 100%;
+  font-size: 12px;
+  line-height: 1.3;
+  color: var(--faint);
+  text-align: center;
+  white-space: nowrap;
+}
+.number { font-family: var(--font-en); font-size: 11px; }
+.step[data-state="done"] .label { color: var(--ink-2); }
+.step[data-state="now"] .label { color: var(--accent); font-weight: 600; }
+
+@media (min-width: 720px) {
+  .label { font-size: 14px; }
+  .number { font-size: 12px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .node { transition: none; }
+}

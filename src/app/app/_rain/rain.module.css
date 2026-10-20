@@ -3,8 +3,6 @@
 
 .page { display: flex; flex-direction: column; gap: 24px; padding: 16px 20px 40px; }
 
-.steps { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 0; padding: 0 0 12px; list-style: none; border-bottom: 1px solid var(--line); font-size: 13px; color: var(--faint); }
-.steps li[aria-current] { color: var(--accent); font-weight: 600; }
 
 .lead { margin: 0; font-size: 15px; line-height: 1.75; color: var(--muted); }
 .center { display: flex; flex-direction: column; align-items: center; gap: 16px; padding: 48px 0; text-align: center; color: var(--muted); }
