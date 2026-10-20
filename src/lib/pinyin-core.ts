@@ -208,3 +208,22 @@ export function classifyPair(a: Word, b: Word): PairKind | null {
   const contrast = segmentContrast(sa[i], sb[i]);
   return contrast ? { contrast, at: [i] } : null;
 }
+
+const FAMILY_OF: Record<Exclude<Contrast, "tone">, string> = {
+  aspiration: "asp",
+  retroflex: "retro",
+  palatal: "pal",
+  "n-ng": "nng",
+  "u-ü": "uv",
+  "r-l": "rl",
+  "f-h": "fh",
+  "ou-uo": "ouuo",
+};
+
+/** The difference (family id) a pair belongs to: t23 for a 2/3 tone pair, tw for two tones apart, nng, asp … */
+export function familyOfPair(kind: PairKind): string {
+  if (kind.contrast !== "tone") return FAMILY_OF[kind.contrast];
+  if (kind.at.length > 1) return "tw";
+  const pair = [kind.surface![0][0], kind.surface![1][0]].sort();
+  return pair.includes(5) ? "t5" : `t${pair[0]}${pair[1]}`;
+}

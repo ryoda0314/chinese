@@ -4,7 +4,17 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { preload, stop } from "@/components/player";
 import { audioUrl, type FamilyData, type Index, type PairData } from "@/lib/data";
 import { ja } from "@/lib/i18n/ja";
-import { finishRain, makeTrials, nextFamily, pickPairs, recordAnswer, type State, type Trial } from "@/lib/rain-core";
+import { logRain } from "@/lib/log-core";
+import {
+  finishRain,
+  makeTrials,
+  nextFamily,
+  pairKey,
+  pickPairs,
+  recordAnswer,
+  type State,
+  type Trial,
+} from "@/lib/rain-core";
 import { saveState } from "@/lib/store";
 import { syncRecord } from "@/lib/sync";
 import { Compare } from "./Compare";
@@ -114,7 +124,9 @@ export function Rain() {
         ))}
       </ol>
 
-      {step === "compare" ? <Compare key={rainId} family={family} pairs={pairs} onDone={() => setStep("tell")} /> : null}
+      {step === "compare" ? (
+        <Compare key={rainId} family={family} pairs={pairs} onDone={() => setStep("tell")} />
+      ) : null}
 
       {step === "tell" ? (
         <Tell
@@ -126,8 +138,14 @@ export function Rain() {
             if (!right) setMissed((m) => (m.includes(pair) ? m : [...m, pair]));
           }}
           onDone={() => {
-            const done = finishRain(state.current as State, family.id, Date.now());
-            update(done.state);
+            const now = Date.now();
+            const before = state.current as State;
+            // Mixed up in this rain: missed since it began.
+            const keys = pairs.map(pairKey);
+            const missedKeys = keys.filter((k) => (before.pairs[k]?.lastMissAt ?? 0) >= rainId);
+            const done = finishRain(before, family.id, now);
+            const entry = { at: now, family: family.id, pairs: keys, missed: missedKeys };
+            update({ ...done.state, log: logRain(done.state.log, entry) });
             setSplit(done.split);
             setStep("reveal");
           }}

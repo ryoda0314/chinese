@@ -8,6 +8,7 @@
  */
 import type { FamilyData, PairData } from "./data.ts";
 import type { FamilyId } from "./i18n/ja.ts";
+import { mergeLogs, type Log } from "./log-core.ts";
 
 export const DAY = 86_400_000;
 export const RETURN_DAYS = 1;
@@ -33,6 +34,8 @@ export type State = {
   pairs: Record<string, PairState>;
   /** The learner's own pitch, one estimate per recording (semitones above 100 Hz at their level 3). */
   voice: number[];
+  /** What they did, for looking back (src/lib/log-core.ts). Absent in records made before it existed. */
+  log?: Log;
 };
 
 export const emptyState = (): State => ({ v: 1, rains: 0, families: {}, pairs: {}, voice: [] });
@@ -202,5 +205,6 @@ export function mergeStates(a: State, b: State): State {
     families,
     pairs,
     voice: b.voice.length > a.voice.length ? b.voice : a.voice,
+    ...(a.log || b.log ? { log: mergeLogs(a.log, b.log) } : {}),
   };
 }

@@ -3,8 +3,11 @@ import styles from "./PitchLines.module.css";
 
 export type DrawnLine = {
   line: Line;
-  /** model: a model voice, in ink. own: the learner's voice, in the accent. other: the word it is paired with, faint. */
-  kind: "model" | "own" | "other" | "answer";
+  /**
+   * model: a model voice, in ink. own: the learner's voice, in the accent. other: the word it is paired with, faint and
+   * dashed. answer: the right word in 聞き分ける. past: an earlier line of the learner's, faint.
+   */
+  kind: "model" | "own" | "other" | "answer" | "past";
 };
 
 const W = 320;
@@ -58,4 +61,4 @@ export function PitchLines({ lines, label, compact = false }: { lines: DrawnLine
   );
 }
 
-const order = (k: DrawnLine["kind"]) => ({ other: 0, model: 1, answer: 2, own: 3 })[k];
+const order = (k: DrawnLine["kind"]) => ({ other: 0, past: 1, model: 2, answer: 3, own: 4 })[k];

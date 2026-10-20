@@ -7,20 +7,10 @@
 import { createHash } from "node:crypto";
 import { readFileSync, writeFileSync } from "node:fs";
 import { pinyin, polyphonic } from "pinyin-pro";
-import { classifyPair, numbered, parsePinyin } from "../src/lib/pinyin-core.ts";
+import { classifyPair, familyOfPair, numbered, parsePinyin } from "../src/lib/pinyin-core.ts";
 
 // Readings that differ from pinyin-pro's and were checked by hand.
 const AGREED = new Set(["包子|bāo zi", "肚子|dù zi"]);
-
-const FAMILY_OF = {
-  aspiration: "asp", retroflex: "retro", palatal: "pal", "n-ng": "nng", "u-ü": "uv", "r-l": "rl", "f-h": "fh", "ou-uo": "ouuo",
-};
-function familyOf(kind) {
-  if (kind.contrast !== "tone") return FAMILY_OF[kind.contrast];
-  if (kind.at.length > 1) return "tw";
-  const pair = [kind.surface[0][0], kind.surface[1][0]].sort();
-  return pair.includes(5) ? "t5" : `t${pair[0]}${pair[1]}`;
-}
 
 /** Stable ids: the pinyin with tone numbers, and four hex digits of the characters, so homophones never collide. */
 function wordId(hanzi, py) {
@@ -91,7 +81,7 @@ readFileSync("data/pairs.txt", "utf8")
     if (!a || !b) return;
     const kind = classifyPair(a, b);
     if (!kind) return errors.push(`line ${line}: ${a.hanzi} ${a.pinyin} / ${b.hanzi} ${b.pinyin} is not a minimal pair`);
-    const actual = familyOf(kind);
+    const actual = familyOfPair(kind);
     if (actual !== family) return errors.push(`line ${line}: ${a.hanzi}/${b.hanzi} is a ${actual} pair, listed under ${family}`);
     const pairKey = [a.id, b.id].sort().join("+");
     if (seenPairs.has(pairKey)) return errors.push(`line ${line}: ${a.hanzi}/${b.hanzi} is listed twice`);

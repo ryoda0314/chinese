@@ -51,6 +51,13 @@ no streaks, no badges, no forced review, no tone theory up front. The sister app
   every model voice (median). Held-out check on all the data: each model voice treated as a learner with one recording
   is put nearer the right word 1199 times in 1216 (7 wrong, 10 undecided, most of them 2声/3声); for u/ü by the vowel's
   frontness, 47 in 47.
+- `log-core.ts`: what the learner did, for looking back (`State.log`): each rain (when, difference, pairs asked and
+  mixed up) and each word said (its line, which word it was nearer, what it was heard as; never the recording).
+  Bounded (`RAINS_KEPT`; per word its first line and its latest, `SAID_KEPT` in all) so the record stays small in
+  `kn_records`; merged by entry with `mergeStates`. Days are Japan days. `export.ts`: the whole record as one Markdown
+  text for an AI of the learner's choice (学習の記録); no AI call. `pairs-file.ts`: reading and changing
+  `data/pairs.txt` for the admin (a removed pair is commented out `#外した`, its meaning moved on; a new pair is checked
+  to be a real pair of its difference).
 - `rain-core.ts`: which difference falls next (pairs due back first, then new ones in `ORDER`, then the least well
   heard), the pairs of a rain, the order of 聞き分ける, what an answer leaves behind. A mixed-up pair is owed and comes
   back after `RETURN_DAYS` or `RETURN_RAINS`; the day a once-mixed difference reaches `SPLIT` is kept (`splitAt`),
@@ -64,7 +71,21 @@ no streaks, no badges, no forced review, no tone theory up front. The sister app
   name and how it is made, only now; owed pairs in the again violet), `Sentences` (ことのあめ sentences with the word lit,
   its clip played from ことのあめ's public `pl-audio` bucket), `Say` (record → line over the model → `nearer` for tone
   pairs → `/api/hear`; for u/ü words the vowel's frontness against the nearest voice instead, and the recognizer is not
-  shown). `/app/me` 自分: rains per difference, the day it started to sound apart, pairs coming back.
+  shown). Each rain's end and each attempt are written to the log.
+- `/app/me` 自分 (looking back, `src/app/app/me/`, all client-side from the record, `useRecord` merges with the account):
+  これまで (own counts, never compared) and three views: 日ごと (rains, pairs mixed up, words said, per Japan day),
+  違いごと → `/app/me/d/[id]` (how it is made, the days it fell, its pairs as met: still owed, mixed before, never
+  mixed, and the not-yet-met folded away), 言ってみた → `/app/me/w/[id]` (the first line and the latest over the model
+  and the partner, every attempt, and SayCard to say it again). `/app/me/export` 学習の記録, `/app/me/settings`
+  記録とアカウント (account, what is kept, forget the lines, clear the record). No scores or rates anywhere: counts of
+  times met and mixed up are the learner's own history.
+- `/admin` (the maker's side, `src/app/admin/`, `src/lib/admin.ts`): only under `npm run dev` (`assertDev`; 404 in a
+  build), because the content is files in this repository and the raw takes are on this machine. 概要 (counts, what
+  waits, and the pipeline as buttons run one at a time with their log: 音声の合否を反映, 語の組を反映, 足りない音声を作る,
+  ことのあめの例文を取り直す), 確認待ちの音声 (each take as the app would play it, beside the other voices: これを使う →
+  `data/approved.json`, どれも使わない → `data/dismissed.json`), 語の組 (every pair with its voices, whether it is in
+  the app, its sentences; 外す, 足す, 意味を直す, all in `data/pairs.txt`). Its file paths carry
+  `/*turbopackIgnore: true*/` so a build does not trace the whole project.
 - `/login` (`src/app/login/`): ことのあめのアカウントでつなぐ. Email and password; Google only when
   `NEXT_PUBLIC_GOOGLE_CLIENT_ID` is set, which needs this app's addresses among that client's authorized JavaScript
   origins in Google Cloud (Google refuses the button otherwise). Accounts made with Google only set a password in

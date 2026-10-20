@@ -19,6 +19,8 @@ import {
 } from "@/lib/learner";
 import { trackPitch } from "@/lib/pitch";
 import type { State } from "@/lib/rain-core";
+import type { FamilyId } from "@/lib/i18n/ja";
+import { logSaid, setHeard, type SaidLog, type Verdict } from "@/lib/log-core";
 import { lineOf } from "@/lib/tone";
 import { frontness } from "@/lib/vowel";
 import { WordFace } from "./WordFace";
@@ -77,7 +79,7 @@ export function Say({
             key={word}
             word={family.words[word]}
             partner={family.words[partner]}
-            byTone={family.id.startsWith("t")}
+            family={family.id}
             voices={voices}
             getState={getState}
             update={update}
@@ -88,17 +90,18 @@ export function Say({
   );
 }
 
-function SayCard({
+/** One word to say: the model, a recording, its line over the model's, and what it sounded like. Kept in the log. */
+export function SayCard({
   word,
   partner,
-  byTone,
+  family,
   voices,
   getState,
   update,
 }: {
   word: WordData;
   partner: WordData;
-  byTone: boolean;
+  family: FamilyId;
   voices: VoiceInfo[];
   getState: () => State;
   update: (s: State) => void;
@@ -158,12 +161,24 @@ function SayCard({
       return;
     }
     const estimates = remember(s.voice, estimate);
-    update({ ...s, voice: estimates });
     const mid = learnerCenter(estimates) as number;
     const line = lineOf(frames, learnerLevels(mid, span));
     const verdict = nearer(line, word, partner).nearer;
     const voice = nearestVoice(voices, mid, Object.keys(word.lines));
     const vowel = vowelPair ? vowelNearer(frontness(rec.samples, rec.rate, frames, "middle"), mid) : undefined;
+    const at = Date.now();
+    const toWord: Verdict = verdict === "a" ? "word" : verdict === "b" ? "partner" : null;
+    // The line is kept for looking back (自分); the recording is not.
+    const said: SaidLog = {
+      at,
+      word: word.id,
+      partner: partner.id,
+      family,
+      line,
+      ...(byTone ? { nearer: toWord } : {}),
+      ...(vowel !== undefined ? { vowel } : {}),
+    };
+    update({ ...s, voice: estimates, log: logSaid(s.log, said) });
     setAttempt({
       kind: "done",
       line,
@@ -192,9 +207,14 @@ function SayCard({
       // stays unavailable
     }
     setAttempt((a) => (a.kind === "done" ? { ...a, heard } : a));
+    if (typeof heard === "object") {
+      const now = getState();
+      update({ ...now, log: setHeard(now.log, at, heard.text) });
+    }
   }
 
   const busy = attempt.kind === "listening" || attempt.kind === "analysing";
+  const byTone = family.startsWith("t");
 
   return (
     <li className={styles.sayCard}>

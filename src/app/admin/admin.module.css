@@ -1,0 +1,67 @@
+/* The maker's pages: plain, dense, the app's paper and ink. */
+.shell { max-width: 1080px; margin: 0 auto; padding: 24px 20px 64px; }
+.header { display: flex; flex-direction: column; gap: 8px; padding-bottom: 16px; border-bottom: 1.5px solid var(--ink); }
+.title { margin: 0; font-size: 20px; font-weight: 600; }
+.nav { display: flex; flex-wrap: wrap; gap: 4px 18px; font-size: 15px; }
+.nav a { color: var(--accent); text-underline-offset: 0.25em; }
+.note { margin: 0; font-size: 13px; color: var(--muted); }
+.main { display: flex; flex-direction: column; gap: 28px; padding-top: 24px; }
+
+.h1 { margin: 0; font-size: 22px; font-weight: 600; }
+.h2 { margin: 0; padding-top: 14px; border-top: 1px solid var(--line); font-size: 17px; font-weight: 600; }
+.lead { margin: 0; font-size: 14px; line-height: 1.7; color: var(--muted); }
+.section { display: flex; flex-direction: column; gap: 12px; }
+
+.stats { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; margin: 0; }
+.stats > div { padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; }
+.stats dt { font-size: 12px; color: var(--muted); }
+.stats dd { margin: 2px 0 0; font-size: 22px; font-weight: 500; font-family: var(--font-en); }
+.warn { margin: 0; padding: 10px 12px; border-left: 3px solid var(--again); background: var(--again-tint); font-size: 14px; }
+
+.jobs { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; }
+.job { display: flex; flex-direction: column; gap: 8px; padding: 12px; border: 1px solid var(--line-2); border-radius: 10px; }
+.job p { margin: 0; font-size: 13px; color: var(--muted); line-height: 1.6; }
+.log {
+  max-height: 320px; overflow: auto; margin: 0; padding: 12px; border-radius: 10px; background: var(--ink); color: #e8ecf3;
+  font-family: var(--font-mono), ui-monospace, monospace; font-size: 12px; line-height: 1.6; white-space: pre-wrap;
+}
+.status { font-size: 14px; font-weight: 600; }
+.status[data-state="failed"] { color: var(--danger); }
+.status[data-state="done"] { color: var(--accent); }
+
+.button {
+  min-height: 36px; padding: 0 12px; border: 1px solid var(--line-2); border-radius: 8px; background: var(--paper);
+  color: var(--ink); font-size: 13px; cursor: pointer;
+}
+.button:disabled { color: var(--faint); cursor: default; }
+.primary { border-color: var(--accent); background: var(--accent); color: #fff; }
+.danger { color: var(--danger); }
+
+.items { display: flex; flex-direction: column; margin: 0; padding: 0; list-style: none; }
+.item { display: flex; flex-direction: column; gap: 8px; padding: 14px 0; border-bottom: 1px solid var(--line); }
+.itemHead { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; }
+.zh { font-family: var(--font-zh); font-size: 22px; }
+.py { font-size: 14px; color: var(--ink-2); }
+.meta { font-size: 13px; color: var(--muted); }
+.why { margin: 0; font-size: 12px; color: var(--muted); overflow-wrap: anywhere; }
+.takes { display: flex; flex-direction: column; gap: 6px; }
+.take { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-size: 13px; }
+.take audio { height: 32px; }
+.tag { padding: 1px 8px; border-radius: 999px; background: var(--tint); color: var(--accent); font-size: 12px; }
+.tagAgain { padding: 1px 8px; border-radius: 999px; background: var(--again-tint); color: var(--again); font-size: 12px; }
+
+.family { display: flex; flex-direction: column; gap: 4px; }
+.pairRow { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 8px; padding: 6px 0; border-bottom: 1px solid var(--line); }
+.pairWords { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; font-size: 14px; }
+.pairWords .zh { font-size: 18px; }
+.out { opacity: 0.5; }
+
+.form { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; align-items: end; }
+.form label { display: flex; flex-direction: column; gap: 4px; font-size: 12px; color: var(--muted); }
+.form input, .form select {
+  min-height: 38px; padding: 0 10px; border: 1px solid var(--line-2); border-radius: 8px; background: var(--paper);
+  font-size: 15px; color: var(--ink);
+}
+.result { margin: 0; font-size: 14px; }
+.result[data-ok="true"] { color: var(--accent); }
+.result[data-ok="false"] { color: var(--danger); }
