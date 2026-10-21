@@ -94,7 +94,11 @@ no streaks, no badges, no forced review, no tone theory up front. The sister app
   origins in Google Cloud (Google refuses the button otherwise). Accounts made with Google only set a password in
   ことのあめ (パスワードを忘れた) to sign in here with email. 自分 shows the account, ログアウト, and 記録を消す (the
   account's copy too when signed in).
-- `src/components/player.ts`: Web Audio, decoded ahead, one sound at a time by generation number.
+- `src/components/player.ts`: Web Audio, decoded ahead, one sound at a time by generation number. Every play wakes a
+  held context (suspended, or iOS's interrupted) while still inside the tap; a clip whose context never runs gives up
+  after its length + 1.5 s; after the microphone the next sound gets a new context (`holdForMicrophone`, called by the
+  recorder); on Safari 17+ `navigator.audioSession` is playback (heard with the ringer switch off, as ことのあめ's
+  `<audio>` is) and play-and-record while recording.
   `recorder.ts`: AudioWorklet (`public/worklets/recorder.js`), no noise suppression (it bends pitch), stops itself 700 ms
   after the voice stops, 16 kHz WAV copy for `/api/hear`.
 

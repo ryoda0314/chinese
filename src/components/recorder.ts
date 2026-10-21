@@ -4,6 +4,8 @@
 // notices when the learner starts speaking, and stops by itself after they stop (or at the time limit). The samples
 // stay on the device for the pitch line; only a 16 kHz WAV copy is sent to be heard (/api/hear).
 
+import { holdForMicrophone } from "./player";
+
 export type Recording = { samples: Float32Array; rate: number };
 export type RecordError = "denied" | "missing" | "failed";
 
@@ -13,12 +15,15 @@ const FRAME_MS = 20;
 
 export async function record(onLevel?: (level: number) => void): Promise<Recording> {
   if (!navigator.mediaDevices?.getUserMedia || typeof AudioWorkletNode === "undefined") throw "missing" satisfies RecordError;
+  // Playback steps aside while the microphone is open, and comes back fresh after it (src/components/player.ts).
+  const release = holdForMicrophone();
   let stream: MediaStream;
   try {
     stream = await navigator.mediaDevices.getUserMedia({
       audio: { echoCancellation: false, noiseSuppression: false, autoGainControl: true, channelCount: 1 },
     });
   } catch (err) {
+    release();
     throw (err instanceof DOMException && err.name === "NotAllowedError" ? "denied" : "missing") satisfies RecordError;
   }
   const ctx = new AudioContext();
@@ -78,6 +83,7 @@ export async function record(onLevel?: (level: number) => void): Promise<Recordi
   } finally {
     stream.getTracks().forEach((t) => t.stop());
     void ctx.close();
+    release();
   }
 }
 
