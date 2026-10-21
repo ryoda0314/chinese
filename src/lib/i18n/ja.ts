@@ -8,7 +8,7 @@ export type FamilyId =
 const KOTONOAME_URL = (process.env.NEXT_PUBLIC_KOTONOAME_URL || "https://polylinga.vercel.app").replace(/\/$/, "");
 
 export const ja = {
-  name: "ことのね",
+  name: "ことのおと",
   kotonoame: { name: "ことのあめ", url: KOTONOAME_URL },
   description:
     "中国語の声調とピンインを、耳で聞き分けて、口で言えるように。1か所だけ違う語の組が、いくつもの声で降ってくる。聞き比べて、聞き分けて、言ってみる。",
@@ -168,14 +168,14 @@ export const ja = {
       reset: "この端末の記録を消す",
       resetConfirm: "この端末に残っている記録をすべて消します。よろしいですか？",
       resetLinked: "記録を消す",
-      resetLinkedConfirm: "この端末と、ことのあめのアカウントに残っている、ことのねの記録をすべて消します。よろしいですか？",
+      resetLinkedConfirm: "この端末と、ことのあめのアカウントに残っている、ことのおとの記録をすべて消します。よろしいですか？",
       done: "消しました。",
     },
   },
 
   login: {
     title: "ことのあめのアカウントでつなぐ",
-    lead: "ことのあめと同じメールアドレスとパスワードで。つなぐと、ことのねの記録がアカウントに保存されます。",
+    lead: "ことのあめと同じメールアドレスとパスワードで。つなぐと、ことのおとの記録がアカウントに保存されます。",
     email: "メールアドレス",
     password: "パスワード",
     submit: "つなぐ",

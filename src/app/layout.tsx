@@ -7,7 +7,7 @@ import "./globals.css";
 const plex = IBM_Plex_Sans({ subsets: ["latin", "latin-ext"], weight: ["400", "500", "600"], variable: "--font-plex" });
 const plexJp = IBM_Plex_Sans_JP({ weight: ["400", "500", "600"], variable: "--font-plex-jp", preload: false });
 const notoSc = Noto_Sans_SC({ weight: ["400", "500"], variable: "--font-noto-sc", preload: false });
-// Only the wordmark ことのね uses it.
+// Only the wordmark ことのおと uses it.
 const shippori = Shippori_Mincho({ weight: ["700"], variable: "--font-shippori", preload: false });
 
 export const metadata: Metadata = {

@@ -25,7 +25,7 @@ export async function record(onLevel?: (level: number) => void): Promise<Recordi
   try {
     await ctx.audioWorklet.addModule("/worklets/recorder.js");
     const input = ctx.createMediaStreamSource(stream);
-    const node = new AudioWorkletNode(ctx, "kotonone-recorder");
+    const node = new AudioWorkletNode(ctx, "kotonooto-recorder");
     const chunks: Float32Array[] = [];
     const frameLength = Math.round((ctx.sampleRate * FRAME_MS) / 1000);
 

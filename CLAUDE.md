@@ -1,6 +1,6 @@
 @AGENTS.md
 
-# ことのね（仮）
+# ことのおと
 
 Read [CONCEPT.md](CONCEPT.md) before adding anything. A feature that does not fit the rain
 (聞き比べる → 聞き分ける → 文の中で → 言ってみる → また出会う) does not get built. No scores, no accuracy shown,
@@ -16,7 +16,8 @@ no streaks, no badges, no forced review, no tone theory up front. The sister app
   (`supabase/migrations/`, RLS: only their own row), read and written from the browser as the learner with the anon key
   (`src/lib/sync.ts`). The two copies are merged, never overwritten (`mergeStates`): on the first rain and on 自分, and a
   moment after every save (merged again with what another device may have written). No server code touches it and the
-  service-role key is not used at run time. Everything of ことのね's in that project is prefixed `kn_`; never touch
+  service-role key is not used at run time. Everything of ことのおと's in that project is prefixed `kn_` (from its first name,
+  ことのね, as are the keys it saves on the device, `kotonone:*`: renaming them would lose records already kept); never touch
   ことのあめ's `pl_` tables or the old app's (a trigger on `auth.users` writes the old app's rows: do not create test
   users there). Making an account and resetting a password happen in ことのあめ (`NEXT_PUBLIC_KOTONOAME_URL`).
   The data the app reads is static JSON in `public/data`, built from `data/` by scripts.

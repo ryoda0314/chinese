@@ -5,7 +5,7 @@ import styles from "./Logo.module.css";
 
 const ICON_PX = { sm: 28, md: 34, lg: 72 } as const;
 
-/** The app icon and ことのね in mincho. `lg` stacks them, for the first screen. */
+/** The app icon and ことのおと in mincho. `lg` stacks them, for the first screen. */
 export function Logo({ size = "md", href = "/" }: { size?: keyof typeof ICON_PX; href?: string | null }) {
   const px = ICON_PX[size];
   const content = (

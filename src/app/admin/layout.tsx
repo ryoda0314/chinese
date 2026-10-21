@@ -12,7 +12,7 @@ export default function AdminLayout({ children }: LayoutProps<"/admin">) {
     <div className={styles.shell}>
       <header className={styles.header}>
         <p className={styles.title}>
-          <span className="wordmark-kana">ことのね</span> 管理
+          <span className="wordmark-kana">ことのおと</span> 管理
         </p>
         <nav className={styles.nav}>
           <Link href="/admin">概要</Link>

@@ -102,16 +102,16 @@ export type Job = {
 };
 
 // Kept on globalThis so a reload of this module in development does not lose a running job.
-const holder = globalThis as unknown as { __kotononeJob?: Job };
+const holder = globalThis as unknown as { __kotonootoJob?: Job };
 const LOG_LINES = 400;
 
-export const currentJob = (): Job | null => holder.__kotononeJob ?? null;
+export const currentJob = (): Job | null => holder.__kotonootoJob ?? null;
 
 /** Starts a job unless one is running; its steps run one after another, stopping at the first that fails. */
 export function startJob(kind: JobKind): boolean {
-  if (holder.__kotononeJob?.status === "running") return false;
+  if (holder.__kotonootoJob?.status === "running") return false;
   const job: Job = { kind, status: "running", step: "", startedAt: Date.now(), log: [] };
-  holder.__kotononeJob = job;
+  holder.__kotonootoJob = job;
   const say = (text: string) => {
     for (const line of text.split(/\r?\n/))
       if (line.trim() && !/credentials will take precedence/.test(line)) job.log.push(line);

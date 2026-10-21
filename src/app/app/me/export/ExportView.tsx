@@ -44,7 +44,7 @@ export function ExportView() {
     const url = URL.createObjectURL(new Blob([text], { type: "text/markdown;charset=utf-8" }));
     const a = document.createElement("a");
     a.href = url;
-    a.download = `kotonone-${new Date().toISOString().slice(0, 10)}.md`;
+    a.download = `kotonooto-${new Date().toISOString().slice(0, 10)}.md`;
     a.click();
     URL.revokeObjectURL(url);
   }

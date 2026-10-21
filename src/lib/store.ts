@@ -3,6 +3,7 @@
 // ことのあめ account, src/lib/sync.ts listens to every save and keeps the account's copy in step.
 import { emptyState, type State } from "./rain-core.ts";
 
+// The app's first name (ことのね), kept: a new key would lose the records already on devices.
 const KEY = "kotonone:v1";
 
 export function loadState(): State {

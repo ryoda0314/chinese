@@ -21,7 +21,7 @@ test("the record reads as one text: a request first, then what was done", () => 
   s = { ...s, log: logSaid(s.log, { at: now + 1, word: "xue2", partner: "xue3", family: "t23", line: [3, 4], nearer: "partner" }) };
   s = { ...s, log: setHeard(s.log, now + 1, "大雪") };
   const text = buildExport(s, new Map([["t23", t23]]), now);
-  assert.match(text, /^# ことのね 学習の記録（10月20日）/);
+  assert.match(text, /^# ことのおと 学習の記録（10月20日）/);
   assert.match(text, /教えてください。/);
   assert.match(text, /浴びた雨: 1回/);
   assert.match(text, /### 2声と3声（雨 1回）/);
