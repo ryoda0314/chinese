@@ -94,6 +94,9 @@ no streaks, no badges, no forced review, no tone theory up front. The sister app
   origins in Google Cloud (Google refuses the button otherwise). Accounts made with Google only set a password in
   ことのあめ (パスワードを忘れた) to sign in here with email. 自分 shows the account, ログアウト, and 記録を消す (the
   account's copy too when signed in).
+  ことのあめでつなぐ (`src/lib/connect.ts`): off to ことのあめ's `/connect` (log in or sign up there), back to `/login`
+  with a one-time token in the fragment, spent with `verifyOtp` (`signInWithKotonoame`) only when the random state kept
+  on this device before leaving comes back with it (a link carrying someone else's token cannot sign the learner in).
 - `src/components/player.ts`: Web Audio, decoded ahead, one sound at a time by generation number. Every play wakes a
   held context (suspended, or iOS's interrupted) while still inside the tap; a clip whose context never runs gives up
   after its length + 1.5 s; after the microphone the next sound gets a new context (`holdForMicrophone`, called by the

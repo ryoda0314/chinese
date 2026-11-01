@@ -121,6 +121,16 @@ export async function signInWithGoogle(token: string, nonce: string): Promise<bo
   return true;
 }
 
+/** With the one-time token ことのあめ sent back after つなぐ (connect.ts); the record is merged in at once. */
+export async function signInWithKotonoame(tokenHash: string): Promise<boolean> {
+  const sb = supabase();
+  if (!sb) return false;
+  const { error } = await sb.auth.verifyOtp({ token_hash: tokenHash, type: "magiclink" });
+  if (error) return false;
+  await syncRecord();
+  return true;
+}
+
 /** Stops keeping the record in the account; the device keeps its copy. */
 export async function signOut(): Promise<void> {
   await flush();

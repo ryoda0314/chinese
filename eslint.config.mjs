@@ -14,6 +14,8 @@ const eslintConfig = defineConfig([
     "next-env.d.ts",
     // Generation scratch.
     "scripts/work/**",
+    // The promotional film: its own Remotion project (promo/package.json).
+    "promo/**",
   ]),
 ]);
 
