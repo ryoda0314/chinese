@@ -80,7 +80,7 @@ no streaks, no badges, no forced review, no tone theory up front. The sister app
   違いごと → `/app/me/d/[id]` (how it is made, the days it fell, its pairs as met: still owed, mixed before, never
   mixed, and the not-yet-met folded away), 言ってみた → `/app/me/w/[id]` (the first line and the latest over the model
   and the partner, every attempt, and SayCard to say it again). `/app/me/export` 学習の記録, `/app/me/settings`
-  記録とアカウント (account, what is kept, forget the lines, clear the record). No scores or rates anywhere: counts of
+  記録とアカウント (account, what is kept, forget the lines, clear the record, 使われ方の数を送る). No scores or rates anywhere: counts of
   times met and mixed up are the learner's own history.
 - `/admin` (the maker's side, `src/app/admin/`, `src/lib/admin.ts`): only under `npm run dev` (`assertDev`; 404 in a
   build), because the content is files in this repository and the raw takes are on this machine. 概要 (counts, what
@@ -97,6 +97,14 @@ no streaks, no badges, no forced review, no tone theory up front. The sister app
   ことのあめでつなぐ (`src/lib/connect.ts`): off to ことのあめ's `/connect` (log in or sign up there), back to `/login`
   with a one-time token in the fragment, spent with `verifyOtp` (`signInWithKotonoame`) only when the random state kept
   on this device before leaving comes back with it (a link carrying someone else's token cannot sign the learner in).
+- Usage counts, as ことのね's (`src/lib/usage.ts`): how many devices use the app, for ことのあめ's admin (姉妹アプリ).
+  `countUsage` sends only the app (`kotonooto`), a random number made on this device (`kotonone:device`), the kind and
+  whether it was opened from the home screen, to `pl_app_ping` (`../polylinga/supabase/migrations/20261103000000_app_usage.sql`)
+  by plain `fetch` with the anon key, never through `sync.ts`'s client (no session, account, record or voice), and
+  silently. `open` once per page load when the app shell mounts (`src/app/app/CountOpen.tsx`; the static intro `/` is
+  not counted), `learn` when a rain is heard to its end (Tell's end in `Rain.tsx`, where `finishRain` records it),
+  `say` when an attempt's line is drawn and kept (`SayCard` in `Say.tsx`, also on `/app/me/w/[id]`). Only in a build at
+  `NEXT_PUBLIC_SITE_URL` (`countsHere`, tested); switched off on 記録とアカウント (`kotonone:sendUsage` = `"0"`).
 - `src/components/player.ts`: Web Audio, decoded ahead, one sound at a time by generation number. Every play wakes a
   held context (suspended, or iOS's interrupted) while still inside the tap; a clip whose context never runs gives up
   after its length + 1.5 s; after the microphone the next sound gets a new context (`holdForMicrophone`, called by the

@@ -17,6 +17,7 @@ import {
 } from "@/lib/rain-core";
 import { saveState } from "@/lib/store";
 import { syncRecord } from "@/lib/sync";
+import { countUsage } from "@/lib/usage";
 import { Compare } from "./Compare";
 import { Steps } from "./Steps";
 import { Reveal } from "./Reveal";
@@ -141,6 +142,8 @@ export function Rain() {
             const done = finishRain(before, family.id, now);
             const entry = { at: now, family: family.id, pairs: keys, missed: missedKeys };
             update({ ...done.state, log: logRain(done.state.log, entry) });
+            // The rain heard to its end, as the record now has it.
+            countUsage("learn");
             setSplit(done.split);
             setStep("reveal");
           }}

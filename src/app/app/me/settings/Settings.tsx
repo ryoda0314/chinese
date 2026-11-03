@@ -1,21 +1,38 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Icon } from "@/components/Icon";
 import { ja } from "@/lib/i18n/ja";
 import { forgetSaid } from "@/lib/log-core";
 import { loadState } from "@/lib/store";
 import { resetRecord, signOut } from "@/lib/sync";
+import { SEND_USAGE, sendsUsage } from "@/lib/usage";
 import { useRecord } from "../useRecord";
 import styles from "../me.module.css";
 
 const t = ja.me.settings;
 
-/** 記録とアカウント: where the record is kept, what is in it, and letting go of it. */
+/** 記録とアカウント: where the record is kept, what is in it, and letting go of it; and the counts that are sent. */
 export function Settings() {
   const { state, setState, me, setMe, update } = useRecord();
   const [done, setDone] = useState(false);
+  const [sendUsage, setSendUsage] = useState(true);
+
+  useEffect(() => {
+    // As kept on this device, once the page is there.
+    const first = window.setTimeout(() => setSendUsage(sendsUsage()), 0);
+    return () => window.clearTimeout(first);
+  }, []);
+
+  const chooseSendUsage = (on: boolean) => {
+    setSendUsage(on);
+    try {
+      localStorage.setItem(SEND_USAGE, on ? "1" : "0");
+    } catch {
+      // not remembered this time
+    }
+  };
 
   const back = (
     <Link href="/app/me" className={styles.back}>
@@ -98,6 +115,15 @@ export function Settings() {
             {t.done}
           </p>
         ) : null}
+      </section>
+
+      <section className={styles.box}>
+        <h2 className={styles.boxTitle}>{t.usage}</h2>
+        <label className={styles.toggle}>
+          <input type="checkbox" checked={sendUsage} onChange={(e) => chooseSendUsage(e.target.checked)} />
+          {t.sendUsage}
+        </label>
+        <p className={styles.note}>{t.sendUsageNote}</p>
       </section>
     </div>
   );

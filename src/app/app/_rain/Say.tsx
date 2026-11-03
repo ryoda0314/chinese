@@ -22,6 +22,7 @@ import type { State } from "@/lib/rain-core";
 import type { FamilyId } from "@/lib/i18n/ja";
 import { logSaid, setHeard, type SaidLog, type Verdict } from "@/lib/log-core";
 import { lineOf } from "@/lib/tone";
+import { countUsage } from "@/lib/usage";
 import { frontness } from "@/lib/vowel";
 import { WordFace } from "./WordFace";
 import styles from "./rain.module.css";
@@ -179,6 +180,8 @@ export function SayCard({
       ...(vowel !== undefined ? { vowel } : {}),
     };
     update({ ...s, voice: estimates, log: logSaid(s.log, said) });
+    // One attempt taken in (its line drawn and kept); the recognizer's answer, if any, is the same attempt.
+    countUsage("say");
     setAttempt({
       kind: "done",
       line,
