@@ -98,13 +98,14 @@ no streaks, no badges, no forced review, no tone theory up front. The sister app
   with a one-time token in the fragment, spent with `verifyOtp` (`signInWithKotonoame`) only when the random state kept
   on this device before leaving comes back with it (a link carrying someone else's token cannot sign the learner in).
 - Usage counts, as ことのね's (`src/lib/usage.ts`): how many devices use the app, for ことのあめ's admin (姉妹アプリ).
-  `countUsage` sends only the app (`kotonooto`), a random number made on this device (`kotonone:device`), the kind and
-  whether it was opened from the home screen, to `pl_app_ping` (`../polylinga/supabase/migrations/20261103000000_app_usage.sql`)
-  by plain `fetch` with the anon key, never through `sync.ts`'s client (no session, account, record or voice), and
-  silently. `open` once per page load when the app shell mounts (`src/app/app/CountOpen.tsx`; the static intro `/` is
+  `countUsage` sends only the app (`kotonooto`), a random number made on this device (`kotonone:device`), the kind,
+  whether it was opened from the home screen, whether an account is signed in (a yes or no from `account()`, the
+  session kept on the device; `sync.ts` imported lazily) and the device's kind (`platformOf`: ios, android, pc, other),
+  to `pl_app_ping` (`../polylinga/supabase/migrations/20261103000000_app_usage.sql`) by plain `fetch` with the anon
+  key, never through `sync.ts`'s client (no session, account id, email, record or voice), and silently. `open` once per page load when the app shell mounts (`src/app/app/CountOpen.tsx`; the static intro `/` is
   not counted), `learn` when a rain is heard to its end (Tell's end in `Rain.tsx`, where `finishRain` records it),
   `say` when an attempt's line is drawn and kept (`SayCard` in `Say.tsx`, also on `/app/me/w/[id]`). Only in a build at
-  `NEXT_PUBLIC_SITE_URL` (`countsHere`, tested); switched off on 記録とアカウント (`kotonone:sendUsage` = `"0"`).
+  `NEXT_PUBLIC_SITE_URL` (`countsHere` and `platformOf`, tested); switched off on 記録とアカウント (`kotonone:sendUsage` = `"0"`).
 - `src/components/player.ts`: Web Audio, decoded ahead, one sound at a time by generation number. Every play wakes a
   held context (suspended, or iOS's interrupted) while still inside the tap; a clip whose context never runs gives up
   after its length + 1.5 s; after the microphone the next sound gets a new context (`holdForMicrophone`, called by the
